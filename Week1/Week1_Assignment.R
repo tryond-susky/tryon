@@ -52,7 +52,8 @@ df <- data.frame ('King' = c('w','w','w','w','w','y','y','y','y','y','n','n','n'
 print (df)
 
 write.csv(df,"C:\\Users\\Tryon\\Desktop\\Test\\People.csv"row.Salmon = FALSE)
-
+setwd('c:/GitHub/tryon/data')
+getwd()
 # Generate summary statistics of your data frame and copy them as text into your script under a new section heading.
 
 summary(df)
