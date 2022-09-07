@@ -23,6 +23,8 @@ d
 e <- c(1.1,1.2,1.3,1.4,1.5,2.1,2.2,2.3,2.4,2.5,3.1,3.2,3.3,3.4,3.5)
 e
 
+f <- c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42)
+f
 
 # Bind the vectors into a single data frame, rename the columns, and make the character vector with unique values the row names.
 data <- cbind(a,b,c,d,e,f)
@@ -43,17 +45,18 @@ df[,-1]
 
 # Add 1 row with unique numeric values to the data frame.
 
-f <- c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42)
-f
+
 
 # Export the data frame as a .csv file
 
 df <- data.frame ('King' = c('w','w','w','w','w','y','y','y','y','y','n','n','n','n','n'),'Pink' = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15),'Chum' = c(11,11,11,11,11,5,5,5,5,5,20,20,20,20,20),'Coho' = c(1.1,1.2,1.3,1.4,1.5,2.1,2.2,2.3,2.4,2.5,3.1,3.2,3.3,3.4,3.5),'Sockeye' = c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42))
 print (df)
 
-write.csv(df,"C:\\Users\\Tryon\\Desktop\\Test\\People.csv"row.Salmon = FALSE)
-setwd('c:/GitHub/tryon/data')
+setwd('C:/Github/dtryon/Documents/GitHub/R4Eco_2022')
 getwd()
+
+write.csv(df, file = "Example.csv")
+
 # Generate summary statistics of your data frame and copy them as text into your script under a new section heading.
 
 summary(df)
