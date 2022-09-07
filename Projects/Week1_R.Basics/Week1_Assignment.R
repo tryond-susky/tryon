@@ -6,7 +6,7 @@
 # Create 3 numeric vectors and 2 character vectors that are each 15 values in length with the following structures:
 # One character vector with all unique values
 
-a <- c('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o')
+ a <- c('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o')
 a
 
 # One character vector with exactly 3 unique values
@@ -45,14 +45,14 @@ df[,-1]
 
 # Add 1 row with unique numeric values to the data frame.
 
-
+#see f written above
 
 # Export the data frame as a .csv file
 
 df <- data.frame ('King' = c('w','w','w','w','w','y','y','y','y','y','n','n','n','n','n'),'Pink' = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15),'Chum' = c(11,11,11,11,11,5,5,5,5,5,20,20,20,20,20),'Coho' = c(1.1,1.2,1.3,1.4,1.5,2.1,2.2,2.3,2.4,2.5,3.1,3.2,3.3,3.4,3.5),'Sockeye' = c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42))
 print (df)
 
-setwd('C:/Github/dtryon/Documents/GitHub/R4Eco_2022')
+write.csv(df, file="week 1 assignment.cvs")
 getwd()
 
 write.csv(df, file = "Example.csv")
