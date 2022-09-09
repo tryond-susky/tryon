@@ -1,5 +1,5 @@
 # Now it is time to create your own data frame using the tools we have learned this week.
-# First, resave this script as: your last name_Week1_Assignment
+# First, resave this script as: your last name_Week1_Assignment - Forgot to do this.
 # e.g. mine would be Wilson_Week1_Assignemnt
 
 
@@ -33,10 +33,10 @@ data
 df <- as.data.frame(data)
 df
 
-colnames(df) <- c('Salmon','King','Pink','Chum','Coho','Sockeye')
+colnames(df) <- c('Salmon','King','Pink','Chum','Coho','Sockeye') #very nice
 df
 
-row.names(df) <- df$salmon
+row.names(df) <- df$salmon # Salmon was capital - this didn't work. Double check that you have row names next time.
 df
 
 # Remove the character vector with unique values from the data frame.
@@ -49,17 +49,17 @@ df[,-1]
 
 # Export the data frame as a .csv file
 
-df <- data.frame ('King' = c('w','w','w','w','w','y','y','y','y','y','n','n','n','n','n'),'Pink' = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15),'Chum' = c(11,11,11,11,11,5,5,5,5,5,20,20,20,20,20),'Coho' = c(1.1,1.2,1.3,1.4,1.5,2.1,2.2,2.3,2.4,2.5,3.1,3.2,3.3,3.4,3.5),'Sockeye' = c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42))
+df <- data.frame ('King' = c('w','w','w','w','w','y','y','y','y','y','n','n','n','n','n'),'Pink' = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15),'Chum' = c(11,11,11,11,11,5,5,5,5,5,20,20,20,20,20),'Coho' = c(1.1,1.2,1.3,1.4,1.5,2.1,2.2,2.3,2.4,2.5,3.1,3.2,3.3,3.4,3.5),'Sockeye' = c(42,43,56,78,98,87,76,9,56,45,57,32,34,24,42))#what is this line for???
 print (df)
 
-write.csv(df, file="week 1 assignment.cvs")
+write.csv(df, file="week 1 assignment.cvs") # saved it as a "cvs" rather than a "csv". CVS is not a file format that's why it wouldn't open.
 getwd()
 
-write.csv(df, file = "Example.csv")
+write.csv(df, file = "Example.csv")#Extra code can be dangerous.
 
 # Generate summary statistics of your data frame and copy them as text into your script under a new section heading.
 
-summary(df)
+summary(df) #why are these all character values? The numbers should give you numeric summaries like the example script.
 
 #Summary ####
 #Salmon              King               Pink               Chum               Coho             Sockeye        
