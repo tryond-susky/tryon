@@ -45,7 +45,7 @@ df[,-1]
 
 # Add 1 row with unique numeric values to the data frame.
 
-#see f written above
+#see f written above #f is a column...not a row.
 
 # Export the data frame as a .csv file
 
