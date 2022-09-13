@@ -1,5 +1,6 @@
 # Let's start by creating a data frame to match the structure from your homework assignment last week: ####
 #The 5 vectors:
+ 
 unique.char <- c('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o')
 group.char <- c('x','x','x','x','y','y','y','z','z','z','z','z','z','z','z')
 uniqu.num <- c(0,1,1,2,3,5,8,13,21,34,55,89,144,233,377)
@@ -16,7 +17,7 @@ df$dec.num <- as.numeric(as.character(df$dec.num))
 # Create a row to add to the data frame:
 add.row <- data.frame("p","z",610,4,4.610)
 
-# Match the names of the columns:
+concatenating# Match the names of the columns:
 colnames(add.row) <- colnames(df)    
 
 # Bind rows:
