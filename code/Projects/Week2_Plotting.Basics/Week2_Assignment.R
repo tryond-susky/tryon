@@ -100,9 +100,4 @@ demo('colors')
 write.csv(df, file="week 2 assignment.csv") 
 getwd()
 
-write.csv(df, file = "Example.csv")#Extra code can be dangerous.
-
-write.csv(df1, file = "Example.csv")
-
-# Name plots as Lastname_barplot or Lastname_scatterplot. Save them to your "plots" folder.
 
