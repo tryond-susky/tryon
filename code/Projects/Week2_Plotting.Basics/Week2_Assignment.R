@@ -1,9 +1,9 @@
 # With the data frame you created last week you will:
 # Now it is time to create your own data frame using the tools we have learned this week.
 # First, resave this script as: your last name_Week1_Assignment - Forgot to do this.
-# e.g. mine would be Wilson_Week1_Assignemnt
+# e.g. mine would be Wilson_Week1_Assignemnt #Naming system...
 
-#The 6 vectors: sorry there is five salmon and i couldn't choose which one to delete so now i have 6 vectors
+#The 6 vectors: sorry there is five salmon and i couldn't choose which one to delete so now i have 6 vectors #fine...but you forgot masu and kokanee!
 
 salmon <- c('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o')
 sockeye <- c('w','w','w','w','w','y','y','y','y','y','n','n','n','n','n')
@@ -26,7 +26,7 @@ df
 row.names(df) <- df$Salmon
 df
 
-df[,-1]
+df[,-1] #this doesn't get rid of the column, just prints without the column. Doesn't really matter for this particular assignment, but will be an issue in the future.
 
 add.row <- data.frame('p',29, 'n', 16, 78, 4.1)
 
@@ -81,6 +81,11 @@ arrows(b.plot, df.mean$Mean-df.sd$StanDev,
 
 barplot(df.mean$Mean, names.arg = df.mean$Factor, ylim = c(0,100), xlab = "Time", ylab = "Length", main = "Pacific Salmon 2022 Run", col = "dodgerblue2")
 
+
+#Where is the code to export this as a pdf with specific dimensions? 
+#Exported plot is missing error bars
+#Did not set working directory
+
 ####Scatterplot
 # Create a scatter plot between two of your numeric columns.
 # Change the point shape and color to something NOT used in the example.
@@ -88,16 +93,16 @@ barplot(df.mean$Mean, names.arg = df.mean$Factor, ylim = c(0,100), xlab = "Time"
 # Export the plot as a JPEG by using the "Export" button in the plotting pane.
 plot(df1$Chum ~ df1$King)
 
-plot(df1$Chum ~ df1$King, xlab = "Time", ylab = "Length", main = "Pacific Salmon 2022 Run", pch = 8 , col = "dodgerblue2")
+plot(df1$Chum ~ df1$King, xlab = "Time", ylab = "Length", main = "Pacific Salmon 2022 Run", pch = 8 , col = "dodgerblue2") #Was supposed to be exported as a JPEG.
 
 ?pch
 demo('colors')
 
 
 # Upload both plots with the script used to create them to GitHub.
-# Follow the same file naming format as last week for the script.
+# Follow the same file naming format as last week for the script. #Didn't follow the naming format.
 
-write.csv(df, file="week 2 assignment.csv") 
+write.csv(df, file="week 2 assignment.csv") #Didn't need to do this.
 getwd()
 
 
