@@ -1,9 +1,11 @@
 # (1) Approximately how many hours ahead of Sunbury was the peak flow in Lewisburg during the 2011 flood? (2 pt)
   
-
+# About 9 hours, but around 7-11 hours
 
 # (2) Give one reason why information on the time between peak flow events up- and downstream could be valuable? (4 pts)
 
+#By understanding the peak flow times we can analysis what amount of water to expect in flooding events and what 
+#mitigation efforts are needed from the expected flow.
 
 # Package scavenger hunt! (12 pts each)
 
@@ -17,6 +19,25 @@
        
           # By manipulating these parameters you can see how it impacts the results.
           # This type of manipulation is one example of how theoretical ecology and modelling are used to predict patterns in nature.
+
+install.packages("learnPopGen")
+library(learnPopGen)
+
+install_github("USGS-R/dataRetrieval")
+
+library(dataRetrieval)
+
+?drift.selection
+
+drift.selection()
+p<-drift.selection(p0=0.01,Ne=100,w=c(1,0.9,0.8),ngen=200,nrep=5)
+print(p)
+plot(p)
+
+drift.selection()
+d<-drift.selection(p0=0.01,Ne=100,w=c(5,0.7,0.6),ngen=200,nrep=100, color=blues9)
+print(d)
+plot(d)
 
 
 

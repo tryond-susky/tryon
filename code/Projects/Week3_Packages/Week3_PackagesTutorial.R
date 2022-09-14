@@ -97,6 +97,7 @@ AndrewTable <- gvisTable(Andrew,options=list(width=800))
 AndrewVis <- gvisMerge(AndrewGeoMap, AndrewMap)
 plot(AndrewVis)
 
+
 # Go to the browser and click 'OK' in the popup dialog box.
   # You have just generated an interactive map of Hurricane Andrew's path!
   # Explore and notice you can click on points for more info. 
