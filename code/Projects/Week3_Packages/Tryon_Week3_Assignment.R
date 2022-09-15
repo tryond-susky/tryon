@@ -23,10 +23,6 @@
 install.packages("learnPopGen")
 library(learnPopGen)
 
-install_github("USGS-R/dataRetrieval")
-
-library(dataRetrieval)
-
 ?drift.selection
 
 drift.selection()
@@ -53,5 +49,11 @@ plot(d)
           # Diversity metrics are frequently used in community ecology for reasons ranging from a quick comparison between sites to understanding community stability.
           # Their calculation can be very tedious by hand - and very fast with a package designed for the operation.
 
+install.packages("diverse")
+library(diverse)
+balance(data=geese, category_row = TRUE)
+?balance
+
+balance(data=geese,category_row = FALSE)
 
 
