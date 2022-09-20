@@ -48,68 +48,58 @@ plot(d)
           # Their calculation can be very tedious by hand - and very fast with a package designed for the operation.
 
 
-install.packages("simboot")
-library(simboot)
-rep.num <- c(1,2,3,1,2,3,1,2,3,5,2,3,4,0,5)
-uniqu.num <- c(0,1,1,2,3,5,8,13,21,34,55,89,144,233,377)
+install.packages("vegan")
+library(vegan)
+
+op <- par(mar=c(4,4,1,1)+0.2, mfrow=c(2,2))
+data(BCI)
+
+dis <- vegdist(BCI)
+tr <- spantree(dis)
+pl <- ordiplot(cmdscale(dis), main="cmdscale")
+lines(tr, pl, col="red")
+ord <- isomap(dis, k=3)
+ord
+pl <- plot(ord, main="isomap k=3")
+lines(tr, pl, col="red")
+pl <- plot(isomap(dis, k=5), main="isomap k=5")
+lines(tr, pl, col="red")
+pl <- plot(isomap(dis, epsilon=0.45), main="isomap epsilon=0.45")
+lines(tr, pl, col="red")
+par(op)
+## colour points and web by the dominant species
+dom <- apply(BCI, 1, which.max)
+## need nine colours, but default palette  has only eight
+op <- palette(c(palette("default"), "sienna"))
+plot(ord, pch = 16, col = dom, n.col = dom) 
+palette(op)
 
 
 
-sbdiv(rep.num, uniqu.num, theta = c("Shannon", "Simpson"),
-      type = c("Dunnett", "Tukey", "Sequen", "AVE",
-               "Changepoint", "Williams", "Marcus",
-               "McDermott", "UmbrellaWilliams", "GrandMean"),
-      cmat = NULL, method = c("WYht", "tsht", "rpht", "asht"), conf.level =
-        0.95, alternative = c("two.sided", "less", "greater"), R = 2000, base =
-        1)
-?sbdiv
-## For plots of the datasets see the help files for the data sets.
 
-## First dataset
-data(predatGM)
+?par
+op <- par(mar=c(12,14,17.3)row=c(2,2))
+data(BCI)
 
-## structure of data
-str(predatGM)
-
-## remove block variable
-datspec_1 <- predatGM[, -1]
-str(datspec_1)
-
-## Order of factorial variable
-datspec_1$Variety
-
-## argument base = 1 uses GM as control group. Not directly executable
-## due to intensive computing time
-# sbdiv(X = datspec_1[, 2:length(datspec_1)], f = datspec_1[, 1], theta =
-# "Shannon", type = "Dunnett", method = "WYht", conf.level = 0.95,
-# alternative = "two.sided", R = 2000, base = 1)
-
-## Directly executable but senseless value for boot steps R
-sbdiv(X = datspec_1[, 2:length(datspec_1)], f = datspec_1[, 1], theta =
-        "Shannon", type = "Dunnett", method = "WYht", conf.level = 0.95,
-      alternative = "two.sided", R = 100, base = 1)
+dis <- vegdist(BCI)
+tr <- spantree(dis)
+pl <- ordiplot(cmdscale(dis), main="cmdscale")
+lines(tr, pl, col="red")
+ord <- isomap(dis, k=3)
+ord
+pl <- plot(ord, main="isomap k=3")
+lines(tr, pl, col="red")
+pl <- plot(isomap(dis, k=5), main="isomap k=5")
+lines(tr, pl, col="red")
+pl <- plot(isomap(dis, epsilon=0.45), main="isomap epsilon=0.45")
+lines(tr, pl, col="red")
+par(op)
+## colour points and web by the dominant species
+dom <- apply(BCI, 1, which.max)
+## need nine colours, but default palette  has only eight
+op <- palette(c(palette("default"), "sienna"))
+plot(ord, pch = 16, col = dom, n.col = dom) 
+palette(op)
 
 
-## Second dataset
-data(saproDipGM)
 
-## structure
-str(saproDipGM)
-
-## remove block variable
-datspec_2 <- saproDipGM[, -1]
-str(datspec_2)
-
-## Order of factor variable
-datspec_2$Variety
-
-## argument base = 2 uses Ins as control group. Not directly executable
-## due to intensive computing time
-# sbdiv(X = datspec_2[, 2:length(datspec_2)], f = datspec_2[, 1], theta =
-# "Shannon", type = "Dunnett", method = "rpht", conf.level = 0.95,
-# alternative = "two.sided", R = 2000, base = 2)
-
-## Directly executable but senseless value for boot steps R
-sbdiv(X = datspec_2[, 2:length(datspec_2)], f = datspec_2[, 1], theta =
-        "Shannon", type = "Dunnett", method = "rpht", conf.level = 0.95,
-      alternative = "two.sided", R = 100, base = 2)
