@@ -53,7 +53,6 @@ library(vegan)
 
 op <- par(mar=c(4,4,1,1)+0.2, mfrow=c(2,2))
 data(BCI)
-
 dis <- vegdist(BCI)
 tr <- spantree(dis)
 pl <- ordiplot(cmdscale(dis), main="cmdscale")
@@ -74,25 +73,20 @@ op <- palette(c(palette("default"), "sienna"))
 plot(ord, pch = 16, col = dom, n.col = dom) 
 palette(op)
 
-
-
-
-?par
-op <- par(mar=c(12,14,17.3)row=c(2,2))
+op <- par(mar=c(14,45,71,31)+0.5, mfrow=c(8,2))
 data(BCI)
-
 dis <- vegdist(BCI)
 tr <- spantree(dis)
 pl <- ordiplot(cmdscale(dis), main="cmdscale")
 lines(tr, pl, col="red")
-ord <- isomap(dis, k=3)
+ord <- isomap(dis, k=6)
 ord
-pl <- plot(ord, main="isomap k=3")
+pl <- plot(ord, main="isomap k=6")
 lines(tr, pl, col="red")
-pl <- plot(isomap(dis, k=5), main="isomap k=5")
-lines(tr, pl, col="red")
+pl <- plot(isomap(dis, k=6), main="isomap k=6")
+lines(tr, pl, col="blues9")
 pl <- plot(isomap(dis, epsilon=0.45), main="isomap epsilon=0.45")
-lines(tr, pl, col="red")
+lines(tr, pl, col="blues9")
 par(op)
 ## colour points and web by the dominant species
 dom <- apply(BCI, 1, which.max)
@@ -100,6 +94,5 @@ dom <- apply(BCI, 1, which.max)
 op <- palette(c(palette("default"), "sienna"))
 plot(ord, pch = 16, col = dom, n.col = dom) 
 palette(op)
-
 
 
