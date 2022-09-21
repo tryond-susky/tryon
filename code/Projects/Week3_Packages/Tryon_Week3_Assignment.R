@@ -53,7 +53,7 @@ library(vegan)
 
 op <- par(mar=c(4,4,1,1)+0.2, mfrow=c(2,2))
 data(BCI)
-dis <- vegdist(BCI)
+dis <- vegdist(BCI) #This example is a really useful/interesting group of multivariate statistics that we will talk about later in the semester...but it's not Simpson diversity!
 tr <- spantree(dis)
 pl <- ordiplot(cmdscale(dis), main="cmdscale")
 lines(tr, pl, col="red")
