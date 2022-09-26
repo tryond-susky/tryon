@@ -49,7 +49,9 @@ library(vegan)
   #The following will create a metric for each site (column), then take the mean of these values for an overall estimate:
 gene.simp <- diversity(monpop$tab, index="simpson")
 mean(gene.simp, na.rm = TRUE)
-    # Mean Simpson's diversity for the data is 0.92
+    
+# Mean Simpson's diversity for the data is 0.92
+
 gene.shan <- diversity(monpop$tab, index="shannon")
 mean(gene.shan, na.rm = TRUE)
     # Mean Shannon diversity is 2.56
