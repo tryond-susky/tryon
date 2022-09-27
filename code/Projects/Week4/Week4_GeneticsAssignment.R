@@ -1,3 +1,70 @@
+#Suprise Virtual Trip
+install.packages("leaflet")
+library(leaflet)
+
+pts <- data.frame(Latitude = 57.4270, Longitude = 152.3531)
+
+file <- "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Narrow_Cape_Formation_by_Nick_Longrich.jpg/640px-Narrow_Cape_Formation_by_Nick_Longrich.jpg"
+
+?leaflet
+leaflet() %>%
+  addTiles %>%
+  addCircleMarkers(data = pts, lng =~Longitude, lat = ~Latitude,
+                   popup = paste0("<img src = ", file, ">"))
+leaflet() %>% addPopups(57.4270, 152.3531, "Here is <b>Fossil Beach,Kodiak Alaska</b>, ISU")
+lng <- function(n = 10) rnorm(n, -93.65, .01)
+lat <- function(n = 10) rnorm(n, 42.0285, .01)
+
+
+#Virtual Vacation
+
+library(leaflet)
+m <- leaflet() %>% addTiles()
+m  
+
+# popup
+m %>% addPopups(57.4270, 152.3531, "Here is the <b>Department of Statistics</b>, ISU")
+
+
+# use automatic bounds derived from lng/lat data
+m <- m %>% clearBounds()
+
+# popup
+m %>% addPopups(rand_lng(), rand_lat(), "Random popups")
+
+# marker
+m %>% addMarkers(rand_lng(), rand_lat())
+m %>% addMarkers(
+  rand_lng(), rand_lat(), popup = paste("A random letter", sample(LETTERS, 10))
+)
+
+Rlogo <- file.path(R.home("doc"), "html", "logo.jpg")
+m %>% addMarkers(
+  174.7690922, -36.8523071, icon = list(
+    iconUrl = Rlogo, iconSize = c(100, 76)
+  ), popup = "R was born here!"
+)
+
+m %>% addMarkers(rnorm(30, 175), rnorm(30, -37), icon = list(
+  iconUrl = Rlogo, iconSize = c(25, 19)
+))
+
+# circle (units in metres)
+m %>% addCircles(rand_lng(50), rand_lat(50), radius = runif(50, 50, 150))
+
+# circle marker (units in pixels)
+m %>% addCircleMarkers(rand_lng(50), rand_lat(50), color = "#ff0000")
+m %>% addCircleMarkers(rand_lng(100), rand_lat(100), radius = runif(100, 5, 15))
+
+
+
+
+
+
+
+
+
+
 # Look at the plot and model results for our Dryad data in the tutorial. Part 1: Without knowing which points represent which groups, 
   # give one explanation for why these data might be difficult to draw spatial inferences about genes.(3 points)
 # The plot net1 is more of a flowchart and shows how data are correlated among eachother but can't necessarily used analyze spatial inferences.
@@ -10,6 +77,7 @@
 install.packages("stability")
 library("stability")
 data(ge_data)
+
 
 # Create two linear models for Yield Response: one related to the Environment and one to the Genotype. (2 points each)
   # 'Yield Response' in this dataset is a measure of phenotype expression.
