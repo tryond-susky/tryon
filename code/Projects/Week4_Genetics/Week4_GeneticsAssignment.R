@@ -59,10 +59,11 @@ m %>% addCircleMarkers(rand_lng(100), rand_lat(100), radius = runif(100, 5, 15))
 # Look at the plot and model results for our Dryad data in the tutorial. Part 1: Without knowing which points represent which groups, 
   # give one explanation for why these data might be difficult to draw spatial inferences about genes.(3 points)
 # The plot net1 is more of a flowchart and shows how data are correlated among eachother but can't necessarily used analyze spatial inferences.
+  #This has nothing to do with the Dryad dataset in the tutorial. There is nothing spatial about the first dataset.
 
   # Part 2: Despite the drawbacks, give the result or interpretation that you feel most confident in (3 points), and EXPLAIN WHY (4 points).
 # From this plot we can however compare data relatively.The plot we can interpret that seq24-seq16 and seq5-seq16 are equally as far from one another and can be compared to points that are closer. 
-
+  #This is the wrong dataset...
 # For your scripting assignment we will use the "ge_data" data frame found in the "stability" package.
   # Install the "stability" package, load it into your R environment, and use the data() function to load the "ge_data". (2 points)
 install.packages("stability")
@@ -92,7 +93,9 @@ summary(Thomas)
 #Yield~Environment 0.4359
 #Yield~Genotype 0.1183
 #The r-squared value is much closer to 1, which signifies a perfect line of best fit,  but is not overfit to achieve this value. The yield~environment is the better fit to explain the yield response as it has the r-squared value closer to 1.
-
+  #It's doubly better because higher R squared AND fewer predictors, i.e. the genotype model is definitely over-fitted.
 
 # Which environment would be your very WORST choice for generating a strong yield response? (2 points)
 #The Pr for EnvSargodha is signigantly higher than the other Pr values and thus has the largest amount of variation which would result in a weak yield response.
+  #not "significantly"...remember this is also a stats class!
+
