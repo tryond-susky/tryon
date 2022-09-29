@@ -1,10 +1,11 @@
 #Load your libraries - install these if you do not have them:
+
 library(fitdistrplus)
 library(logspline)
 
 
 #Read in the CSV for this week:
-setwd("C:/GitHub/R4Eco_2022/Week5")
+setwd("C:/GitHub/tryon/code/Projects/Week5")
 data <- read.csv("Ecoli_evolution.csv", header=TRUE)
 
 
