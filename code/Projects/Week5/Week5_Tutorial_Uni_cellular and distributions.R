@@ -1,5 +1,6 @@
 #Load your libraries - install these if you do not have them:
-
+install.packages("fitdistrplus")
+install.packages("logspline")
 library(fitdistrplus)
 library(logspline)
 
