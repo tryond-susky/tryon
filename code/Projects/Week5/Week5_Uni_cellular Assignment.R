@@ -72,5 +72,5 @@ hist(data$RepTime.sec, xlab = "Repetition Time", main = "Cell Replication")
 
 
 
-
+#I gotta say Grrrrrr isn't grrrr without r, this assignment finally made sense!
 
