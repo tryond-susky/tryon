@@ -73,3 +73,7 @@ hist(data$RepTime.sec, xlab = "Repetition Time", main = "Cell Replication")
 
 #I gotta say Grrrrrr isn't grrrr without r, this assignment finally made sense!
 
+library(png)
+filename <- ("Pull Shark.png")
+img <- readPNG("Pull Shark.png")
+grid::grid.raster(img)
