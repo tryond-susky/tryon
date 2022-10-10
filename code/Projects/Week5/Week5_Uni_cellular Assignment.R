@@ -9,6 +9,7 @@
 
 # Based on these observations of your strain distributions, why did the authors use a Kruskal-Wallis test rather than ANOVA to compare the strains? (2 pts)
 #The authors used a Kruskal-Wallis test since ANOVAs are used to test the equality of means of values whereas the Kruskal-Wallis looks at the comparsion of mean ranks. This test works best since the data is not normal and thus does not have normal means. 
+#Mean vs median (your answer is right, just longer than it need to be).
 
 # Use the fitdist() and gofstat() functions to compare the poisson, negative binomial, and logistic distributions for:
   # (1) - The number of cells of progeny (data$Num.Cells.Progeny)
@@ -77,3 +78,5 @@ library(png)
 filename <- ("Pull Shark.png")
 img <- readPNG("Pull Shark.png")
 grid::grid.raster(img)
+
+#turning into a shaRk, are we?
