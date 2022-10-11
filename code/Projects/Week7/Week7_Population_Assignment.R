@@ -3,7 +3,7 @@
 # Read the "Plankton_move_average" CSV in from GitHub. 
 # These are data from the Great Lakes Environmental Research Laboratory plankton sampling.
 
-#Used the following lines to format the date and remove NAs from the dataset:
+#Used the following lines to format the date and remove NAs from the dataset: ##plot the populations of three species
 data$Date <- as.Date(data$Date, origin = "0001-01-01") # Setting values to "day zero".
 data <- na.omit(data)
 

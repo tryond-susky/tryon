@@ -28,6 +28,8 @@ all_mods <- all_growthmodels(
   value ~ grow_logistic(time, parms) | strain + conc,
   data = bactgrowth, p = p, lower = lower, ncores = 2)
 plot(all_mods)
+## this plots the density vs time for each species (title)
+
   #Notice that you can scan through the plots and generate them all at once? 
   #This has to do with the data structure we will get to in the next step.
 
@@ -46,7 +48,7 @@ subset_obs <- slot(fits_slot$`R:250`, "obs")
   # This will give you the same result as the slot() function from above.
 R250_obs <- all_mods@fits$`R:250`@obs
 
-# You can confirm if they match through a quick logical:
+# You can confirm if they match through a quick logical: ## logical is by using te
 table(subset_obs==R250_obs)
   # Check the output - all 124 values are "TRUE" so these two operations are performing the same function.
 
@@ -100,6 +102,7 @@ LotVmod <- function (Time, State, Pars) {
     dx = x*(alpha - beta*y)
     dy = -y*(gamma - delta*x)
     return(list(c(dx, dy)))
+    ## this is the funky equation with the positive feedback loop
   })
 }
 
@@ -114,7 +117,7 @@ out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 
-# Increase in alpha:
+# Increase in alpha: total numbers increases and happens faster
 Pars <- c(alpha = 4, beta = 0.5, gamma = .2, delta = .6)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
@@ -122,7 +125,7 @@ matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 # Population fluctuations speed up.
 
-#Decrease in alpha:
+#Decrease in alpha:total numbers decreases and happens slower
 Pars <- c(alpha = 1, beta = 0.5, gamma = .2, delta = .6)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
@@ -130,15 +133,15 @@ matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 #Populations fluctuations slow
 
-#Increase in beta:
+#Increase in beta:can only get so large before it taxes the system and causes everything to die off prey then predators
 Pars <- c(alpha = 2, beta = 0.7, gamma = .2, delta = .6)
-out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
+out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
   # This was too much of an increase - killed the cute bunnies off.
 
-#Decrease in beta:
+#Decrease in beta:foxes aren't predating on many bunnies
 Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .6)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
@@ -146,7 +149,7 @@ matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
   # Prey increase without decrease in predator population size
 
-#Increase in gamma:
+#Increase in gamma:keeps foxes in check
 Pars <- c(alpha = 2, beta = 0.5, gamma = .3, delta = .6)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
@@ -154,15 +157,16 @@ matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 # Population fluctuations speed up, and less predictable
 
-#Decrease in gamma:
+#Decrease in gamma:foxes all die off
 Pars <- c(alpha = 2, beta = 0.5, gamma = .1, delta = .6)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
+
 
 matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 # Population crashed. Why? Because the maximum predation for K has decreased while actual predation has not.
 
-#Increase in delta:
+#Increase in delta:predators get too much poer and just eat everything
 Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .7)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
@@ -170,7 +174,7 @@ matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
 legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
 # Population crash. Why? Think in terms of an opposing effect of gamma
 
-# Decrease in delta:
+# Decrease in delta:higher peaks in predator density
 Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .4)
 out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
 
