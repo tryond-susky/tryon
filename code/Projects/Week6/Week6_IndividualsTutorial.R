@@ -2,7 +2,8 @@
   # Uchida et al. 2019 Decreased vigilance or habituation to humans? Mechanisms on increased boldness in urban animals. Behavioural Ecology.
   # The paper is available as a PDF in this week's folder on Canvas.
 
-setwd("C:/GitHub/R4Eco_2022/Week6")
+setwd("C:/GitHub/tryon/code/Projects/Week6")
+
 
 df <- read.csv("Uchidaetal_2019_Data.csv")
 # Take a look and see what our data look like this week:

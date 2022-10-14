@@ -1,13 +1,40 @@
 # Read in the "Toscano_Griffen_Data.csv" data from GitHub and load the three packages we used in the tutorial this week.
 # The paper these data came from is uploaded to Canvas as "Toscano&Griffen_2014_JAE..."
 
+library(MASS)
+library(MuMIn)
+library(mgcv)
+
+setwd("C:/GitHub/tryon/code/Projects/Week6")
+
+df <- read.csv("Toscano_Griffen_Data.csv")
+
+summary(df)
 
 # First create models with the same (y) and method (GLMM) as the published paper, using the GLMM function from the tutorial. 
   #Create two different models using the same 3 predictor (x) variables from the dataset. (4 points each) 
     # In one model only include additive effects.
-    # In the other model include one interactive effect.
-    # Use a binomial distribution and block as a random effect in both models to match the paper's analyses. Remember ?family to find distribution names.
+# In the other model include one interactive effect.
+# Use a binomial distribution and block as a random effect in both models to match the paper's analyses. Remember ?family to find distribution names.
 
+#happy model
+glmm.mod <- glmmPQL(eaten~activity.level, family = gaussian, random = ~ 1 | block, data = df)
+summary(glmm.mod)
+r.squaredGLMM(glmm.mod)
+plot(glmm.mod)
+
+#second happy model
+glmm.mod2 <- glmmPQL(eaten~activity.level + toadfish.cue.treatment, family = gaussian, random = ~ 1 | block, data = df)
+summary(glmm.mod2)
+r.squaredGLMM(glmm.mod2)
+plot(glmm.mod2)
+
+#third happy model
+glmm.mod3 <- glmmPQL(eaten~activity.level * toadfish.cue.treatment, family = gaussian, random = ~ 1 | block, data = df)
+summary(glmm.mod3)
+r.squaredGLMM(glmm.mod3)
+plot(glmm.mod3)
+    
 # The authors used proportional consumption of prey as the (y) in their model, but did not include this in the dataset.
   # So we are going to create it - run the following line, assuming df= your data frame (feel free to change that):
 df$prop.cons <- df$eaten/df$prey 
