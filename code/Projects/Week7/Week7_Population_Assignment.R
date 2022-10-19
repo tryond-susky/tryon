@@ -2,6 +2,9 @@
 
 # Read the "Plankton_move_average" CSV in from GitHub. 
 # These are data from the Great Lakes Environmental Research Laboratory plankton sampling.
+setwd("C:/GitHub/tryon/code/Projects/Week7")
+data <- read.csv("Plankton_move_average.csv")
+install.packages("ggplot2")
 
 #Used the following lines to format the date and remove NAs from the dataset: ##plot the populations of three species
 data$Date <- as.Date(data$Date, origin = "0001-01-01") # Setting values to "day zero".
@@ -15,16 +18,33 @@ ggplot(data)  +
   geom_line(data=data, aes(Date, Bythotrephes), color="sky blue",  alpha = 0.7, size=1)+
   geom_line(data=data, aes(Date, Bythotrephes), color="sky blue",  alpha = 0.7, size=1)+
   theme_bw() 
+?ggplot
 
 # Export this plot to have on hand for reference in the next section of the assignment (and upload with your script).
-
+##need help exporting plot!!!!
+  
 # (1) - Which species is most likely to be r-selected prey and which its primary predator? (2 pts)
 # What is one relationship the third species MIGHT have to the first two? (2 pts)
 
 #Now copy/paste in the Lotka-Volterra function, plotting script, and load the "deSolve" package from the tutorial:
-
+  install.packages("deSolve")
+  library(deSolve)
+  LotVmod <- function (Time, State, Pars)
+    Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .6) #This is the line we will change
+    State <- c(x = 10, y = 10)#For now keep this the same.
+    Time <- seq(0, 100, by = 1)#For now keep this the same.
+    out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time)) #This is the operation that creates the Lotka-Volterra model based on our specified parameters.
+    matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
+    legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
+  
+    #how to get this set up keep getting error about out
+    
 # (2) - What do alpha, beta, gamma, and delta represent in this function? (4 pts)
-
+##Alpha is the rate of prey population growth. 
+##Beta is the rate of predation. 
+##Gamma is the rate of prey consumption, aka population stability. 
+##Delta is the rate of prey consumption, aka predator die-off
+  
 # (3) - By only changing values for alpha, beta, gamma, and/or delta
 # change the default parameters of the L-V model to best approximate the relationship between Limncalanus and D.mendotae, assuming both plots are on the same time scale.
 # What are the changes you've made to alpha, beta, gamma, and delta from the default values; and what do they say in a relative sense about the plankton data? (4 pts)
