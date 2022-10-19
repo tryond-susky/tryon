@@ -17,24 +17,18 @@ summary(df)
 # In the other model include one interactive effect.
 # Use a binomial distribution and block as a random effect in both models to match the paper's analyses. Remember ?family to find distribution names.
 
-#happy model
-glmm.mod <- glmmPQL(eaten~activity.level, family = gaussian, random = ~ 1 | block, data = df)
+#interactive happy model
+glmm.mod <- glmmPQL(eaten~activity.level, family = binomial, random = ~ 1 | block, data = df)
 summary(glmm.mod)
 r.squaredGLMM(glmm.mod)
 plot(glmm.mod)
 
-#second happy model
-glmm.mod2 <- glmmPQL(eaten~activity.level + toadfish.cue.treatment, family = gaussian, random = ~ 1 | block, data = df)
+#additive happy model
+glmm.mod2 <- glmmPQL(eaten~activity.level + claw.width , family = binomial, random = ~ 1 | block, data = df)
 summary(glmm.mod2)
 r.squaredGLMM(glmm.mod2)
 plot(glmm.mod2)
 
-#third happy model
-glmm.mod3 <- glmmPQL(eaten~activity.level * toadfish.cue.treatment, family = gaussian, random = ~ 1 | block, data = df)
-summary(glmm.mod3)
-r.squaredGLMM(glmm.mod3)
-plot(glmm.mod3)
-    
 # The authors used proportional consumption of prey as the (y) in their model, but did not include this in the dataset.
   # So we are going to create it - run the following line, assuming df= your data frame (feel free to change that):
 df$prop.cons <- df$eaten/df$prey 
@@ -49,10 +43,15 @@ df$prop.cons <- df$eaten/df$prey
 
 
 # Re-run both models as generalized additive models instead (using gam). Then compare the AIC of both models. (4 points each)
+gam.mod1 <- gam(eaten~activity.level, family = binomial, random = ~ 1 | block, data = df)
+plot(gam.mod1)
 
-
+gam.mod2 <- gam(eaten~activity.level + claw.width, family = bionomial, random = ~ 1 | block, data = df)
+plot(gam.mod2)
+##why wont it let me plot the gam values??
+AIC(gam.mod1, gam.mod2)
 # (Q4) - Which model is a better fit? (2 pt)
-
+##Model 2 has the best fit as the r-squared value is the highest and the AIC value is the lower of the two
 
 # (Q5) - Based on the residuals of your generalized additive models, how confident are you in these results? (2 pts)
 
