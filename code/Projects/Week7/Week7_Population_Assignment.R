@@ -5,11 +5,13 @@
 setwd("C:/GitHub/tryon/code/Projects/Week7")
 data <- read.csv("Plankton_move_average.csv")
 install.packages("ggplot2")
+summ
 
 #Used the following lines to format the date and remove NAs from the dataset: ##plot the populations of three species
+
 data$Date <- as.Date(data$Date, origin = "0001-01-01") # Setting values to "day zero".
 data <- na.omit(data)
-
+summary(data)
 #Plot these population data over time with the following code:
 ggplot(data)  +
   xlab("Numeric Date") + ylab("Density Individuals")+
@@ -18,25 +20,34 @@ ggplot(data)  +
   geom_line(data=data, aes(Date, Bythotrephes), color="sky blue",  alpha = 0.7, size=1)+
   geom_line(data=data, aes(Date, Bythotrephes), color="sky blue",  alpha = 0.7, size=1)+
   theme_bw() 
-?ggplot
 
 # Export this plot to have on hand for reference in the next section of the assignment (and upload with your script).
 ##need help exporting plot!!!!
   
 # (1) - Which species is most likely to be r-selected prey and which its primary predator? (2 pts)
+  ##D.mendotae represented by the black line is most likely to be the r-selected prey with Linmncalanus represented by the orange line being the primary predator.
+
 # What is one relationship the third species MIGHT have to the first two? (2 pts)
+  ##The third species may have a commensalism relationship where the Bythotrephes benefits from the success of the other two speices but also continues do survive as the others flucutate.
 
 #Now copy/paste in the Lotka-Volterra function, plotting script, and load the "deSolve" package from the tutorial:
   install.packages("deSolve")
   library(deSolve)
-  LotVmod <- function (Time, State, Pars)
-    Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .6) #This is the line we will change
-    State <- c(x = 10, y = 10)#For now keep this the same.
-    Time <- seq(0, 100, by = 1)#For now keep this the same.
-    out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time)) #This is the operation that creates the Lotka-Volterra model based on our specified parameters.
-    matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
-    legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
   
+  LotVmod <- function (Time, State, Pars) {
+      with(as.list(c(State, Pars)), {
+        dx = x*(alpha - beta*y)
+        dy = -y*(gamma - delta*x)
+        return(list(c(dx, dy)))
+      })
+  }  
+  Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .6) #This is the line we will change
+  State <- c(x = 10, y = 10)#For now keep this the same.
+  Time <- seq(0, 100, by = 1)#For now keep this the same.
+  out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time)) #This is the operation that creates the Lotka-Volterra model based on our specified parameters.
+  matplot(out[,-1], type = "l", xlab = "time", ylab = "population")
+  legend("topright", c("Rabid foxes", "Cute bunnies"), lty = c(1,2), col = c(1,2), box.lwd = 0)
+    
     #how to get this set up keep getting error about out
     
 # (2) - What do alpha, beta, gamma, and delta represent in this function? (4 pts)
