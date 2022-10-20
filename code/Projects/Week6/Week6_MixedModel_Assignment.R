@@ -62,4 +62,8 @@ AIC(gam.mod1, gam.mod2)
     ##Based on the residuals of the gam models I would say I am pretty confident about the interactive models data with toadfish cue 
     ##as the data hugs the line of best fit without having patterned residuals. Whereas, I don't feel very confident in the additive 
     ##model since the spread is very large and doesn't present a great comparison.
-
+install.packages("caTools")
+library(caTools)
+read.gif("happybear.gif", frame=0, flip=FALSE, verbose=FALSE)
+?image
+?caTools
