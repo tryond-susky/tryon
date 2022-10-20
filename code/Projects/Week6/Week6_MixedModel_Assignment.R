@@ -9,7 +9,6 @@ setwd("C:/GitHub/tryon/code/Projects/Week6")
 
 
 df <- read.csv("Toscano_Griffen_Data.csv")
-
 summary(df)
 
 # First create models with the same (y) and method (GLMM) as the published paper, using the GLMM function from the tutorial. 
