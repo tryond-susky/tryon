@@ -31,7 +31,7 @@ ggplot(data)  +
 
 # What is one relationship the third species MIGHT have to the first two? (2 pts)
   ##The third species may have a commensalism relationship where the Bythotrephes benefits from the success of the other two speices but also continues do survive as the others fluctuate.
-
+#Bit of a stretch...but no evidence you are wrong!
 #Now copy/paste in the Lotka-Volterra function, plotting script, and load the "deSolve" package from the tutorial:
   install.packages("deSolve")
   library(deSolve)
@@ -45,7 +45,7 @@ ggplot(data)  +
   }  
 
   Pars <- c(alpha = 2, beta = 0.5, gamma = .2, delta = .6) #This is the line we will change
-  State <- c(x = 10, y = 10).
+  State <- c(x = 10, y = 10)#Typo here I fixed
   Time <- seq(0, 100, by = 1)
   out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
   
@@ -62,7 +62,7 @@ ggplot(data)  +
 # (3) - By only changing values for alpha, beta, gamma, and/or delta
 # change the default parameters of the L-V model to best approximate the relationship between Limncalanus and D.mendotae, assuming both plots are on the same time scale.
   Pars <- c(alpha = 2.5, beta = 0.2, gamma = .2, delta = .6) #This is the line we will change
-  State <- c(x = 10, y = 10).
+  State <- c(x = 10, y = 10)#Typo again...
   Time <- seq(0, 100, by = 1)
   out <- as.data.frame(ode(func = LotVmod, y = State, parms = Pars, times = Time))
   
@@ -74,6 +74,7 @@ ggplot(data)  +
     #This data shows that the (Linmncalanus) predator population relies on the increase of the (D. mendotae) preys population.
 # Are there other paramenter changes that could have created the same end result? (2 pts)
     ##There are other similar parameter changes that could have resulted in a similar end result by adjusting time scales and wantnot.
+  #And whatnot, eh? Be a smidge more specific?
 # Export your final L-V plot with a legend that includes the appropriate genus and/or species name as if the model results were the real plankton data, 
   
 # and upload with your script. (hint - remember which one is the predator and which is the prey)
