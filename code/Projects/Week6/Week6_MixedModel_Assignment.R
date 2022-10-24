@@ -37,8 +37,12 @@ plot(glmm.mod3)
     ##The code in this line is first naming the specific variable prop.cons after the comparison of eaten versus prey and then adding this new column to the data frame.
 
 # (Q2) - Did the interactive effect change which variables predict proportional consumption? How, specifically, did the results change? (5 pts)
-    ##Yes the interactive effect caused all of the factors which predictt proportional consumption to change. 
+    ##Yes the interactive effect caused all of the factors which predict proportional consumption to change. 
     ##These factors were multiplied by the toadfish cue which thus changes temperature, claw width and activity level based upon toadfish cue data.
+    #Question is about the results of the model. Fewer variables are significant with interactive effects.
+
+summary(glmm.mod2)
+summary(glmm.mod3)
 
 # (Q3) - Plot the residuals of both models. Do you think either model is a good fit? Why or why not? (3 pts)
     ##The residuals of both models do not have a good fit as there is a pattern seen. Residuals show the differences between observed and predicted values. When a 
@@ -53,6 +57,7 @@ plot(gam.mod1$residuals)
 #gam interactive happy model
 gam.mod2 <- glmmPQL(prop.cons~activity.level*claw.width+temperature+toadfish.cue.treatment, family = binomial, random = ~ 1 | block, data = df)
 plot(glmm.mod2$residuals)
+#This is just rerunning the glmm model. Syntax isn't quite right in either...check tutorial.
 
 AIC(gam.mod1, gam.mod2)
 # (Q4) - Which model is a better fit? (2 pt)
@@ -62,8 +67,10 @@ AIC(gam.mod1, gam.mod2)
     ##Based on the residuals of the gam models I would say I am pretty confident about the interactive models data with toadfish cue 
     ##as the data hugs the line of best fit without having patterned residuals. Whereas, I don't feel very confident in the additive 
     ##model since the spread is very large and doesn't present a great comparison.
+  #The fact that there is a diagonal line/pattern is a big problem...I wouldn't trust either of these. 
 install.packages("caTools")
 library(caTools)
 read.gif("happybear.gif", frame=0, flip=FALSE, verbose=FALSE)
 ?image
 ?caTools
+#Nothing happened with I ran this :(
