@@ -28,20 +28,21 @@ head(abiotic.means)
 invert.means <- aggregate(x = invert, by = list(invert$names), FUN = "mean")
 head(invert.means)
 
-invert.means1 <- invert.means[,-2:-3]
+invert.means1 <- invert.means[-5,c(-1:-3,-73)]
+invert.means2 <- as.data.frame(sapply(invert.means1, as.numeric ))
 
-abiotic.means1 <- abiotic.means[,c(-2,-3,-5,-6,-16)]
+abiotic.means1 <- abiotic.means[,c(-1,-2,-3,-5,-6,-16)]
+abiotic.means2 <- as.data.frame(sapply(abiotic.means1, as.numeric ))
 
 #RDA
 library(vegan)
 colnames(abiotic.means1)
 ord <- rda(invert.means1 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means1)
-ord
-ord <- rda(nema.means2 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means2)
-ord
+ord <- rda(abiotic.means2 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means2)
 
 # (Q2 - 12 pts) Then use the dataset from the tutorial to create a linear model related to your RDA. Try multiple predictors to find the best fit model.
   # Explain the ecological importance of the significant predictors, or lack of significant predictors.
+fit.nbinom <- fitdist(soil.plants$Leaves, distr = "nbinom")
 
 # (Q3 - 6 pts) Provide a 3-4 sentence synthesis of how these results relate to one another and the value of considering both together for interpreting biotic-abiotic interactions.
 
