@@ -15,7 +15,6 @@ invert.tibble <- read_excel("Penaetal_2016_data.xlsx", sheet = "Invertebrate_com
 invert <- as.data.frame(invert.tibble)
 head(invert)
 
-
 abiotic.names <- paste(abiotic$Parcel, abiotic$Land_Use)
 abiotic$names <- abiotic.names
 
@@ -36,14 +35,18 @@ abiotic.means2 <- as.data.frame(sapply(abiotic.means1, as.numeric ))
 
 #RDA
 library(vegan)
-colnames(abiotic.means1)
-ord <- rda(invert.means1 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means1)
-ord <- rda(abiotic.means2 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means2)
+colnames(abiotic.means2)
+ord <- rda(invert.means2 ~ totalN, abiotic.means2)
+plot(ord)
+anova(ord)
+
+#Ecologically the predictor variable nitrogen is not signifigant but is important as in ecosystems nitrogen is often a limiting factor.
+#In soils for anything to be viable nitrogen is needed and as plotted we can see that realtionship....
 
 # (Q2 - 12 pts) Then use the dataset from the tutorial to create a linear model related to your RDA. Try multiple predictors to find the best fit model.
   # Explain the ecological importance of the significant predictors, or lack of significant predictors.
 fit.nbinom <- fitdist(soil.plants$Leaves, distr = "nbinom")
 
 # (Q3 - 6 pts) Provide a 3-4 sentence synthesis of how these results relate to one another and the value of considering both together for interpreting biotic-abiotic interactions.
-
+#In order for an ecosystem to exist both the abiotic and biotic factors must be 
 
