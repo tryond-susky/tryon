@@ -36,7 +36,7 @@ abiotic.means2 <- as.data.frame(sapply(abiotic.means1, as.numeric ))
 #RDA
 library(vegan)
 colnames(abiotic.means2)
-ord <- rda(invert.means2 ~ totalN, abiotic.means2)
+ord <- rda(invert.means2 ~ pH + totalN + Perc_ash + Kalium + Magnesium + Ca + Al + TotalP + OlsenP, abiotic.means2)
 plot(ord)
 anova(ord)
 
@@ -45,7 +45,40 @@ anova(ord)
 
 # (Q2 - 12 pts) Then use the dataset from the tutorial to create a linear model related to your RDA. Try multiple predictors to find the best fit model.
   # Explain the ecological importance of the significant predictors, or lack of significant predictors.
-fit.nbinom <- fitdist(soil.plants$Leaves, distr = "nbinom")
+
+colnames(invert.means2)
+
+mod1 <- lm(invert.means2$Curculionoidea ~ pH ,abiotic.means2)
+AIC(mod1)
+
+mod2 <- lm(invert.means2$Curculionoidea ~ totalN ,abiotic.means2)
+AIC(mod1)
+
+mod3 <- lm(invert.means2$Curculionoidea ~ Kalium ,abiotic.means2)
+AIC(mod1)
+
+mod4 <- lm(invert.means2$Curculionoidea ~ Magnesium ,abiotic.means2)
+AIC(mod1)
+
+mod5 <- lm(invert.means2$Curculionoidea ~ Ca , abiotic.means2)
+AIC(mod1)
+
+mod6 <- lm(invert.means2$Curculionoidea ~ Al ,abiotic.means2)
+AIC(mod1)
+
+mod7 <- lm(invert.means2$Curculionoidea ~ TotalP ,abiotic.means2)
+AIC(mod1)
+
+mod8 <- lm(invert.means2$Curculionoidea ~ Land_use ,abiotic.means2)
+AIC(mod1)
+
+mod9 <- lm(invert.means2$Curculionoidea ~ Species_code ,abiotic.means2)
+AIC(mod1)
+
+
+
+
+
 
 # (Q3 - 6 pts) Provide a 3-4 sentence synthesis of how these results relate to one another and the value of considering both together for interpreting biotic-abiotic interactions.
 #In order for an ecosystem to exist both the abiotic and biotic factors must be 
