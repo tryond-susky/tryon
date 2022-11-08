@@ -1,22 +1,19 @@
 # Load the packages from this week's tutorial.
 #In the tutorial we looked at the community as a whole and the swimmers which ultimately matched a prediction we had for their distribution.
 
-<<<<<<< HEAD
 setwd("C:/GitHub/tryon/code/Projects/Week10")
 library(spdep)
 library(adespatial)
 library(vegan)
 
-=======
->>>>>>> 4cc53992f1d26e8106ff2929cd1df6a15fd7c6cb
 #Part 1: Look at two other subsets of the community and determine the relative influence of space and habitat on each following the methods in the tutorial. (10 points)
 #The options include groupings by taxonomy, where Diptera (true flies) have the strongest flight ability, Trichoptera the 2nd strongest, 
     #Ephememeroptera are 3rd, and non insects are 4th...because they don't have wings.
 #Groupings by habits include the swimmers (off limits for the assignment) as most mobile, sprawlers as 2nd (they move in search of food, but not quickly),
     #and the clingers come in last (they might move up and down on individual rocks).
 
-<<<<<<< HEAD
 HabitatbyPatch.csv <- read.csv("HabitatbyPatch.csv", header=T)
+PatchLatLon.csv <- read.csv("PatchLatLon.csv")
 PatchLatLon.mat <- as.matrix(PatchLatLon.csv[,-1])
 HabitatbyPatch.mat <- as.matrix(HabitatbyPatch.csv)
 
@@ -60,17 +57,13 @@ HabNoSpace.rda <- rda(Clingers.mat, HabitatbyPatch.mat, as.data.frame(aem.df[,ae
 HabNoSpace.rda 
 anova(HabNoSpace.rda, perm.max = 10000)
 RsquareAdj(HabNoSpace.rda)
-=======
->>>>>>> 4cc53992f1d26e8106ff2929cd1df6a15fd7c6cb
 
 
 #Part 2: What is your interpretation of the pattern for each group individually, and the two in comparison, based on their mobility? (5 points)
 
-<<<<<<< HEAD
 #The species we are looking at are relatively stationary which is observed with the higher adjusted r-square values and constrained  for space controlling 
-#for habitat which shows how space and distance is more influential than differences in habitat.
-=======
->>>>>>> 4cc53992f1d26e8106ff2929cd1df6a15fd7c6cb
+#for habitat which shows how space and distance is more influential than differences in habitat. This also shows how space and habitat varaibiliy can act 
+#independantly of eachother on a community.
 
 #Part 3: For each of your chosen groups of bugs, perform variable selection for the habitat data rather than the AEM data. Which habitat variables are significant for each? (10 points)
   # Definitions for the habitat column names:
@@ -83,6 +76,20 @@ RsquareAdj(HabNoSpace.rda)
     #Fines = Percent of the substrate as "fines" i.e. small particles too small to measure
     #AveAr = The average size of rocks where each sample was collected
 
+Clingers.rda <- rda(HabitatbyPatch.mat, as.data.frame(aem.df))
+Clingers.r2a <- RsquareAdj(Clingers.rda)$adj.r.squared
+
+aem.fwd <- forward.sel(HabitatbyPatch.mat,aem.df, adjR2thresh=Space.r2a)
+
+Ephemeroptera.rda <- rda(HabitatbyPatch.mat, as.data.frame(aem.df))
+Ephemeroptera.r2a <- RsquareAdj(Ephemeroptera.rda)$adj.r.squared
+
+aem.fwd <- forward.sel(HabitatbyPatch.mat,aem.df, adjR2thresh=Space.r2a)
+
+#Ephemeroptera had more signifigant variables than Clingers.
+
 
 #Part 4: How do you expect selecting both the spatial and the habitat variables would change the results of the RDAs from Part 1 above? (5 points)
   #(You do not need to redo the RDAs, unless you *want* to.)
+
+#I think by selecting both the spatial and the habitat variables the RDAs would have higher conditional proportions as they would interact. In community terms this means that both habitat and space would be important.
