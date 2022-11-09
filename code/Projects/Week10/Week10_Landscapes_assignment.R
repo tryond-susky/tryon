@@ -76,12 +76,10 @@ RsquareAdj(HabNoSpace.rda)
     #Fines = Percent of the substrate as "fines" i.e. small particles too small to measure
     #AveAr = The average size of rocks where each sample was collected
 
-Clingers.rda <- rda(HabitatbyPatch.mat, as.data.frame(aem.df))
+Clingers.rda <- rda(Clingers.mat, as.data.frame(HabitatbyPatch.mat))
 Clingers.r2a <- RsquareAdj(Clingers.rda)$adj.r.squared
 
-aem.fwd <- forward.sel(HabitatbyPatch.mat,aem.df, adjR2thresh=Space.r2a)
-
-Ephemeroptera.rda <- rda(HabitatbyPatch.mat, as.data.frame(aem.df))
+Ephemeroptera.rda <- rda(Ephemeroptera.mat, as.data.frame(HabitatbyPatch.mat))
 Ephemeroptera.r2a <- RsquareAdj(Ephemeroptera.rda)$adj.r.squared
 
 aem.fwd <- forward.sel(HabitatbyPatch.mat,aem.df, adjR2thresh=Space.r2a)
