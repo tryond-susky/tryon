@@ -79,15 +79,20 @@ RsquareAdj(HabNoSpace.rda)
 Clingers.rda <- rda(Clingers.mat, as.data.frame(HabitatbyPatch.mat))
 Clingers.r2a <- RsquareAdj(Clingers.rda)$adj.r.squared
 
+aem.fwd <- forward.sel(Clingers.mat,HabitatbyPatch.mat, adjR2thresh=Space.r2a)
+aem.fwd
+
 Ephemeroptera.rda <- rda(Ephemeroptera.mat, as.data.frame(HabitatbyPatch.mat))
 Ephemeroptera.r2a <- RsquareAdj(Ephemeroptera.rda)$adj.r.squared
 
-aem.fwd <- forward.sel(HabitatbyPatch.mat,aem.df, adjR2thresh=Space.r2a)
-
-#Ephemeroptera had more signifigant variables than Clingers.
+aem.fwd <- forward.sel(Ephemeroptera.mat,HabitatbyPatch.mat, adjR2thresh=Space.r2a)
+aem.fwd
+#Ephemeroptera had more significant variables than Clingers.Clingers had depth as a significant factor whereas, 
+#Ephemeroptera had depth, flow, inorganic solids, and total benthic organic matter.
 
 
 #Part 4: How do you expect selecting both the spatial and the habitat variables would change the results of the RDAs from Part 1 above? (5 points)
   #(You do not need to redo the RDAs, unless you *want* to.)
 
-#I think by selecting both the spatial and the habitat variables the RDAs would have higher conditional proportions as they would interact. In community terms this means that both habitat and space would be important.
+#I think by selecting both the spatial and the habitat variables the RDAs would have higher conditional proportions as they would interact. 
+#In community terms this means that both habitat and space would be important.
