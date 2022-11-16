@@ -59,11 +59,15 @@ anova(HabNoSpace.rda, perm.max = 10000)
 RsquareAdj(HabNoSpace.rda)
 
 
+#Where are the Emphemeroptera RDAs??
+
 #Part 2: What is your interpretation of the pattern for each group individually, and the two in comparison, based on their mobility? (5 points)
 
 #The species we are looking at are relatively stationary which is observed with the higher adjusted r-square values and constrained  for space controlling 
 #for habitat which shows how space and distance is more influential than differences in habitat. This also shows how space and habitat varaibiliy can act 
 #independantly of eachother on a community.
+
+#Remember not individual species, but different functional groups collectively that you are comparing.
 
 #Part 3: For each of your chosen groups of bugs, perform variable selection for the habitat data rather than the AEM data. Which habitat variables are significant for each? (10 points)
   # Definitions for the habitat column names:
@@ -96,3 +100,6 @@ aem.fwd
 
 #I think by selecting both the spatial and the habitat variables the RDAs would have higher conditional proportions as they would interact. 
 #In community terms this means that both habitat and space would be important.
+
+#This might be true, but it's tangential to the question. Without selecting variables for habitat, you are likely overfitting that part of the model.
+#So the "real" influence of space is likely much stronger than what you generated with the above models.
