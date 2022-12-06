@@ -1,4 +1,4 @@
-Time,Temperature (°F),Dew Point(°F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precip. (in),Condition
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
 6/1/2022,46,41,83,CALM,0,0,30.1,0,Cloudy
 6/1/2022,45,41,86,ENE,3,0,30.11,0,Partly Cloudy
 6/1/2022,45,41,87,VAR,3,0,30.11,0,Mostly Cloudy
