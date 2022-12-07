@@ -1188,796 +1188,2712 @@ Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,C
 6/30/2022,50,49,96,CALM,0,0,29.77,0,Light Rain
 6/30/2022,50,48,94,CALM,0,0,29.77,0,Light Rain
 6/30/2022,50,49,96,CALM,0,0,29.77,0,Light Rain
-7/1/2022,50 °F,48 °F,94 %,VAR,5 mph,0 mph,29.78 in,0.0 in,Light Rain
-7/1/2022,50 °F,48 °F,94 %,VAR,3 mph,0 mph,29.78 in,0.0 in,Light Rain
-7/1/2022,50 °F,49 °F,96 %,VAR,3 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/1/2022,50 °F,48 °F,94 %,E,3 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/1/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.78 in,0.0 in,Cloudy
-7/1/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,51 °F,49 °F,92 %,NE,6 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,52 °F,48 °F,88 %,VAR,5 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,51 °F,49 °F,92 %,VAR,3 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/1/2022,51 °F,48 °F,89 %,CALM,0 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/1/2022,52 °F,48 °F,88 %,VAR,3 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,51 °F,49 °F,92 %,VAR,3 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/1/2022,51 °F,49 °F,92 %,VAR,5 mph,0 mph,29.75 in,0.0 in,Light Rain
-7/1/2022,51 °F,49 °F,92 %,VAR,5 mph,0 mph,29.76 in,0.0 in,Light Drizzle
-7/1/2022,52 °F,48 °F,88 %,VAR,6 mph,0 mph,29.76 in,0.0 in,Light Drizzle
-7/1/2022,52 °F,50 °F,93 %,NNE,6 mph,0 mph,29.76 in,0.0 in,Light Drizzle
-7/1/2022,53 °F,50 °F,89 %,NE,6 mph,0 mph,29.76 in,0.0 in,Light Drizzle
-7/1/2022,54 °F,50 °F,86 %,NE,9 mph,16 mph,29.77 in,0.0 in,Cloudy
-7/1/2022,54 °F,50 °F,86 %,VAR,5 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy
-7/1/2022,57 °F,50 °F,77 %,ENE,8 mph,0 mph,29.74 in,0.0 in,Mostly Cloudy
-7/1/2022,57 °F,50 °F,77 %,VAR,7 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy
-7/1/2022,56 °F,50 °F,80 %,VAR,6 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy
-7/1/2022,55 °F,49 °F,80 %,VAR,3 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy
-7/1/2022,55 °F,48 °F,77 %,NE,8 mph,0 mph,29.75 in,0.0 in,Mostly Cloudy
-7/1/2022,55 °F,49 °F,80 %,NE,6 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,55 °F,50 °F,82 %,VAR,5 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/1/2022,53 °F,49 °F,86 %,NE,3 mph,0 mph,29.79 in,0.0 in,Cloudy
-7/1/2022,53 °F,49 °F,86 %,NNE,5 mph,0 mph,29.79 in,0.0 in,Cloudy
-7/1/2022,52 °F,49 °F,89 %,CALM,0 mph,0 mph,29.80 in,,
-7/2/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/2/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Cloudy
-7/2/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.84 in,0.0 in,Light Rain
-7/2/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/2/2022,50 °F,48 °F,94 %,NNE,3 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/2/2022,50 °F,48 °F,94 %,CALM,0 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/2/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/2/2022,50 °F,48 °F,93 %,CALM,0 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/2/2022,50 °F,49 °F,96 %,CALM,0 mph,0 mph,29.86 in,0.0 in,Cloudy
-7/2/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
-7/2/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
-7/2/2022,53 °F,50 °F,89 %,SSE,7 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy
-7/2/2022,53 °F,49 °F,86 %,S,8 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
-7/2/2022,53 °F,50 °F,89 %,SSE,8 mph,0 mph,29.89 in,0.0 in,Mostly Cloudy
-7/2/2022,54 °F,49 °F,83 %,NE,6 mph,0 mph,29.88 in,0.0 in,Cloudy
-7/2/2022,55 °F,50 °F,83 %,SSE,7 mph,0 mph,29.88 in,0.0 in,Light Rain
-7/2/2022,53 °F,51 °F,93 %,SSE,6 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/2/2022,54 °F,51 °F,90 %,SSE,7 mph,0 mph,29.91 in,0.0 in,Cloudy
-7/2/2022,54 °F,50 °F,86 %,CALM,0 mph,0 mph,29.89 in,0.0 in,Cloudy
-7/2/2022,54 °F,50 °F,88 %,SSE,5 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/2/2022,53 °F,50 °F,89 %,SSE,5 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/2/2022,53 °F,50 °F,89 %,SSE,3 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/2/2022,53 °F,50 °F,89 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/2/2022,52 °F,50 °F,93 %,CALM,0 mph,0 mph,29.95 in,,
-7/3/2022,54 °F,52 °F,94 %,CALM,0 mph,0 mph,29.95 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,51 °F,97 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,52 °F,100 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,93 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,NW,3 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,51 °F,50 °F,96 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,93 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,51 °F,97 %,N,3 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,52 °F,100 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,93 %,CALM,0 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/3/2022,52 °F,52 °F,100 %,NW,5 mph,0 mph,29.97 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,CALM,0 mph,0 mph,29.99 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,NW,5 mph,0 mph,29.97 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,NW,8 mph,0 mph,29.99 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,93 %,N,3 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,WNW,3 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/3/2022,52 °F,50 °F,94 %,VAR,3 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/3/2022,54 °F,50 °F,86 %,NW,7 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/3/2022,54 °F,50 °F,88 %,NNW,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,54 °F,48 °F,82 %,N,8 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/3/2022,56 °F,49 °F,77 %,N,8 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/3/2022,55 °F,48 °F,77 %,NW,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,56 °F,49 °F,77 %,NW,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,57 °F,48 °F,72 %,W,7 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/3/2022,57 °F,49 °F,74 %,WNW,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,57 °F,48 °F,72 %,WNW,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,57 °F,48 °F,72 %,VAR,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,58 °F,49 °F,72 %,NNE,8 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/3/2022,57 °F,48 °F,72 %,NNE,6 mph,0 mph,30.01 in,0.0 in,Cloudy
-7/3/2022,58 °F,49 °F,72 %,N,5 mph,0 mph,30.02 in,0.0 in,Cloudy
-7/3/2022,57 °F,48 °F,72 %,NNE,5 mph,0 mph,30.02 in,0.0 in,Cloudy
-7/3/2022,57 °F,48 °F,72 %,W,8 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/3/2022,58 °F,49 °F,72 %,WNW,7 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/3/2022,59 °F,48 °F,67 %,NW,7 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/3/2022,59 °F,49 °F,69 %,NW,9 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/3/2022,61 °F,50 °F,68 %,WNW,8 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
-7/3/2022,61 °F,50 °F,68 %,WNW,6 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
-7/3/2022,60 °F,50 °F,69 %,WNW,7 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
-7/3/2022,61 °F,50 °F,67 %,W,5 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
-7/3/2022,61 °F,50 °F,68 %,W,5 mph,0 mph,30.01 in,0.0 in,Partly Cloudy
-7/3/2022,61 °F,48 °F,63 %,W,3 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/3/2022,59 °F,50 °F,72 %,SSE,3 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/3/2022,56 °F,49 °F,77 %,NW,3 mph,0 mph,30.03 in,0.0 in,Cloudy
-7/3/2022,55 °F,50 °F,82 %,VAR,5 mph,0 mph,30.02 in,0.0 in,Partly Cloudy
-7/3/2022,53 °F,49 °F,86 %,CALM,0 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
-7/3/2022,51 °F,48 °F,89 %,ENE,5 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
-7/4/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
-7/4/2022,52 °F,48 °F,88 %,NNE,3 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
-7/4/2022,51 °F,48 °F,89 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Mostly Cloudy
-7/4/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,30.07 in,0.0 in,Mostly Cloudy
-7/4/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
-7/4/2022,48 °F,47 °F,96 %,CALM,0 mph,0 mph,30.07 in,0.0 in,Fair
-7/4/2022,49 °F,48 °F,97 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
-7/4/2022,48 °F,48 °F,100 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
-7/4/2022,50 °F,48 °F,93 %,CALM,0 mph,0 mph,30.07 in,0.0 in,Cloudy
-7/4/2022,50 °F,48 °F,94 %,CALM,0 mph,0 mph,30.06 in,0.0 in,Cloudy
-7/4/2022,52 °F,48 °F,88 %,NW,5 mph,0 mph,30.07 in,0.0 in,Cloudy
-7/4/2022,52 °F,48 °F,86 %,WNW,5 mph,0 mph,30.08 in,0.0 in,Cloudy
-7/4/2022,53 °F,48 °F,83 %,WNW,6 mph,0 mph,30.08 in,0.0 in,Cloudy
-7/4/2022,55 °F,46 °F,72 %,WNW,5 mph,0 mph,30.09 in,0.0 in,Cloudy
-7/4/2022,56 °F,46 °F,69 %,NNW,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,57 °F,46 °F,67 %,N,8 mph,0 mph,30.07 in,0.0 in,Mostly Cloudy
-7/4/2022,57 °F,47 °F,69 %,NNW,8 mph,0 mph,30.07 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,47 °F,64 %,NW,9 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,48 °F,63 %,VAR,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,48 °F,67 %,NNW,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,63 °F,50 °F,63 %,W,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,62 °F,49 °F,62 %,W,8 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,48 °F,63 %,NNE,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,60 °F,49 °F,67 %,NNE,8 mph,0 mph,30.08 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,48 °F,63 %,NNE,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,48 °F,63 %,VAR,5 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,49 °F,69 %,NNE,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,50 °F,72 %,NNE,5 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,50 °F,72 %,NNE,6 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,50 °F,68 %,WNW,8 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,62 °F,51 °F,67 %,WNW,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,63 °F,50 °F,63 %,NNW,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,62 °F,50 °F,65 %,N,9 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,50 °F,68 %,N,7 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,61 °F,52 °F,72 %,N,6 mph,0 mph,30.10 in,0.0 in,Mostly Cloudy
-7/4/2022,60 °F,50 °F,69 %,NW,8 mph,0 mph,30.09 in,0.0 in,Mostly Cloudy
-7/4/2022,59 °F,49 °F,69 %,NW,6 mph,0 mph,30.10 in,0.0 in,Fair
-7/4/2022,56 °F,49 °F,77 %,CALM,0 mph,0 mph,30.13 in,0.0 in,Cloudy
-7/5/2022,55 °F,48 °F,77 %,W,3 mph,0 mph,30.14 in,0.0 in,Cloudy
-7/5/2022,55 °F,49 °F,80 %,W,5 mph,0 mph,30.13 in,0.0 in,Cloudy
-7/5/2022,54 °F,49 °F,83 %,WNW,3 mph,0 mph,30.13 in,0.0 in,Cloudy
-7/5/2022,53 °F,50 °F,89 %,NW,3 mph,0 mph,30.13 in,0.0 in,Fair
-7/5/2022,51 °F,48 °F,89 %,CALM,0 mph,0 mph,30.11 in,0.0 in,Fair
-7/5/2022,51 °F,48 °F,89 %,CALM,0 mph,0 mph,30.10 in,0.0 in,Fair
-7/5/2022,50 °F,48 °F,93 %,CALM,0 mph,0 mph,30.10 in,0.0 in,Mostly Cloudy
-7/5/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,30.10 in,0.0 in,Partly Cloudy
-7/5/2022,54 °F,48 °F,82 %,SW,3 mph,0 mph,30.09 in,0.0 in,Partly Cloudy
-7/5/2022,54 °F,50 °F,86 %,SSE,7 mph,0 mph,30.07 in,0.0 in,Partly Cloudy
-7/5/2022,54 °F,50 °F,88 %,SSE,7 mph,0 mph,30.06 in,0.0 in,Partly Cloudy
-7/5/2022,54 °F,48 °F,82 %,SSE,10 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
-7/5/2022,53 °F,49 °F,86 %,SSE,8 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
-7/5/2022,56 °F,50 °F,80 %,SSE,7 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/5/2022,55 °F,50 °F,82 %,SSE,6 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/5/2022,56 °F,50 °F,80 %,SSE,6 mph,0 mph,30.04 in,0.0 in,Mostly Cloudy
-7/5/2022,57 °F,52 °F,82 %,S,7 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/5/2022,55 °F,50 °F,82 %,SSE,7 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/5/2022,56 °F,50 °F,80 %,SSE,9 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/5/2022,55 °F,48 °F,77 %,SSE,9 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/5/2022,56 °F,49 °F,77 %,SSE,9 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/5/2022,53 °F,49 °F,86 %,SSE,8 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,48 °F,82 %,SSE,8 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,48 °F,82 %,VAR,7 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,49 °F,83 %,VAR,7 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,48 °F,82 %,SSE,8 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,49 °F,83 %,SSE,9 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,48 °F,82 %,VAR,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/5/2022,53 °F,49 °F,86 %,SSE,6 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/5/2022,54 °F,48 °F,82 %,SE,5 mph,0 mph,29.97 in,0.0 in,Cloudy
-7/5/2022,52 °F,49 °F,89 %,SSE,9 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/5/2022,52 °F,49 °F,89 %,SE,6 mph,0 mph,29.95 in,0.0 in,Cloudy
-7/5/2022,52 °F,49 °F,89 %,SE,5 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/5/2022,51 °F,49 °F,92 %,SSE,9 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/5/2022,52 °F,48 °F,88 %,SSE,7 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/5/2022,52 °F,48 °F,88 %,SSE,10 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/5/2022,51 °F,49 °F,92 %,SSE,8 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/6/2022,51 °F,49 °F,92 %,S,12 mph,0 mph,29.92 in,0.0 in,Cloudy
-7/6/2022,52 °F,48 °F,88 %,S,9 mph,0 mph,29.92 in,0.0 in,Light Rain
-7/6/2022,52 °F,48 °F,88 %,S,13 mph,0 mph,29.91 in,0.0 in,Light Rain
-7/6/2022,50 °F,49 °F,96 %,S,13 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/6/2022,50 °F,49 °F,96 %,SSE,8 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.89 in,0.0 in,Cloudy
-7/6/2022,51 °F,49 °F,92 %,S,12 mph,0 mph,29.88 in,0.0 in,Cloudy
-7/6/2022,52 °F,48 °F,88 %,S,12 mph,0 mph,29.88 in,0.0 in,Cloudy
-7/6/2022,50 °F,49 °F,96 %,SSE,6 mph,0 mph,29.87 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.86 in,0.0 in,Cloudy
-7/6/2022,50 °F,49 °F,96 %,SSE,7 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,8 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,8 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/6/2022,50 °F,48 °F,94 %,SSE,8 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/6/2022,50 °F,50 °F,100 %,SSE,6 mph,0 mph,29.84 in,0.0 in,Light Drizzle
-7/6/2022,50 °F,50 °F,100 %,SE,5 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/6/2022,50 °F,50 °F,100 %,SE,6 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SE,6 mph,0 mph,29.83 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,5 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,51 °F,50 °F,96 %,SSE,6 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,6 mph,0 mph,29.83 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,6 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/6/2022,52 °F,50 °F,94 %,SSE,5 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,3 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,51 °F,50 °F,96 %,SSE,5 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,5 mph,0 mph,29.84 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,5 mph,0 mph,29.84 in,0.0 in,Cloudy
-7/6/2022,52 °F,50 °F,94 %,SSE,5 mph,0 mph,29.83 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,SSE,3 mph,0 mph,29.83 in,0.0 in,Fog
-7/6/2022,52 °F,50 °F,94 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/6/2022,52 °F,50 °F,94 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/6/2022,51 °F,51 °F,100 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/6/2022,52 °F,52 °F,100 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/6/2022,52 °F,52 °F,100 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/6/2022,52 °F,52 °F,100 %,CALM,0 mph,0 mph,29.83 in,0.0 in,Cloudy
-7/6/2022,53 °F,50 °F,89 %,NNW,3 mph,0 mph,29.82 in,0.0 in,Cloudy
-7/6/2022,54 °F,52 °F,94 %,VAR,3 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
-7/6/2022,55 °F,51 °F,86 %,CALM,0 mph,0 mph,29.80 in,0.0 in,Cloudy
-7/6/2022,55 °F,52 °F,88 %,CALM,0 mph,0 mph,29.80 in,0.0 in,Cloudy
-7/6/2022,55 °F,52 °F,88 %,NNW,3 mph,0 mph,29.81 in,0.0 in,Cloudy
-7/6/2022,55 °F,52 °F,88 %,VAR,3 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
-7/6/2022,57 °F,52 °F,83 %,WNW,5 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
-7/6/2022,57 °F,52 °F,82 %,W,5 mph,0 mph,29.81 in,0.0 in,Cloudy
-7/6/2022,57 °F,52 °F,82 %,WNW,5 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
-7/6/2022,57 °F,48 °F,72 %,NW,9 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
-7/6/2022,57 °F,48 °F,72 %,NW,9 mph,0 mph,29.81 in,0.0 in,Mostly Cloudy
-7/6/2022,57 °F,48 °F,72 %,NW,6 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy
-7/6/2022,58 °F,49 °F,72 %,NW,7 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy
-7/6/2022,61 °F,50 °F,68 %,WNW,8 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy
-7/6/2022,60 °F,49 °F,67 %,WNW,7 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy
-7/6/2022,61 °F,50 °F,68 %,W,8 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy
-7/6/2022,61 °F,48 °F,63 %,W,6 mph,0 mph,29.79 in,0.0 in,Mostly Cloudy
-7/6/2022,61 °F,48 °F,63 %,NW,6 mph,0 mph,29.77 in,0.0 in,Mostly Cloudy
-7/6/2022,61 °F,48 °F,63 %,WNW,7 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/6/2022,58 °F,50 °F,75 %,WNW,9 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/6/2022,56 °F,49 °F,77 %,W,3 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/6/2022,56 °F,49 °F,77 %,NW,6 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/6/2022,54 °F,48 °F,82 %,CALM,0 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/6/2022,54 °F,49 °F,83 %,CALM,0 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/7/2022,54 °F,48 °F,82 %,CALM,0 mph,0 mph,29.76 in,0.0 in,Cloudy
-7/7/2022,54 °F,49 °F,83 %,WSW,3 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/7/2022,52 °F,49 °F,89 %,CALM,0 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/7/2022,52 °F,49 °F,89 %,CALM,0 mph,0 mph,29.73 in,0.0 in,Cloudy
-7/7/2022,52 °F,49 °F,89 %,NE,3 mph,0 mph,29.71 in,0.0 in,Cloudy
-7/7/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/7/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/7/2022,52 °F,50 °F,93 %,CALM,0 mph,0 mph,29.66 in,0.0 in,Cloudy
-7/7/2022,52 °F,48 °F,88 %,CALM,0 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/7/2022,52 °F,46 °F,80 %,N,7 mph,0 mph,29.64 in,0.0 in,Cloudy
-7/7/2022,52 °F,47 °F,83 %,N,7 mph,0 mph,29.63 in,0.0 in,Light Rain
-7/7/2022,51 °F,46 °F,83 %,N,12 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/7/2022,52 °F,46 °F,82 %,NW,13 mph,0 mph,29.63 in,0.0 in,Light Rain
-7/7/2022,50 °F,47 °F,89 %,NNW,17 mph,0 mph,29.63 in,0.0 in,Light Rain
-7/7/2022,50 °F,46 °F,86 %,NNW,13 mph,0 mph,29.63 in,0.0 in,Light Rain
-7/7/2022,51 °F,44 °F,77 %,NNW,15 mph,0 mph,29.63 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,45 °F,72 %,NNW,14 mph,0 mph,29.63 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,44 °F,69 %,NNW,13 mph,0 mph,29.63 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,43 °F,67 %,NNW,14 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,44 °F,69 %,NW,12 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,45 °F,72 %,NW,16 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,45 °F,72 %,NNW,16 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,55 °F,45 °F,67 %,NNW,17 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,55 °F,44 °F,67 %,NW,17 mph,0 mph,29.64 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,45 °F,72 %,NW,15 mph,0 mph,29.65 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,44 °F,69 %,NW,12 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/7/2022,54 °F,45 °F,72 %,NNW,14 mph,0 mph,29.66 in,0.0 in,Cloudy
-7/7/2022,53 °F,44 °F,71 %,NNW,10 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/7/2022,53 °F,46 °F,77 %,WNW,12 mph,0 mph,29.66 in,0.0 in,Cloudy
-7/7/2022,52 °F,45 °F,77 %,NW,12 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/7/2022,51 °F,45 °F,80 %,NW,14 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/7/2022,52 °F,45 °F,76 %,WNW,12 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/7/2022,51 °F,45 °F,80 %,WNW,12 mph,0 mph,29.70 in,0.0 in,Cloudy
-7/8/2022,50 °F,45 °F,83 %,W,14 mph,0 mph,29.70 in,0.0 in,Cloudy
-7/8/2022,49 °F,44 °F,83 %,NW,12 mph,0 mph,29.70 in,0.0 in,Partly Cloudy
-7/8/2022,49 °F,43 °F,80 %,W,10 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
-7/8/2022,48 °F,45 °F,87 %,NW,14 mph,0 mph,29.70 in,0.0 in,Cloudy
-7/8/2022,49 °F,44 °F,83 %,NW,14 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,49 °F,44 °F,83 %,NW,8 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,49 °F,45 °F,86 %,WNW,9 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,48 °F,45 °F,89 %,WNW,7 mph,0 mph,29.68 in,0.0 in,Mostly Cloudy
-7/8/2022,48 °F,45 °F,89 %,W,5 mph,0 mph,29.68 in,0.0 in,Mostly Cloudy
-7/8/2022,51 °F,44 °F,77 %,WNW,7 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/8/2022,51 °F,45 °F,80 %,WNW,5 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/8/2022,52 °F,45 °F,77 %,NNW,7 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,NNW,10 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,NW,10 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,WNW,9 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/8/2022,57 °F,47 °F,69 %,WNW,9 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,N,9 mph,0 mph,29.65 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,N,7 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,47 °F,74 %,NNW,8 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,WNW,7 mph,0 mph,29.66 in,0.0 in,Mostly Cloudy
-7/8/2022,54 °F,48 °F,82 %,N,8 mph,0 mph,29.66 in,0.0 in,Light Rain
-7/8/2022,55 °F,48 °F,77 %,NNW,12 mph,0 mph,29.68 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,48 °F,77 %,NNW,10 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/8/2022,57 °F,48 °F,72 %,N,9 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,N,13 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/8/2022,56 °F,47 °F,72 %,N,12 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,NNW,13 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/8/2022,55 °F,46 °F,72 %,NNW,13 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,55 °F,46 °F,72 %,NNW,13 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,55 °F,46 °F,72 %,N,13 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,55 °F,46 °F,72 %,N,13 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,54 °F,45 °F,72 %,N,13 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/8/2022,53 °F,45 °F,74 %,N,14 mph,0 mph,29.71 in,0.0 in,Cloudy
-7/8/2022,52 °F,45 °F,77 %,NNW,12 mph,0 mph,29.72 in,0.0 in,Cloudy
-7/8/2022,51 °F,44 °F,77 %,N,9 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
-7/9/2022,50 °F,44 °F,80 %,N,9 mph,0 mph,29.73 in,0.0 in,Partly Cloudy
-7/9/2022,50 °F,44 °F,80 %,NNW,14 mph,0 mph,29.73 in,0.0 in,Fair
-7/9/2022,49 °F,44 °F,83 %,NNW,10 mph,0 mph,29.74 in,0.0 in,Fair
-7/9/2022,49 °F,44 °F,83 %,NNW,10 mph,0 mph,29.73 in,0.0 in,Fair
-7/9/2022,48 °F,45 °F,87 %,NNW,7 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
-7/9/2022,48 °F,45 °F,87 %,NNW,8 mph,0 mph,29.71 in,0.0 in,Partly Cloudy
-7/9/2022,48 °F,44 °F,86 %,NNW,8 mph,0 mph,29.71 in,0.0 in,Fair
-7/9/2022,48 °F,44 °F,86 %,NNW,8 mph,0 mph,29.71 in,0.0 in,Partly Cloudy
-7/9/2022,51 °F,45 °F,80 %,N,9 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
-7/9/2022,52 °F,45 °F,77 %,N,14 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
-7/9/2022,53 °F,45 °F,74 %,NNW,12 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy
-7/9/2022,54 °F,46 °F,75 %,N,12 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy
-7/9/2022,55 °F,46 °F,72 %,NNW,12 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy
-7/9/2022,56 °F,48 °F,75 %,NNE,9 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
-7/9/2022,58 °F,48 °F,70 %,N,12 mph,0 mph,29.70 in,0.0 in,Mostly Cloudy
-7/9/2022,59 °F,49 °F,69 %,N,12 mph,0 mph,29.71 in,0.0 in,Mostly Cloudy
-7/9/2022,60 °F,48 °F,64 %,NNW,12 mph,0 mph,29.72 in,0.0 in,Mostly Cloudy
-7/9/2022,60 °F,49 °F,67 %,N,13 mph,0 mph,29.73 in,0.0 in,Mostly Cloudy
-7/9/2022,58 °F,50 °F,75 %,NNW,10 mph,16 mph,29.74 in,0.0 in,Mostly Cloudy
-7/9/2022,57 °F,50 °F,77 %,NNW,9 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/9/2022,57 °F,50 °F,77 %,NW,10 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/9/2022,57 °F,51 °F,81 %,N,10 mph,0 mph,29.77 in,0.0 in,Cloudy
-7/9/2022,55 °F,49 °F,80 %,N,10 mph,0 mph,29.78 in,0.0 in,Partly Cloudy
-7/10/2022,54 °F,49 °F,83 %,N,10 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy
-7/10/2022,54 °F,49 °F,83 %,NNW,8 mph,0 mph,29.88 in,0.0 in,Cloudy
-7/10/2022,54 °F,48 °F,82 %,N,3 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/10/2022,51 °F,48 °F,89 %,NE,3 mph,0 mph,29.91 in,0.0 in,Fair
-7/10/2022,53 °F,49 °F,86 %,NNE,6 mph,0 mph,29.92 in,0.0 in,Cloudy
-7/10/2022,51 °F,47 °F,86 %,CALM,0 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/10/2022,52 °F,48 °F,86 %,NNE,3 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/10/2022,54 °F,48 °F,82 %,NW,6 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
-7/10/2022,53 °F,48 °F,83 %,NW,3 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
-7/10/2022,55 °F,48 °F,77 %,NW,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/10/2022,55 °F,48 °F,77 %,NW,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/10/2022,57 °F,50 °F,77 %,NW,8 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
-7/10/2022,57 °F,49 °F,74 %,NW,9 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
-7/10/2022,57 °F,49 °F,74 %,NNE,7 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/10/2022,61 °F,48 °F,63 %,NNE,5 mph,0 mph,29.96 in,0.0 in,Partly Cloudy
-7/10/2022,60 °F,49 °F,67 %,N,6 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
-7/10/2022,63 °F,50 °F,63 %,N,8 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
-7/10/2022,61 °F,50 °F,67 %,N,8 mph,0 mph,29.97 in,0.0 in,Partly Cloudy
-7/10/2022,63 °F,50 °F,63 %,NNE,6 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/10/2022,63 °F,50 °F,63 %,NNE,6 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/10/2022,63 °F,51 °F,65 %,NNE,10 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/10/2022,63 °F,52 °F,68 %,N,6 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
-7/10/2022,62 °F,51 °F,67 %,N,5 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
-7/10/2022,61 °F,52 °F,72 %,WNW,13 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/10/2022,61 °F,51 °F,70 %,NW,13 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/10/2022,59 °F,52 °F,77 %,NW,6 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/10/2022,59 °F,51 °F,75 %,WNW,9 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/10/2022,59 °F,52 °F,77 %,W,8 mph,0 mph,30.01 in,0.0 in,Cloudy
-7/10/2022,59 °F,52 °F,78 %,W,5 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/10/2022,60 °F,51 °F,72 %,NW,10 mph,0 mph,30.02 in,0.0 in,Cloudy
-7/10/2022,58 °F,51 °F,78 %,WNW,7 mph,0 mph,30.03 in,0.0 in,Cloudy
-7/10/2022,57 °F,50 °F,77 %,NW,9 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/10/2022,57 °F,48 °F,72 %,N,5 mph,0 mph,30.04 in,0.0 in,Fair
-7/11/2022,55 °F,49 °F,80 %,NNW,7 mph,0 mph,30.06 in,0.0 in,Partly Cloudy
-7/11/2022,54 °F,48 °F,80 %,N,6 mph,0 mph,30.06 in,0.0 in,Fair
-7/11/2022,53 °F,48 °F,83 %,N,9 mph,0 mph,30.06 in,0.0 in,Fair
-7/11/2022,52 °F,48 °F,86 %,N,3 mph,0 mph,30.06 in,0.0 in,Fair
-7/11/2022,52 °F,48 °F,86 %,NNE,5 mph,0 mph,30.04 in,0.0 in,Fair
-7/11/2022,52 °F,47 °F,83 %,VAR,3 mph,0 mph,30.03 in,0.0 in,Fair
-7/11/2022,52 °F,47 °F,83 %,VAR,5 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/11/2022,56 °F,48 °F,75 %,NW,7 mph,0 mph,30.03 in,0.0 in,Mostly Cloudy
-7/11/2022,57 °F,49 °F,74 %,NW,7 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/11/2022,59 °F,49 °F,69 %,S,3 mph,0 mph,29.99 in,0.0 in,Mostly Cloudy
-7/11/2022,59 °F,50 °F,72 %,SSE,9 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/11/2022,59 °F,50 °F,72 %,SSE,8 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/11/2022,61 °F,50 °F,68 %,SSE,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/11/2022,60 °F,50 °F,69 %,SSE,12 mph,0 mph,29.96 in,0.0 in,Fair
-7/11/2022,57 °F,48 °F,72 %,SE,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/11/2022,58 °F,48 °F,70 %,VAR,7 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/11/2022,58 °F,49 °F,72 %,SSE,8 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/11/2022,56 °F,48 °F,75 %,S,12 mph,20 mph,29.92 in,0.0 in,Mostly Cloudy
-7/11/2022,54 °F,48 °F,80 %,S,14 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/11/2022,54 °F,48 °F,82 %,S,14 mph,0 mph,29.90 in,0.0 in,Fair
-7/11/2022,52 °F,48 °F,88 %,S,12 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/11/2022,52 °F,49 °F,89 %,S,13 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/11/2022,52 °F,49 °F,89 %,S,15 mph,0 mph,29.83 in,0.0 in,Cloudy
-7/11/2022,52 °F,49 °F,89 %,S,15 mph,0 mph,29.81 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,SSE,12 mph,0 mph,29.80 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,SSE,10 mph,0 mph,29.79 in,0.0 in,Light Rain
-7/12/2022,51 °F,49 °F,92 %,SSE,12 mph,0 mph,29.78 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,SE,6 mph,0 mph,29.75 in,0.0 in,Rain
-7/12/2022,52 °F,48 °F,88 %,SE,9 mph,0 mph,29.75 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.75 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,SSE,7 mph,0 mph,29.74 in,0.0 in,Light Rain
-7/12/2022,50 °F,49 °F,96 %,SSE,5 mph,0 mph,29.74 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,CALM,0 mph,0 mph,29.73 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,CALM,0 mph,0 mph,29.72 in,0.0 in,Rain
-7/12/2022,50 °F,49 °F,96 %,NE,5 mph,0 mph,29.68 in,0.0 in,Light Rain
-7/12/2022,50 °F,48 °F,94 %,NE,3 mph,0 mph,29.67 in,0.0 in,Light Rain
-7/12/2022,50 °F,49 °F,96 %,ENE,3 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/12/2022,50 °F,48 °F,94 %,NE,5 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/12/2022,50 °F,49 °F,96 %,NNE,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,50 °F,48 °F,94 %,NNE,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,NNE,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,51 °F,49 °F,92 %,NNE,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,NNE,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,51 °F,50 °F,96 %,N,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,N,6 mph,0 mph,29.62 in,0.0 in,Light Drizzle
-7/12/2022,52 °F,50 °F,94 %,NNW,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,N,6 mph,0 mph,29.62 in,0.0 in,Light Drizzle
-7/12/2022,52 °F,50 °F,94 %,N,8 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,N,7 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,93 %,N,7 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,N,6 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,NNE,3 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,93 %,NNE,5 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,52 °F,50 °F,94 %,N,3 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,88 %,CALM,0 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,53 °F,50 °F,89 %,CALM,0 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,88 %,CALM,0 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,88 %,CALM,0 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,86 %,WNW,7 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,48 °F,82 %,WNW,9 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,48 °F,82 %,WNW,10 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,48 °F,82 %,WNW,10 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,48 °F,82 %,NW,9 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,53 °F,50 °F,89 %,WNW,8 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,50 °F,88 %,WNW,9 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,50 °F,88 %,WNW,9 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,54 °F,50 °F,88 %,W,12 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/12/2022,53 °F,49 °F,86 %,W,6 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,88 %,WNW,6 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,54 °F,50 °F,88 %,WNW,6 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,54 °F,48 °F,82 %,WNW,7 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,54 °F,49 °F,83 %,WNW,8 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,55 °F,52 °F,88 %,NW,9 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,55 °F,50 °F,82 %,NW,8 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,55 °F,50 °F,83 %,NW,8 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,55 °F,52 °F,88 %,NNW,14 mph,0 mph,29.60 in,0.0 in,Light Rain
-7/12/2022,55 °F,52 °F,88 %,NNW,10 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/12/2022,55 °F,50 °F,82 %,NW,12 mph,0 mph,29.60 in,0.0 in,Light Drizzle
-7/12/2022,55 °F,50 °F,83 %,NW,15 mph,0 mph,29.60 in,0.0 in,Light Drizzle
-7/12/2022,55 °F,50 °F,82 %,NNW,12 mph,0 mph,29.60 in,0.0 in,Light Rain
-7/12/2022,54 °F,50 °F,86 %,NW,9 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,55 °F,48 °F,77 %,NW,13 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,49 °F,83 %,NW,14 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/12/2022,54 °F,49 °F,83 %,NW,10 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,WNW,7 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/12/2022,52 °F,48 °F,88 %,NW,7 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/12/2022,52 °F,49 °F,89 %,NW,10 mph,0 mph,29.65 in,0.0 in,Clou
-7/13/2022,52 °F,49 °F,89 %,NNW,13 mph,0 mph,29.67 in,0.0 in,Mostly Cloudy
-7/13/2022,54 °F,48 °F,82 %,NNW,16 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/13/2022,53 °F,49 °F,86 %,NNW,13 mph,0 mph,29.69 in,0.0 in,Mostly Cloudy
-7/13/2022,53 °F,49 °F,86 %,NW,12 mph,0 mph,29.71 in,0.0 in,Cloudy
-7/13/2022,54 °F,48 °F,82 %,NNW,14 mph,0 mph,29.71 in,0.0 in,Cloudy
-7/13/2022,54 °F,48 °F,82 %,NNW,16 mph,0 mph,29.72 in,0.0 in,Cloudy
-7/13/2022,53 °F,49 °F,86 %,NNW,16 mph,0 mph,29.72 in,0.0 in,Cloudy
-7/13/2022,54 °F,48 °F,82 %,NNW,14 mph,0 mph,29.72 in,0.0 in,Cloudy
-7/13/2022,54 °F,49 °F,83 %,NW,9 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/13/2022,54 °F,48 °F,82 %,NW,9 mph,0 mph,29.74 in,0.0 in,Mostly Cloudy
-7/13/2022,53 °F,49 °F,86 %,NNW,15 mph,0 mph,29.76 in,0.0 in,Mostly Cloudy
-7/13/2022,54 °F,49 °F,83 %,NNW,18 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy
-7/13/2022,54 °F,48 °F,82 %,NNW,17 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy
-7/13/2022,54 °F,48 °F,82 %,N,18 mph,0 mph,29.78 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,50 °F,82 %,NNW,14 mph,0 mph,29.80 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,48 °F,77 %,N,10 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,50 °F,83 %,N,9 mph,0 mph,29.82 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,50 °F,82 %,NNW,9 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,48 °F,77 %,N,10 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,49 °F,80 %,N,10 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,50 °F,82 %,NNW,12 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
-7/13/2022,55 °F,50 °F,82 %,NW,9 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NNW,7 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NNW,7 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,50 °F,77 %,NNW,12 mph,0 mph,29.84 in,0.0 in,Mostly Cloudy
-7/13/2022,59 °F,51 °F,75 %,NNW,15 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
-7/13/2022,61 °F,52 °F,72 %,N,12 mph,0 mph,29.83 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,N,7 mph,0 mph,29.83 in,0.0 in,Partly Cloudy
-7/13/2022,59 °F,53 °F,81 %,WNW,8 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy
-7/13/2022,59 °F,52 °F,77 %,W,7 mph,0 mph,29.85 in,0.0 in,Mostly Cloudy
-7/13/2022,59 °F,52 °F,77 %,WNW,12 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy
-7/13/2022,59 °F,52 °F,77 %,WNW,8 mph,0 mph,29.87 in,0.0 in,Mostly Cloudy
-7/13/2022,59 °F,52 °F,77 %,NNW,10 mph,0 mph,29.88 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,N,12 mph,0 mph,29.88 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,51 °F,81 %,N,13 mph,0 mph,29.88 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NNE,14 mph,0 mph,29.88 in,0.0 in,Mostly Cloudy
-7/13/2022,61 °F,52 °F,72 %,NNW,14 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/13/2022,61 °F,52 °F,72 %,NNW,14 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/13/2022,60 °F,52 °F,75 %,NNW,14 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/13/2022,58 °F,51 °F,78 %,NW,13 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NW,12 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,N,9 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/13/2022,58 °F,52 °F,81 %,N,9 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NNW,8 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/13/2022,57 °F,52 °F,82 %,NNW,13 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/13/2022,58 °F,52 °F,81 %,NNW,13 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
-7/13/2022,56 °F,50 °F,80 %,NW,10 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/13/2022,55 °F,50 °F,82 %,N,10 mph,0 mph,29.96 in,0.0 in,Partly Cloudy
-7/13/2022,55 °F,49 °F,80 %,N,7 mph,0 mph,29.99 in,0.0 in,Fair
-7/13/2022,53 °F,47 °F,80 %,NNW,10 mph,0 mph,30.00 in,0.0 in,Fair
-7/14/2022,53 °F,47 °F,80 %,N,12 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/14/2022,52 °F,47 °F,83 %,N,6 mph,0 mph,30.00 in,0.0 in,Partly Cloudy
-7/14/2022,51 °F,46 °F,83 %,N,10 mph,0 mph,30.01 in,0.0 in,Fair
-7/14/2022,51 °F,45 °F,80 %,NW,7 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/14/2022,51 °F,46 °F,83 %,W,8 mph,0 mph,30.00 in,0.0 in,Fair
-7/14/2022,51 °F,47 °F,86 %,WNW,6 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/14/2022,52 °F,47 °F,83 %,NW,7 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/14/2022,52 °F,47 °F,83 %,NW,7 mph,0 mph,30.02 in,0.0 in,Mostly Cloudy
-7/14/2022,52 °F,49 °F,89 %,NNE,6 mph,0 mph,30.02 in,0.0 in,Light Rain
-7/14/2022,52 °F,49 °F,89 %,NNW,5 mph,0 mph,30.01 in,0.0 in,Light Rain
-7/14/2022,53 °F,50 °F,89 %,N,6 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/14/2022,53 °F,49 °F,86 %,N,5 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/14/2022,55 °F,50 °F,82 %,NNE,5 mph,0 mph,30.01 in,0.0 in,Mostly Cloudy
-7/14/2022,56 °F,50 °F,80 %,N,6 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/14/2022,55 °F,50 °F,82 %,NE,5 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-7/14/2022,57 °F,50 °F,77 %,NNE,5 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/14/2022,57 °F,50 °F,77 %,VAR,5 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,48 °F,67 %,NW,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,50 °F,72 %,WNW,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,50 °F,72 %,WNW,7 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,52 °F,77 %,WNW,7 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,51 °F,75 %,WNW,6 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,59 °F,51 °F,75 %,NW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,57 °F,52 °F,82 %,WNW,8 mph,0 mph,29.96 in,0.0 in,Partly Cloudy
-7/14/2022,58 °F,51 °F,78 %,WNW,8 mph,0 mph,29.96 in,0.0 in,Partly Cloudy
-7/14/2022,57 °F,52 °F,82 %,WNW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/14/2022,58 °F,51 °F,78 %,WNW,7 mph,0 mph,29.95 in,0.0 in,Mostly Cloudy
-7/14/2022,58 °F,50 °F,75 %,NW,3 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/14/2022,58 °F,50 °F,75 %,CALM,0 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/14/2022,56 °F,51 °F,84 %,CALM,0 mph,0 mph,29.93 in,0.0 in,Partly Cloudy
-7/14/2022,52 °F,50 °F,93 %,ENE,3 mph,0 mph,29.96 in,0.0 in,Fair
-7/15/2022,52 °F,50 °F,93 %,NE,3 mph,0 mph,29.95 in,0.0 in,Partly Cloudy
-7/15/2022,51 °F,49 °F,92 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Fair
-7/15/2022,50 °F,48 °F,94 %,S,12 mph,0 mph,29.92 in,0.0 in,Fair
-7/15/2022,50 °F,49 °F,96 %,SSE,8 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/15/2022,50 °F,48 °F,94 %,SE,12 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-7/15/2022,50 °F,48 °F,94 %,SE,8 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-7/15/2022,50 °F,48 °F,94 %,SSE,6 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/15/2022,48 °F,48 °F,100 %,SSE,9 mph,0 mph,29.90 in,0.0 in,Partly Cloudy
-7/15/2022,48 °F,48 °F,100 %,SSE,9 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/15/2022,49 °F,48 °F,97 %,SSE,10 mph,0 mph,29.90 in,0.0 in,Mostly Cloudy
-7/15/2022,48 °F,48 °F,100 %,SSE,8 mph,0 mph,29.89 in,0.0 in,Cloudy
-7/15/2022,49 °F,48 °F,97 %,SSE,7 mph,0 mph,29.88 in,0.0 in,Patches of Fog
-7/15/2022,49 °F,48 °F,97 %,S,14 mph,0 mph,29.87 in,0.0 in,Patches of Fog
-7/15/2022,49 °F,47 °F,93 %,S,8 mph,0 mph,29.86 in,0.0 in,Mostly Cloudy
-7/15/2022,50 °F,48 °F,93 %,SSE,12 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/15/2022,50 °F,49 °F,96 %,SSE,10 mph,0 mph,29.85 in,0.0 in,Cloudy
-7/15/2022,50 °F,48 °F,94 %,SSE,12 mph,0 mph,29.84 in,0.0 in,Light Drizzle
-7/15/2022,51 °F,50 °F,96 %,SSE,12 mph,0 mph,29.83 in,0.0 in,Light Drizzle
-7/15/2022,52 °F,50 °F,94 %,S,14 mph,0 mph,29.83 in,0.0 in,Light Rain
-7/15/2022,51 °F,50 °F,96 %,SSE,12 mph,0 mph,29.82 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,S,14 mph,0 mph,29.81 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,SSE,12 mph,0 mph,29.81 in,0.0 in,Light Rain
-7/15/2022,51 °F,50 °F,96 %,SSE,10 mph,0 mph,29.81 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,SSE,9 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,SSE,10 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,SSE,12 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,13 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,52 °F,50 °F,94 %,SSE,10 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,7 mph,0 mph,29.80 in,0.0 in,Light Rain
-7/15/2022,51 °F,51 °F,100 %,SSE,9 mph,0 mph,29.79 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,12 mph,0 mph,29.79 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,8 mph,0 mph,29.78 in,0.0 in,Light Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,10 mph,0 mph,29.77 in,0.0 in,Light Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.76 in,0.0 in,Light Rain
-7/15/2022,53 °F,52 °F,96 %,SSE,9 mph,0 mph,29.76 in,0.0 in,Light Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.76 in,0.0 in,Light Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,10 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,93 %,SSE,9 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,93 %,SSE,7 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.75 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.74 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.73 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,9 mph,0 mph,29.73 in,0.0 in,Cloudy
-7/15/2022,53 °F,51 °F,93 %,SSE,9 mph,0 mph,29.73 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.73 in,0.0 in,Fog
-7/15/2022,54 °F,52 °F,94 %,SSE,7 mph,0 mph,29.73 in,0.0 in,Fog
-7/15/2022,52 °F,52 °F,100 %,SSE,7 mph,0 mph,29.72 in,0.0 in,Fog
-7/15/2022,52 °F,52 °F,100 %,SSE,7 mph,0 mph,29.72 in,0.0 in,Fog
-7/15/2022,53 °F,52 °F,96 %,SSE,5 mph,0 mph,29.71 in,0.0 in,Cloudy
-7/15/2022,54 °F,52 °F,94 %,SSE,7 mph,0 mph,29.71 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,8 mph,0 mph,29.71 in,0.0 in,Light Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,7 mph,0 mph,29.70 in,0.0 in,Rain
-7/15/2022,54 °F,52 °F,94 %,SSE,9 mph,0 mph,29.70 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,9 mph,0 mph,29.70 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,8 mph,0 mph,29.69 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SE,9 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/15/2022,52 °F,51 °F,97 %,SSE,8 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/15/2022,52 °F,52 °F,100 %,SE,8 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/15/2022,52 °F,52 °F,100 %,SSE,9 mph,0 mph,29.68 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,9 mph,0 mph,29.68 in,0.0 in,Light Rain
-7/15/2022,52 °F,52 °F,100 %,SSE,10 mph,0 mph,29.68 in,0.0 in,Cloudy
-7/16/2022,52 °F,52 °F,100 %,SSE,12 mph,0 mph,29.67 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,SSE,8 mph,0 mph,29.66 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,SE,7 mph,0 mph,29.66 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,SE,8 mph,0 mph,29.65 in,0.0 in,Light Rain
-7/16/2022,53 °F,52 °F,96 %,SE,9 mph,0 mph,29.65 in,0.0 in,Light Rain
-7/16/2022,54 °F,52 °F,94 %,SE,9 mph,0 mph,29.65 in,0.0 in,Light Rain
-7/16/2022,52 °F,52 °F,100 %,SSE,8 mph,0 mph,29.64 in,0.0 in,Light Rain
-7/16/2022,52 °F,51 °F,97 %,SSE,12 mph,0 mph,29.64 in,0.0 in,Light Rain
-7/16/2022,53 °F,52 °F,96 %,SSE,13 mph,0 mph,29.62 in,0.0 in,Light Rain
-7/16/2022,54 °F,52 °F,94 %,SSE,12 mph,0 mph,29.61 in,0.0 in,Light Rain
-7/16/2022,53 °F,52 °F,96 %,SSE,12 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,S,13 mph,0 mph,29.59 in,0.0 in,Light Rain
-7/16/2022,54 °F,54 °F,100 %,SSW,12 mph,0 mph,29.59 in,0.0 in,Cloudy
-7/16/2022,53 °F,52 °F,96 %,S,14 mph,0 mph,29.58 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,S,15 mph,0 mph,29.57 in,0.0 in,Cloudy
-7/16/2022,54 °F,52 °F,94 %,S,16 mph,0 mph,29.57 in,0.0 in,Cloudy
-7/16/2022,53 °F,51 °F,93 %,S,16 mph,0 mph,29.56 in,0.0 in,Light Drizzle
-7/16/2022,53 °F,52 °F,96 %,SSW,13 mph,0 mph,29.57 in,0.0 in,Light Drizzle
-7/16/2022,54 °F,52 °F,94 %,SW,8 mph,0 mph,29.57 in,0.0 in,Light Drizzle
-7/16/2022,54 °F,50 °F,86 %,S,5 mph,0 mph,29.57 in,0.0 in,Light Drizzle
-7/16/2022,54 °F,51 °F,90 %,NNE,6 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy
-7/16/2022,55 °F,52 °F,89 %,VAR,3 mph,0 mph,29.58 in,0.0 in,Mostly Cloudy
-7/16/2022,57 °F,54 °F,88 %,SSW,13 mph,0 mph,29.55 in,0.0 in,Mostly Cloudy
-7/16/2022,57 °F,53 °F,87 %,SSW,13 mph,0 mph,29.55 in,0.0 in,Mostly Cloudy
-7/16/2022,55 °F,52 °F,88 %,SSW,15 mph,0 mph,29.56 in,0.0 in,Mostly Cloudy
-7/16/2022,55 °F,51 °F,86 %,SSW,13 mph,0 mph,29.56 in,0.0 in,Mostly Cloudy
-7/16/2022,54 °F,50 °F,88 %,SSW,18 mph,0 mph,29.56 in,0.0 in,Mostly Cloudy
-7/16/2022,55 °F,50 °F,83 %,SSW,17 mph,0 mph,29.56 in,0.0 in,Mostly Cloudy
-7/16/2022,54 °F,48 °F,82 %,SW,12 mph,0 mph,29.57 in,0.0 in,Mostly Cloudy
-7/16/2022,54 °F,48 °F,80 %,SW,21 mph,24 mph,29.57 in,0.0 in,Mostly Cloudy / Windy
-7/16/2022,53 °F,48 °F,83 %,S,14 mph,0 mph,29.58 in,0.0 in,Cloudy
-7/16/2022,54 °F,48 °F,82 %,S,17 mph,0 mph,29.58 in,0.0 in,Cloudy
-7/16/2022,54 °F,48 °F,82 %,SSW,9 mph,26 mph,29.59 in,0.0 in,Light Rain
-7/16/2022,54 °F,48 °F,82 %,SSW,9 mph,26 mph,29.59 in,0.0 in,Light Rain
-7/16/2022,53 °F,48 °F,83 %,SW,8 mph,26 mph,29.59 in,0.0 in,Light Rain
-7/16/2022,54 °F,48 °F,82 %,VAR,6 mph,26 mph,29.59 in,0.0 in,Light Rain
-7/16/2022,54 °F,48 °F,82 %,VAR,7 mph,0 mph,29.58 in,0.0 in,Light Rain
-7/16/2022,54 °F,49 °F,83 %,S,8 mph,0 mph,29.57 in,0.0 in,Light Rain
-7/16/2022,54 °F,48 °F,82 %,SSW,7 mph,0 mph,29.58 in,0.0 in,Light Rain
-7/16/2022,54 °F,48 °F,82 %,S,29 mph,0 mph,29.57 in,0.0 in,Light Rain / Windy
-7/16/2022,54 °F,49 °F,83 %,S,29 mph,0 mph,29.57 in,0.0 in,Light Rain / Windy
-7/16/2022,54 °F,48 °F,82 %,S,29 mph,0 mph,29.57 in,0.0 in,Light Rain / Windy
-7/16/2022,54 °F,48 °F,82 %,SW,10 mph,16 mph,29.57 in,0.0 in,Cloudy
-7/16/2022,54 °F,48 °F,80 %,SW,17 mph,22 mph,29.58 in,0.0 in,Cloudy
-7/16/2022,53 °F,48 °F,83 %,SW,18 mph,24 mph,29.58 in,0.0 in,Light Rain
-7/16/2022,52 °F,49 °F,89 %,S,8 mph,0 mph,29.58 in,0.0 in,Cloudy
-7/16/2022,52 °F,48 °F,88 %,SW,10 mph,0 mph,29.59 in,0.0 in,Cloudy
-7/17/2022,52 °F,48 °F,88 %,SSW,9 mph,0 mph,29.60 in,0.0 in,Cloudy
-7/17/2022,52 °F,48 °F,88 %,SSW,8 mph,0 mph,29.61 in,0.0 in,Cloudy
-7/17/2022,53 °F,48 °F,83 %,SW,9 mph,0 mph,29.62 in,0.0 in,Cloudy
-7/17/2022,53 °F,48 °F,83 %,SW,14 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/17/2022,54 °F,48 °F,82 %,SW,8 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/17/2022,54 °F,48 °F,82 %,SW,12 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/17/2022,54 °F,48 °F,82 %,WSW,12 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/17/2022,52 °F,48 °F,86 %,WSW,9 mph,0 mph,29.63 in,0.0 in,Cloudy
-7/17/2022,52 °F,47 °F,83 %,W,9 mph,0 mph,29.64 in,0.0 in,Cloudy
-7/17/2022,52 °F,46 °F,82 %,WSW,9 mph,0 mph,29.64 in,0.0 in,Cloudy
-7/17/2022,52 °F,46 °F,82 %,WSW,7 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/17/2022,52 °F,46 °F,80 %,WSW,12 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/17/2022,52 °F,46 °F,82 %,SW,5 mph,0 mph,29.65 in,0.0 in,Cloudy
-7/17/2022,52 °F,46 °F,82 %,W,12 mph,16 mph,29.67 in,0.0 in,Cloudy
-7/17/2022,53 °F,47 °F,80 %,W,14 mph,0 mph,29.69 in,0.0 in,Cloudy
-7/17/2022,52 °F,48 °F,88 %,WNW,14 mph,0 mph,29.70 in,0.0 in,Cloudy
-7/17/2022,54 °F,50 °F,88 %,WNW,25 mph,44 mph,29.71 in,0.0 in,Cloudy / Windy
-7/17/2022,52 °F,48 °F,88 %,WNW,25 mph,44 mph,29.71 in,0.0 in,Cloudy / Windy
-7/17/2022,52 °F,49 °F,89 %,WNW,25 mph,44 mph,29.72 in,0.0 in,Cloudy / Windy
-7/17/2022,52 °F,48 °F,88 %,WNW,25 mph,44 mph,29.72 in,0.0 in,Cloudy / Windy
-7/17/2022,52 °F,48 °F,88 %,W,18 mph,36 mph,29.74 in,0.0 in,Light Rain
-7/17/2022,52 °F,48 °F,88 %,WNW,18 mph,32 mph,29.76 in,0.0 in,Mostly Cloudy
-7/17/2022,52 °F,48 °F,88 %,WNW,18 mph,32 mph,29.76 in,0.0 in,Mostly Cloudy
-7/17/2022,52 °F,48 °F,86 %,WNW,18 mph,32 mph,29.76 in,0.0 in,Mostly Cloudy
-7/17/2022,52 °F,48 °F,88 %,WNW,18 mph,44 mph,29.78 in,0.0 in,Partly Cloudy
-7/17/2022,54 °F,48 °F,82 %,WNW,17 mph,32 mph,29.79 in,0.0 in,Partly Cloudy
-7/17/2022,53 °F,48 °F,83 %,WNW,17 mph,32 mph,29.80 in,0.0 in,Partly Cloudy
-7/17/2022,54 °F,46 °F,77 %,WNW,12 mph,32 mph,29.81 in,0.0 in,Fair
-7/17/2022,54 °F,45 °F,72 %,WNW,14 mph,32 mph,29.82 in,0.0 in,Fair
-7/17/2022,54 °F,46 °F,77 %,WNW,13 mph,22 mph,29.83 in,0.0 in,Fair
-7/17/2022,54 °F,46 °F,75 %,WNW,12 mph,0 mph,29.83 in,0.0 in,Fair
-7/17/2022,54 °F,45 °F,72 %,W,9 mph,20 mph,29.85 in,0.0 in,Fair
-7/17/2022,54 °F,45 °F,72 %,W,32 mph,0 mph,29.86 in,0.0 in,Fair / Windy
-7/17/2022,55 °F,45 °F,67 %,WNW,8 mph,0 mph,29.88 in,0.0 in,Fair
-7/17/2022,55 °F,45 °F,67 %,WNW,20 mph,0 mph,29.88 in,0.0 in,Fair
-7/17/2022,55 °F,43 °F,64 %,WNW,20 mph,0 mph,29.87 in,0.0 in,Fair
-7/17/2022,55 °F,43 °F,63 %,WNW,26 mph,0 mph,29.88 in,0.0 in,Partly Cloudy / Windy
-7/17/2022,56 °F,43 °F,62 %,WNW,26 mph,0 mph,29.89 in,0.0 in,Partly Cloudy / Windy
-7/17/2022,57 °F,43 °F,59 %,NNW,28 mph,0 mph,29.89 in,0.0 in,Partly Cloudy / Windy
-7/17/2022,58 °F,41 °F,53 %,NNW,28 mph,0 mph,29.89 in,0.0 in,Partly Cloudy / Windy
-7/17/2022,59 °F,43 °F,55 %,NW,25 mph,0 mph,29.91 in,0.0 in,Partly Cloudy / Windy
-7/17/2022,61 °F,43 °F,52 %,W,7 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,43 °F,52 %,W,9 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,43 °F,52 %,W,9 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/17/2022,63 °F,46 °F,55 %,S,7 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,45 °F,56 %,S,5 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,46 °F,59 %,SW,7 mph,0 mph,29.93 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,46 °F,58 %,SSW,5 mph,0 mph,29.93 in,0.0 in,Partly Cloudy
-7/17/2022,61 °F,46 °F,59 %,SSW,3 mph,0 mph,29.94 in,0.0 in,Fair
-7/17/2022,61 °F,46 °F,58 %,SW,6 mph,0 mph,29.94 in,0.0 in,Fair
-7/17/2022,59 °F,46 °F,62 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Fair
-7/17/2022,58 °F,47 °F,67 %,VAR,3 mph,0 mph,29.95 in,0.0 in,Fair
-7/17/2022,57 °F,45 °F,64 %,W,8 mph,0 mph,29.96 in,0.0 in,Fair
-7/17/2022,55 °F,46 °F,72 %,WSW,5 mph,0 mph,30.00 in,0.0 in,Fair
-7/18/2022,49 °F,46 °F,90 %,S,8 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/18/2022,50 °F,46 °F,87 %,N,6 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/18/2022,50 °F,46 °F,87 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Cloudy
-7/18/2022,50 °F,46 °F,86 %,S,8 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/18/2022,50 °F,46 °F,87 %,S,7 mph,0 mph,29.93 in,0.0 in,Cloudy
-7/18/2022,48 °F,46 °F,93 %,SE,5 mph,0 mph,29.91 in,0.0 in,Cloudy
-7/18/2022,48 °F,46 °F,93 %,SE,5 mph,0 mph,29.91 in,0.0 in,Cloudy
-7/18/2022,49 °F,47 °F,93 %,CALM,0 mph,0 mph,29.91 in,0.0 in,Cloudy
-7/18/2022,49 °F,46 °F,90 %,CALM,0 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/18/2022,49 °F,46 °F,90 %,NNW,5 mph,0 mph,29.89 in,0.0 in,Cloudy
-7/18/2022,48 °F,46 °F,93 %,NW,6 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/18/2022,48 °F,45 °F,87 %,WNW,8 mph,0 mph,29.90 in,0.0 in,Cloudy
-7/18/2022,49 °F,45 °F,86 %,NNW,3 mph,0 mph,29.89 in,0.0 in,Cloudy
-7/18/2022,48 °F,45 °F,87 %,NNW,3 mph,0 mph,29.89 in,0.0 in,Mostly Cloudy
-7/18/2022,50 °F,46 °F,86 %,WNW,7 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-7/18/2022,50 °F,46 °F,87 %,WNW,6 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-7/18/2022,50 °F,46 °F,87 %,WNW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,50 °F,46 °F,86 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,50 °F,46 °F,87 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Cloudy
-7/18/2022,52 °F,46 °F,82 %,WNW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,52 °F,46 °F,82 %,WNW,8 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,52 °F,46 °F,82 %,WNW,7 mph,0 mph,29.91 in,0.0 in,Partly Cloudy
-7/18/2022,52 °F,46 °F,82 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,53 °F,46 °F,77 %,NW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,54 °F,46 °F,77 %,WNW,8 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,55 °F,46 °F,72 %,NW,12 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-7/18/2022,54 °F,46 °F,75 %,NW,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/18/2022,54 °F,46 °F,77 %,WNW,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/18/2022,55 °F,46 °F,72 %,NW,8 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/18/2022,56 °F,46 °F,69 %,NW,9 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-7/18/2022,57 °F,46 °F,67 %,NW,9 mph,0 mph,29.94 in,0.0 in,Partly Cloudy
-7/18/2022,57 °F,46 °F,67 %,NW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,47 °F,69 %,NW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,59 °F,48 °F,67 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,59 °F,48 °F,67 %,W,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/18/2022,59 °F,48 °F,67 %,WNW,8 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/18/2022,58 °F,49 °F,72 %,WNW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,W,10 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,49 °F,74 %,W,10 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,W,9 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-7/18/2022,57 °F,48 °F,72 %,W,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-7/18/2022,56 °F,48 °F,75 %,W,8 mph,0 mph,29.96 in,0.0 in,Cloudy
-7/18/2022,56 °F,48 °F,75 %,W,7 mph,0 mph,29.99 in,0.0 in,Cloudy
-7/18/2022,55 °F,48 °F,77 %,W,8 mph,0 mph,29.99 in,0.0 in,Cloudy
-7/18/2022,54 °F,47 °F,77 %,W,9 mph,0 mph,30.00 in,0.0 in,Cloudy
-7/18/2022,53 °F,47 °F,80 %,W,7 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
-11:56 PM,49 °F,46 °F,90 %,S,8 mph,0 mph,29.94 in,0.0 in,Cloudy
-12:13 AM,50 °F,46 °F,87 %,N,6 mph,0 mph,29.94 in,0.0 in,Cloudy
-12:28 AM,50 °F,46 °F,87 %,CALM,0 mph,0 mph,29.94 in,0.0 in,Cloudy
-12:56 AM,50 °F,46 °F,86 %,S,8 mph,0 mph,29.93 in,0.0 in,Cloudy
-1:10 AM,50 °F,46 °F,87 %,S,7 mph,0 mph,29.93 in,0.0 in,Cloudy
-1:56 AM,48 °F,46 °F,93 %,SE,5 mph,0 mph,29.91 in,0.0 in,Cloudy
-2:16 AM,48 °F,46 °F,93 %,SE,5 mph,0 mph,29.91 in,0.0 in,Cloudy
-2:56 AM,49 °F,47 °F,93 %,CALM,0 mph,0 mph,29.91 in,0.0 in,Cloudy
-3:56 AM,49 °F,46 °F,90 %,CALM,0 mph,0 mph,29.90 in,0.0 in,Cloudy
-4:56 AM,49 °F,46 °F,90 %,NNW,5 mph,0 mph,29.89 in,0.0 in,Cloudy
-5:12 AM,48 °F,46 °F,93 %,NW,6 mph,0 mph,29.90 in,0.0 in,Cloudy
-6:06 AM,48 °F,45 °F,87 %,WNW,8 mph,0 mph,29.90 in,0.0 in,Cloudy
-6:56 AM,49 °F,45 °F,86 %,NNW,3 mph,0 mph,29.89 in,0.0 in,Cloudy
-6:57 AM,48 °F,45 °F,87 %,NNW,3 mph,0 mph,29.89 in,0.0 in,Mostly Cloudy
-7:56 AM,50 °F,46 °F,86 %,WNW,7 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-7:58 AM,50 °F,46 °F,87 %,WNW,6 mph,0 mph,29.91 in,0.0 in,Mostly Cloudy
-8:53 AM,50 °F,46 °F,87 %,WNW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-8:56 AM,50 °F,46 °F,86 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-8:57 AM,50 °F,46 °F,87 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Cloudy
-8:59 AM,52 °F,46 °F,82 %,WNW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-9:17 AM,52 °F,46 °F,82 %,WNW,8 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-9:30 AM,52 °F,46 °F,82 %,WNW,7 mph,0 mph,29.91 in,0.0 in,Partly Cloudy
-9:51 AM,52 °F,46 °F,82 %,WNW,7 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-9:56 AM,53 °F,46 °F,77 %,NW,6 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-10:03 AM,54 °F,46 °F,77 %,WNW,8 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-10:51 AM,55 °F,46 °F,72 %,NW,12 mph,0 mph,29.92 in,0.0 in,Mostly Cloudy
-10:56 AM,54 °F,46 °F,75 %,NW,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-10:58 AM,54 °F,46 °F,77 %,WNW,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-11:53 AM,55 °F,46 °F,72 %,NW,8 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-11:56 AM,56 °F,46 °F,69 %,NW,9 mph,0 mph,29.92 in,0.0 in,Partly Cloudy
-12:34 PM,57 °F,46 °F,67 %,NW,9 mph,0 mph,29.94 in,0.0 in,Partly Cloudy
-12:54 PM,57 °F,46 °F,67 %,NW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-12:56 PM,57 °F,47 °F,69 %,NW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-1:52 PM,59 °F,48 °F,67 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-1:56 PM,59 °F,48 °F,67 %,W,10 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-1:58 PM,59 °F,48 °F,67 %,WNW,8 mph,0 mph,29.93 in,0.0 in,Mostly Cloudy
-2:52 PM,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-2:56 PM,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-2:58 PM,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.94 in,0.0 in,Mostly Cloudy
-3:54 PM,57 °F,48 °F,72 %,WNW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-3:56 PM,58 °F,49 °F,72 %,WNW,9 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-4:24 PM,57 °F,48 °F,72 %,W,10 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-4:56 PM,57 °F,49 °F,74 %,W,10 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-5:00 PM,57 °F,48 °F,72 %,W,9 mph,0 mph,29.97 in,0.0 in,Mostly Cloudy
-5:53 PM,57 °F,48 °F,72 %,W,8 mph,0 mph,29.96 in,0.0 in,Mostly Cloudy
-6:56 PM,56 °F,48 °F,75 %,W,8 mph,0 mph,29.96 in,0.0 in,Cloudy
-7:56 PM,56 °F,48 °F,75 %,W,7 mph,0 mph,29.99 in,0.0 in,Cloudy
-8:56 PM,55 °F,48 °F,77 %,W,8 mph,0 mph,29.99 in,0.0 in,Cloudy
-9:56 PM,54 °F,47 °F,77 %,W,9 mph,0 mph,30.00 in,0.0 in,Cloudy
-10:56 PM,53 °F,47 °F,80 %,W,7 mph,0 mph,30.00 in,0.0 in,Mostly Cloudy
+7/1/2022,50,48,94,VAR,5,0,29.78,0,Light Rain
+7/1/2022,50,48,94,VAR,3,0,29.78,0,Light Rain
+7/1/2022,50,49,96,VAR,3,0,29.77,0,Cloudy
+7/1/2022,50,48,94,E,3,0,29.77,0,Cloudy
+7/1/2022,50,49,96,CALM,0,0,29.78,0,Cloudy
+7/1/2022,51,49,92,CALM,0,0,29.76,0,Cloudy
+7/1/2022,51,49,92,NE,6,0,29.76,0,Cloudy
+7/1/2022,52,48,88,VAR,5,0,29.76,0,Cloudy
+7/1/2022,52,48,88,CALM,0,0,29.76,0,Cloudy
+7/1/2022,51,49,92,VAR,3,0,29.76,0,Cloudy
+7/1/2022,52,48,88,CALM,0,0,29.75,0,Cloudy
+7/1/2022,51,48,89,CALM,0,0,29.75,0,Cloudy
+7/1/2022,52,48,88,VAR,3,0,29.76,0,Cloudy
+7/1/2022,51,49,92,VAR,3,0,29.75,0,Cloudy
+7/1/2022,51,49,92,VAR,5,0,29.75,0,Light Rain
+7/1/2022,51,49,92,VAR,5,0,29.76,0,Light Drizzle
+7/1/2022,52,48,88,VAR,6,0,29.76,0,Light Drizzle
+7/1/2022,52,50,93,NNE,6,0,29.76,0,Light Drizzle
+7/1/2022,53,50,89,NE,6,0,29.76,0,Light Drizzle
+7/1/2022,54,50,86,NE,9,16,29.77,0,Cloudy
+7/1/2022,54,50,86,VAR,5,0,29.75,0,Mostly Cloudy
+7/1/2022,57,50,77,ENE,8,0,29.74,0,Mostly Cloudy
+7/1/2022,57,50,77,VAR,7,0,29.76,0,Mostly Cloudy
+7/1/2022,56,50,80,VAR,6,0,29.75,0,Mostly Cloudy
+7/1/2022,55,49,80,VAR,3,0,29.75,0,Mostly Cloudy
+7/1/2022,55,48,77,NE,8,0,29.75,0,Mostly Cloudy
+7/1/2022,55,49,80,NE,6,0,29.76,0,Cloudy
+7/1/2022,55,50,82,VAR,5,0,29.76,0,Cloudy
+7/1/2022,53,49,86,NE,3,0,29.79,0,Cloudy
+7/1/2022,53,49,86,NNE,5,0,29.79,0,Cloudy
+7/1/2022,52,49,89,CALM,0,0,29.8,,
+7/2/2022,51,49,92,CALM,0,0,29.83,0,Light Rain
+7/2/2022,50,49,96,CALM,0,0,29.83,0,Cloudy
+7/2/2022,50,49,96,CALM,0,0,29.84,0,Light Rain
+7/2/2022,50,49,96,CALM,0,0,29.85,0,Cloudy
+7/2/2022,50,48,94,NNE,3,0,29.85,0,Cloudy
+7/2/2022,50,48,94,CALM,0,0,29.85,0,Cloudy
+7/2/2022,50,49,96,CALM,0,0,29.84,0,Cloudy
+7/2/2022,50,48,93,CALM,0,0,29.85,0,Cloudy
+7/2/2022,50,49,96,CALM,0,0,29.86,0,Cloudy
+7/2/2022,51,49,92,CALM,0,0,29.87,0,Mostly Cloudy
+7/2/2022,51,49,92,CALM,0,0,29.87,0,Mostly Cloudy
+7/2/2022,53,50,89,SSE,7,0,29.86,0,Mostly Cloudy
+7/2/2022,53,49,86,S,8,0,29.87,0,Mostly Cloudy
+7/2/2022,53,50,89,SSE,8,0,29.89,0,Mostly Cloudy
+7/2/2022,54,49,83,NE,6,0,29.88,0,Cloudy
+7/2/2022,55,50,83,SSE,7,0,29.88,0,Light Rain
+7/2/2022,53,51,93,SSE,6,0,29.9,0,Cloudy
+7/2/2022,54,51,90,SSE,7,0,29.91,0,Cloudy
+7/2/2022,54,50,86,CALM,0,0,29.89,0,Cloudy
+7/2/2022,54,50,88,SSE,5,0,29.93,0,Cloudy
+7/2/2022,53,50,89,SSE,5,0,29.93,0,Cloudy
+7/2/2022,53,50,89,SSE,3,0,29.93,0,Cloudy
+7/2/2022,53,50,89,CALM,0,0,29.94,0,Cloudy
+7/2/2022,52,50,93,CALM,0,0,29.95,,
+7/3/2022,54,52,94,CALM,0,0,29.95,0,Cloudy
+7/3/2022,52,50,94,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,51,97,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,52,100,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,50,93,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,50,94,NW,3,0,29.96,0,Cloudy
+7/3/2022,51,50,96,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,50,93,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,51,97,N,3,0,29.96,0,Cloudy
+7/3/2022,52,52,100,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,50,93,CALM,0,0,29.96,0,Cloudy
+7/3/2022,52,52,100,NW,5,0,29.97,0,Cloudy
+7/3/2022,52,50,94,CALM,0,0,29.99,0,Cloudy
+7/3/2022,52,50,94,NW,5,0,29.97,0,Cloudy
+7/3/2022,52,50,94,NW,8,0,29.99,0,Cloudy
+7/3/2022,52,50,93,N,3,0,30,0,Cloudy
+7/3/2022,52,50,94,WNW,3,0,30,0,Cloudy
+7/3/2022,52,50,94,VAR,3,0,30,0,Cloudy
+7/3/2022,54,50,86,NW,7,0,30,0,Cloudy
+7/3/2022,54,50,88,NNW,6,0,30,0,Mostly Cloudy
+7/3/2022,54,48,82,N,8,0,30.01,0,Mostly Cloudy
+7/3/2022,56,49,77,N,8,0,30.01,0,Mostly Cloudy
+7/3/2022,55,48,77,NW,6,0,30,0,Mostly Cloudy
+7/3/2022,56,49,77,NW,6,0,30,0,Mostly Cloudy
+7/3/2022,57,48,72,W,7,0,30.01,0,Mostly Cloudy
+7/3/2022,57,49,74,WNW,6,0,30,0,Mostly Cloudy
+7/3/2022,57,48,72,WNW,6,0,30,0,Mostly Cloudy
+7/3/2022,57,48,72,VAR,6,0,30,0,Mostly Cloudy
+7/3/2022,58,49,72,NNE,8,0,30,0,Mostly Cloudy
+7/3/2022,57,48,72,NNE,6,0,30.01,0,Cloudy
+7/3/2022,58,49,72,N,5,0,30.02,0,Cloudy
+7/3/2022,57,48,72,NNE,5,0,30.02,0,Cloudy
+7/3/2022,57,48,72,W,8,0,30.02,0,Mostly Cloudy
+7/3/2022,58,49,72,WNW,7,0,30.02,0,Mostly Cloudy
+7/3/2022,59,48,67,NW,7,0,30.02,0,Mostly Cloudy
+7/3/2022,59,49,69,NW,9,0,30.02,0,Mostly Cloudy
+7/3/2022,61,50,68,WNW,8,0,30.01,0,Partly Cloudy
+7/3/2022,61,50,68,WNW,6,0,30.01,0,Partly Cloudy
+7/3/2022,60,50,69,WNW,7,0,30.01,0,Partly Cloudy
+7/3/2022,61,50,67,W,5,0,30.01,0,Partly Cloudy
+7/3/2022,61,50,68,W,5,0,30.01,0,Partly Cloudy
+7/3/2022,61,48,63,W,3,0,30.01,0,Mostly Cloudy
+7/3/2022,59,50,72,SSE,3,0,30.02,0,Mostly Cloudy
+7/3/2022,56,49,77,NW,3,0,30.03,0,Cloudy
+7/3/2022,55,50,82,VAR,5,0,30.02,0,Partly Cloudy
+7/3/2022,53,49,86,CALM,0,0,30.04,0,Mostly Cloudy
+7/3/2022,51,48,89,ENE,5,0,30.06,0,Mostly Cloudy
+7/4/2022,52,48,88,CALM,0,0,30.06,0,Mostly Cloudy
+7/4/2022,52,48,88,NNE,3,0,30.06,0,Mostly Cloudy
+7/4/2022,51,48,89,CALM,0,0,30.06,0,Mostly Cloudy
+7/4/2022,52,48,88,CALM,0,0,30.07,0,Mostly Cloudy
+7/4/2022,51,49,92,CALM,0,0,30.06,0,Cloudy
+7/4/2022,48,47,96,CALM,0,0,30.07,0,Fair
+7/4/2022,49,48,97,CALM,0,0,30.06,0,Cloudy
+7/4/2022,48,48,100,CALM,0,0,30.06,0,Cloudy
+7/4/2022,50,48,93,CALM,0,0,30.07,0,Cloudy
+7/4/2022,50,48,94,CALM,0,0,30.06,0,Cloudy
+7/4/2022,52,48,88,NW,5,0,30.07,0,Cloudy
+7/4/2022,52,48,86,WNW,5,0,30.08,0,Cloudy
+7/4/2022,53,48,83,WNW,6,0,30.08,0,Cloudy
+7/4/2022,55,46,72,WNW,5,0,30.09,0,Cloudy
+7/4/2022,56,46,69,NNW,9,0,30.09,0,Mostly Cloudy
+7/4/2022,57,46,67,N,8,0,30.07,0,Mostly Cloudy
+7/4/2022,57,47,69,NNW,8,0,30.07,0,Mostly Cloudy
+7/4/2022,59,47,64,NW,9,0,30.08,0,Mostly Cloudy
+7/4/2022,61,48,63,VAR,7,0,30.09,0,Mostly Cloudy
+7/4/2022,59,48,67,NNW,7,0,30.09,0,Mostly Cloudy
+7/4/2022,63,50,63,W,7,0,30.09,0,Mostly Cloudy
+7/4/2022,62,49,62,W,8,0,30.09,0,Mostly Cloudy
+7/4/2022,61,48,63,NNE,9,0,30.09,0,Mostly Cloudy
+7/4/2022,60,49,67,NNE,8,0,30.08,0,Mostly Cloudy
+7/4/2022,61,48,63,NNE,7,0,30.09,0,Mostly Cloudy
+7/4/2022,61,48,63,VAR,5,0,30.09,0,Mostly Cloudy
+7/4/2022,59,49,69,NNE,7,0,30.09,0,Mostly Cloudy
+7/4/2022,59,50,72,NNE,5,0,30.09,0,Mostly Cloudy
+7/4/2022,59,50,72,NNE,6,0,30.09,0,Mostly Cloudy
+7/4/2022,61,50,68,WNW,8,0,30.09,0,Mostly Cloudy
+7/4/2022,62,51,67,WNW,9,0,30.09,0,Mostly Cloudy
+7/4/2022,63,50,63,NNW,9,0,30.09,0,Mostly Cloudy
+7/4/2022,62,50,65,N,9,0,30.09,0,Mostly Cloudy
+7/4/2022,61,50,68,N,7,0,30.09,0,Mostly Cloudy
+7/4/2022,61,52,72,N,6,0,30.1,0,Mostly Cloudy
+7/4/2022,60,50,69,NW,8,0,30.09,0,Mostly Cloudy
+7/4/2022,59,49,69,NW,6,0,30.1,0,Fair
+7/4/2022,56,49,77,CALM,0,0,30.13,0,Cloudy
+7/5/2022,55,48,77,W,3,0,30.14,0,Cloudy
+7/5/2022,55,49,80,W,5,0,30.13,0,Cloudy
+7/5/2022,54,49,83,WNW,3,0,30.13,0,Cloudy
+7/5/2022,53,50,89,NW,3,0,30.13,0,Fair
+7/5/2022,51,48,89,CALM,0,0,30.11,0,Fair
+7/5/2022,51,48,89,CALM,0,0,30.1,0,Fair
+7/5/2022,50,48,93,CALM,0,0,30.1,0,Mostly Cloudy
+7/5/2022,51,49,92,CALM,0,0,30.1,0,Partly Cloudy
+7/5/2022,54,48,82,SW,3,0,30.09,0,Partly Cloudy
+7/5/2022,54,50,86,SSE,7,0,30.07,0,Partly Cloudy
+7/5/2022,54,50,88,SSE,7,0,30.06,0,Partly Cloudy
+7/5/2022,54,48,82,SSE,10,0,30.04,0,Mostly Cloudy
+7/5/2022,53,49,86,SSE,8,0,30.04,0,Mostly Cloudy
+7/5/2022,56,50,80,SSE,7,0,30.03,0,Mostly Cloudy
+7/5/2022,55,50,82,SSE,6,0,30.03,0,Mostly Cloudy
+7/5/2022,56,50,80,SSE,6,0,30.04,0,Mostly Cloudy
+7/5/2022,57,52,82,S,7,0,30.03,0,Mostly Cloudy
+7/5/2022,55,50,82,SSE,7,0,30.03,0,Mostly Cloudy
+7/5/2022,56,50,80,SSE,9,0,30.03,0,Mostly Cloudy
+7/5/2022,55,48,77,SSE,9,0,30.01,0,Mostly Cloudy
+7/5/2022,56,49,77,SSE,9,0,30.01,0,Mostly Cloudy
+7/5/2022,53,49,86,SSE,8,0,30,0,Mostly Cloudy
+7/5/2022,54,48,82,SSE,8,0,30,0,Mostly Cloudy
+7/5/2022,54,48,82,VAR,7,0,30.01,0,Mostly Cloudy
+7/5/2022,54,49,83,VAR,7,0,30.01,0,Mostly Cloudy
+7/5/2022,54,48,82,SSE,8,0,29.99,0,Mostly Cloudy
+7/5/2022,54,49,83,SSE,9,0,29.99,0,Mostly Cloudy
+7/5/2022,54,48,82,VAR,6,0,29.96,0,Mostly Cloudy
+7/5/2022,53,49,86,SSE,6,0,29.97,0,Mostly Cloudy
+7/5/2022,54,48,82,SE,5,0,29.97,0,Cloudy
+7/5/2022,52,49,89,SSE,9,0,29.96,0,Cloudy
+7/5/2022,52,49,89,SE,6,0,29.95,0,Cloudy
+7/5/2022,52,49,89,SE,5,0,29.94,0,Cloudy
+7/5/2022,51,49,92,SSE,9,0,29.93,0,Cloudy
+7/5/2022,52,48,88,SSE,7,0,29.93,0,Cloudy
+7/5/2022,52,48,88,SSE,10,0,29.93,0,Cloudy
+7/5/2022,51,49,92,SSE,8,0,29.93,0,Cloudy
+7/6/2022,51,49,92,S,12,0,29.92,0,Cloudy
+7/6/2022,52,48,88,S,9,0,29.92,0,Light Rain
+7/6/2022,52,48,88,S,13,0,29.91,0,Light Rain
+7/6/2022,50,49,96,S,13,0,29.9,0,Cloudy
+7/6/2022,50,48,94,SSE,7,0,29.9,0,Cloudy
+7/6/2022,50,49,96,SSE,8,0,29.9,0,Cloudy
+7/6/2022,50,48,94,SSE,7,0,29.89,0,Cloudy
+7/6/2022,51,49,92,S,12,0,29.88,0,Cloudy
+7/6/2022,52,48,88,S,12,0,29.88,0,Cloudy
+7/6/2022,50,49,96,SSE,6,0,29.87,0,Cloudy
+7/6/2022,50,48,94,SSE,7,0,29.86,0,Cloudy
+7/6/2022,50,49,96,SSE,7,0,29.85,0,Cloudy
+7/6/2022,50,48,94,SSE,7,0,29.85,0,Cloudy
+7/6/2022,50,48,94,SSE,8,0,29.85,0,Cloudy
+7/6/2022,50,48,94,SSE,8,0,29.84,0,Cloudy
+7/6/2022,50,48,94,SSE,8,0,29.84,0,Cloudy
+7/6/2022,50,50,100,SSE,6,0,29.84,0,Light Drizzle
+7/6/2022,50,50,100,SE,5,0,29.84,0,Cloudy
+7/6/2022,50,50,100,SE,6,0,29.84,0,Fog
+7/6/2022,52,50,94,SE,6,0,29.83,0,Fog
+7/6/2022,52,50,94,SSE,5,0,29.84,0,Fog
+7/6/2022,51,50,96,SSE,6,0,29.84,0,Fog
+7/6/2022,52,50,94,SSE,6,0,29.83,0,Fog
+7/6/2022,52,50,94,SSE,6,0,29.84,0,Cloudy
+7/6/2022,52,50,94,SSE,5,0,29.84,0,Fog
+7/6/2022,52,50,94,SSE,3,0,29.84,0,Fog
+7/6/2022,51,50,96,SSE,5,0,29.84,0,Fog
+7/6/2022,52,50,94,SSE,5,0,29.84,0,Fog
+7/6/2022,52,50,94,SSE,5,0,29.84,0,Cloudy
+7/6/2022,52,50,94,SSE,5,0,29.83,0,Fog
+7/6/2022,52,50,94,SSE,3,0,29.83,0,Fog
+7/6/2022,52,50,94,CALM,0,0,29.83,0,Light Rain
+7/6/2022,52,50,94,CALM,0,0,29.83,0,Light Rain
+7/6/2022,51,51,100,CALM,0,0,29.83,0,Light Rain
+7/6/2022,52,52,100,CALM,0,0,29.83,0,Light Rain
+7/6/2022,52,52,100,CALM,0,0,29.83,0,Light Rain
+7/6/2022,52,52,100,CALM,0,0,29.83,0,Cloudy
+7/6/2022,53,50,89,NNW,3,0,29.82,0,Cloudy
+7/6/2022,54,52,94,VAR,3,0,29.82,0,Mostly Cloudy
+7/6/2022,55,51,86,CALM,0,0,29.8,0,Cloudy
+7/6/2022,55,52,88,CALM,0,0,29.8,0,Cloudy
+7/6/2022,55,52,88,NNW,3,0,29.81,0,Cloudy
+7/6/2022,55,52,88,VAR,3,0,29.81,0,Mostly Cloudy
+7/6/2022,57,52,83,WNW,5,0,29.81,0,Mostly Cloudy
+7/6/2022,57,52,82,W,5,0,29.81,0,Cloudy
+7/6/2022,57,52,82,WNW,5,0,29.81,0,Mostly Cloudy
+7/6/2022,57,48,72,NW,9,0,29.81,0,Mostly Cloudy
+7/6/2022,57,48,72,NW,9,0,29.81,0,Mostly Cloudy
+7/6/2022,57,48,72,NW,6,0,29.8,0,Mostly Cloudy
+7/6/2022,58,49,72,NW,7,0,29.8,0,Mostly Cloudy
+7/6/2022,61,50,68,WNW,8,0,29.8,0,Mostly Cloudy
+7/6/2022,60,49,67,WNW,7,0,29.8,0,Mostly Cloudy
+7/6/2022,61,50,68,W,8,0,29.79,0,Mostly Cloudy
+7/6/2022,61,48,63,W,6,0,29.79,0,Mostly Cloudy
+7/6/2022,61,48,63,NW,6,0,29.77,0,Mostly Cloudy
+7/6/2022,61,48,63,WNW,7,0,29.77,0,Cloudy
+7/6/2022,58,50,75,WNW,9,0,29.77,0,Cloudy
+7/6/2022,56,49,77,W,3,0,29.77,0,Cloudy
+7/6/2022,56,49,77,NW,6,0,29.77,0,Cloudy
+7/6/2022,54,48,82,CALM,0,0,29.77,0,Cloudy
+7/6/2022,54,49,83,CALM,0,0,29.77,0,Cloudy
+7/7/2022,54,48,82,CALM,0,0,29.76,0,Cloudy
+7/7/2022,54,49,83,WSW,3,0,29.75,0,Cloudy
+7/7/2022,52,49,89,CALM,0,0,29.74,0,Cloudy
+7/7/2022,52,49,89,CALM,0,0,29.73,0,Cloudy
+7/7/2022,52,49,89,NE,3,0,29.71,0,Cloudy
+7/7/2022,51,49,92,CALM,0,0,29.69,0,Cloudy
+7/7/2022,52,48,88,CALM,0,0,29.68,0,Cloudy
+7/7/2022,52,50,93,CALM,0,0,29.66,0,Cloudy
+7/7/2022,52,48,88,CALM,0,0,29.65,0,Cloudy
+7/7/2022,52,46,80,N,7,0,29.64,0,Cloudy
+7/7/2022,52,47,83,N,7,0,29.63,0,Light Rain
+7/7/2022,51,46,83,N,12,0,29.63,0,Cloudy
+7/7/2022,52,46,82,NW,13,0,29.63,0,Light Rain
+7/7/2022,50,47,89,NNW,17,0,29.63,0,Light Rain
+7/7/2022,50,46,86,NNW,13,0,29.63,0,Light Rain
+7/7/2022,51,44,77,NNW,15,0,29.63,0,Mostly Cloudy
+7/7/2022,54,45,72,NNW,14,0,29.63,0,Mostly Cloudy
+7/7/2022,54,44,69,NNW,13,0,29.63,0,Mostly Cloudy
+7/7/2022,54,43,67,NNW,14,0,29.64,0,Mostly Cloudy
+7/7/2022,54,44,69,NW,12,0,29.64,0,Mostly Cloudy
+7/7/2022,54,45,72,NW,16,0,29.64,0,Mostly Cloudy
+7/7/2022,54,45,72,NNW,16,0,29.64,0,Mostly Cloudy
+7/7/2022,55,45,67,NNW,17,0,29.64,0,Mostly Cloudy
+7/7/2022,55,44,67,NW,17,0,29.64,0,Mostly Cloudy
+7/7/2022,54,45,72,NW,15,0,29.65,0,Mostly Cloudy
+7/7/2022,54,44,69,NW,12,0,29.66,0,Mostly Cloudy
+7/7/2022,54,45,72,NNW,14,0,29.66,0,Cloudy
+7/7/2022,53,44,71,NNW,10,0,29.65,0,Cloudy
+7/7/2022,53,46,77,WNW,12,0,29.66,0,Cloudy
+7/7/2022,52,45,77,NW,12,0,29.68,0,Cloudy
+7/7/2022,51,45,80,NW,14,0,29.69,0,Cloudy
+7/7/2022,52,45,76,WNW,12,0,29.69,0,Cloudy
+7/7/2022,51,45,80,WNW,12,0,29.7,0,Cloudy
+7/8/2022,50,45,83,W,14,0,29.7,0,Cloudy
+7/8/2022,49,44,83,NW,12,0,29.7,0,Partly Cloudy
+7/8/2022,49,43,80,W,10,0,29.7,0,Mostly Cloudy
+7/8/2022,48,45,87,NW,14,0,29.7,0,Cloudy
+7/8/2022,49,44,83,NW,14,0,29.69,0,Cloudy
+7/8/2022,49,44,83,NW,8,0,29.69,0,Cloudy
+7/8/2022,49,45,86,WNW,9,0,29.69,0,Cloudy
+7/8/2022,48,45,89,WNW,7,0,29.68,0,Mostly Cloudy
+7/8/2022,48,45,89,W,5,0,29.68,0,Mostly Cloudy
+7/8/2022,51,44,77,WNW,7,0,29.69,0,Mostly Cloudy
+7/8/2022,51,45,80,WNW,5,0,29.69,0,Mostly Cloudy
+7/8/2022,52,45,77,NNW,7,0,29.69,0,Mostly Cloudy
+7/8/2022,55,46,72,NNW,10,0,29.67,0,Mostly Cloudy
+7/8/2022,55,46,72,NW,10,0,29.67,0,Mostly Cloudy
+7/8/2022,55,46,72,WNW,9,0,29.66,0,Mostly Cloudy
+7/8/2022,57,47,69,WNW,9,0,29.66,0,Mostly Cloudy
+7/8/2022,55,46,72,N,9,0,29.65,0,Mostly Cloudy
+7/8/2022,55,46,72,N,7,0,29.66,0,Mostly Cloudy
+7/8/2022,55,47,74,NNW,8,0,29.66,0,Mostly Cloudy
+7/8/2022,55,46,72,WNW,7,0,29.66,0,Mostly Cloudy
+7/8/2022,54,48,82,N,8,0,29.66,0,Light Rain
+7/8/2022,55,48,77,NNW,12,0,29.68,0,Mostly Cloudy
+7/8/2022,55,48,77,NNW,10,0,29.69,0,Mostly Cloudy
+7/8/2022,57,48,72,N,9,0,29.67,0,Mostly Cloudy
+7/8/2022,55,46,72,N,13,0,29.67,0,Mostly Cloudy
+7/8/2022,56,47,72,N,12,0,29.67,0,Mostly Cloudy
+7/8/2022,55,46,72,NNW,13,0,29.69,0,Mostly Cloudy
+7/8/2022,55,46,72,NNW,13,0,29.69,0,Cloudy
+7/8/2022,55,46,72,NNW,13,0,29.69,0,Cloudy
+7/8/2022,55,46,72,N,13,0,29.69,0,Cloudy
+7/8/2022,55,46,72,N,13,0,29.69,0,Cloudy
+7/8/2022,54,45,72,N,13,0,29.69,0,Cloudy
+7/8/2022,53,45,74,N,14,0,29.71,0,Cloudy
+7/8/2022,52,45,77,NNW,12,0,29.72,0,Cloudy
+7/8/2022,51,44,77,N,9,0,29.73,0,Mostly Cloudy
+7/9/2022,50,44,80,N,9,0,29.73,0,Partly Cloudy
+7/9/2022,50,44,80,NNW,14,0,29.73,0,Fair
+7/9/2022,49,44,83,NNW,10,0,29.74,0,Fair
+7/9/2022,49,44,83,NNW,10,0,29.73,0,Fair
+7/9/2022,48,45,87,NNW,7,0,29.73,0,Mostly Cloudy
+7/9/2022,48,45,87,NNW,8,0,29.71,0,Partly Cloudy
+7/9/2022,48,44,86,NNW,8,0,29.71,0,Fair
+7/9/2022,48,44,86,NNW,8,0,29.71,0,Partly Cloudy
+7/9/2022,51,45,80,N,9,0,29.7,0,Mostly Cloudy
+7/9/2022,52,45,77,N,14,0,29.7,0,Mostly Cloudy
+7/9/2022,53,45,74,NNW,12,0,29.71,0,Mostly Cloudy
+7/9/2022,54,46,75,N,12,0,29.71,0,Mostly Cloudy
+7/9/2022,55,46,72,NNW,12,0,29.71,0,Mostly Cloudy
+7/9/2022,56,48,75,NNE,9,0,29.7,0,Mostly Cloudy
+7/9/2022,58,48,70,N,12,0,29.7,0,Mostly Cloudy
+7/9/2022,59,49,69,N,12,0,29.71,0,Mostly Cloudy
+7/9/2022,60,48,64,NNW,12,0,29.72,0,Mostly Cloudy
+7/9/2022,60,49,67,N,13,0,29.73,0,Mostly Cloudy
+7/9/2022,58,50,75,NNW,10,16,29.74,0,Mostly Cloudy
+7/9/2022,57,50,77,NNW,9,0,29.74,0,Cloudy
+7/9/2022,57,50,77,NW,10,0,29.74,0,Cloudy
+7/9/2022,57,51,81,N,10,0,29.77,0,Cloudy
+7/9/2022,55,49,80,N,10,0,29.78,0,Partly Cloudy
+7/10/2022,54,49,83,N,10,0,29.86,0,Mostly Cloudy
+7/10/2022,54,49,83,NNW,8,0,29.88,0,Cloudy
+7/10/2022,54,48,82,N,3,0,29.9,0,Mostly Cloudy
+7/10/2022,51,48,89,NE,3,0,29.91,0,Fair
+7/10/2022,53,49,86,NNE,6,0,29.92,0,Cloudy
+7/10/2022,51,47,86,CALM,0,0,29.93,0,Mostly Cloudy
+7/10/2022,52,48,86,NNE,3,0,29.94,0,Mostly Cloudy
+7/10/2022,54,48,82,NW,6,0,29.95,0,Mostly Cloudy
+7/10/2022,53,48,83,NW,3,0,29.95,0,Mostly Cloudy
+7/10/2022,55,48,77,NW,8,0,29.96,0,Mostly Cloudy
+7/10/2022,55,48,77,NW,8,0,29.96,0,Mostly Cloudy
+7/10/2022,57,50,77,NW,8,0,29.97,0,Partly Cloudy
+7/10/2022,57,49,74,NW,9,0,29.97,0,Partly Cloudy
+7/10/2022,57,49,74,NNE,7,0,29.96,0,Mostly Cloudy
+7/10/2022,61,48,63,NNE,5,0,29.96,0,Partly Cloudy
+7/10/2022,60,49,67,N,6,0,29.97,0,Partly Cloudy
+7/10/2022,63,50,63,N,8,0,29.97,0,Partly Cloudy
+7/10/2022,61,50,67,N,8,0,29.97,0,Partly Cloudy
+7/10/2022,63,50,63,NNE,6,0,29.97,0,Mostly Cloudy
+7/10/2022,63,50,63,NNE,6,0,29.97,0,Mostly Cloudy
+7/10/2022,63,51,65,NNE,10,0,29.97,0,Mostly Cloudy
+7/10/2022,63,52,68,N,6,0,29.99,0,Mostly Cloudy
+7/10/2022,62,51,67,N,5,0,29.99,0,Mostly Cloudy
+7/10/2022,61,52,72,WNW,13,0,30,0,Mostly Cloudy
+7/10/2022,61,51,70,NW,13,0,30.01,0,Mostly Cloudy
+7/10/2022,59,52,77,NW,6,0,30.01,0,Mostly Cloudy
+7/10/2022,59,51,75,WNW,9,0,30.01,0,Mostly Cloudy
+7/10/2022,59,52,77,W,8,0,30.01,0,Cloudy
+7/10/2022,59,52,78,W,5,0,30.01,0,Mostly Cloudy
+7/10/2022,60,51,72,NW,10,0,30.02,0,Cloudy
+7/10/2022,58,51,78,WNW,7,0,30.03,0,Cloudy
+7/10/2022,57,50,77,NW,9,0,30.03,0,Mostly Cloudy
+7/10/2022,57,48,72,N,5,0,30.04,0,Fair
+7/11/2022,55,49,80,NNW,7,0,30.06,0,Partly Cloudy
+7/11/2022,54,48,80,N,6,0,30.06,0,Fair
+7/11/2022,53,48,83,N,9,0,30.06,0,Fair
+7/11/2022,52,48,86,N,3,0,30.06,0,Fair
+7/11/2022,52,48,86,NNE,5,0,30.04,0,Fair
+7/11/2022,52,47,83,VAR,3,0,30.03,0,Fair
+7/11/2022,52,47,83,VAR,5,0,30.03,0,Mostly Cloudy
+7/11/2022,56,48,75,NW,7,0,30.03,0,Mostly Cloudy
+7/11/2022,57,49,74,NW,7,0,30.01,0,Mostly Cloudy
+7/11/2022,59,49,69,S,3,0,29.99,0,Mostly Cloudy
+7/11/2022,59,50,72,SSE,9,0,29.97,0,Mostly Cloudy
+7/11/2022,59,50,72,SSE,8,0,29.97,0,Mostly Cloudy
+7/11/2022,61,50,68,SSE,8,0,29.96,0,Mostly Cloudy
+7/11/2022,60,50,69,SSE,12,0,29.96,0,Fair
+7/11/2022,57,48,72,SE,6,0,29.96,0,Mostly Cloudy
+7/11/2022,58,48,70,VAR,7,0,29.94,0,Mostly Cloudy
+7/11/2022,58,49,72,SSE,8,0,29.93,0,Mostly Cloudy
+7/11/2022,56,48,75,S,12,20,29.92,0,Mostly Cloudy
+7/11/2022,54,48,80,S,14,0,29.9,0,Mostly Cloudy
+7/11/2022,54,48,82,S,14,0,29.9,0,Fair
+7/11/2022,52,48,88,S,12,0,29.85,0,Cloudy
+7/11/2022,52,49,89,S,13,0,29.85,0,Cloudy
+7/11/2022,52,49,89,S,15,0,29.83,0,Cloudy
+7/11/2022,52,49,89,S,15,0,29.81,0,Cloudy
+7/12/2022,52,48,88,SSE,12,0,29.8,0,Cloudy
+7/12/2022,52,48,88,SSE,10,0,29.79,0,Light Rain
+7/12/2022,51,49,92,SSE,12,0,29.78,0,Light Rain
+7/12/2022,50,48,94,SE,6,0,29.75,0,Rain
+7/12/2022,52,48,88,SE,9,0,29.75,0,Light Rain
+7/12/2022,50,48,94,SSE,7,0,29.75,0,Light Rain
+7/12/2022,50,48,94,SSE,7,0,29.74,0,Light Rain
+7/12/2022,50,49,96,SSE,5,0,29.74,0,Light Rain
+7/12/2022,50,48,94,CALM,0,0,29.73,0,Light Rain
+7/12/2022,50,48,94,CALM,0,0,29.72,0,Rain
+7/12/2022,50,49,96,NE,5,0,29.68,0,Light Rain
+7/12/2022,50,48,94,NE,3,0,29.67,0,Light Rain
+7/12/2022,50,49,96,ENE,3,0,29.65,0,Cloudy
+7/12/2022,50,48,94,NE,5,0,29.63,0,Cloudy
+7/12/2022,50,49,96,NNE,6,0,29.62,0,Cloudy
+7/12/2022,50,48,94,NNE,6,0,29.62,0,Cloudy
+7/12/2022,52,48,88,NNE,6,0,29.62,0,Cloudy
+7/12/2022,51,49,92,NNE,6,0,29.62,0,Cloudy
+7/12/2022,52,48,88,NNE,6,0,29.62,0,Cloudy
+7/12/2022,51,50,96,N,6,0,29.62,0,Cloudy
+7/12/2022,52,50,94,N,6,0,29.62,0,Light Drizzle
+7/12/2022,52,50,94,NNW,6,0,29.62,0,Cloudy
+7/12/2022,52,50,94,N,6,0,29.62,0,Light Drizzle
+7/12/2022,52,50,94,N,8,0,29.61,0,Cloudy
+7/12/2022,52,50,94,N,7,0,29.61,0,Cloudy
+7/12/2022,52,50,93,N,7,0,29.62,0,Cloudy
+7/12/2022,52,50,94,N,6,0,29.62,0,Cloudy
+7/12/2022,52,50,94,NNE,3,0,29.62,0,Cloudy
+7/12/2022,52,50,93,NNE,5,0,29.61,0,Cloudy
+7/12/2022,52,50,94,N,3,0,29.61,0,Cloudy
+7/12/2022,54,50,88,CALM,0,0,29.61,0,Cloudy
+7/12/2022,53,50,89,CALM,0,0,29.61,0,Cloudy
+7/12/2022,54,50,88,CALM,0,0,29.61,0,Cloudy
+7/12/2022,54,50,88,CALM,0,0,29.6,0,Cloudy
+7/12/2022,54,50,86,WNW,7,0,29.61,0,Cloudy
+7/12/2022,54,48,82,WNW,9,0,29.61,0,Light Rain
+7/12/2022,54,48,82,WNW,10,0,29.61,0,Light Rain
+7/12/2022,54,48,82,WNW,10,0,29.61,0,Light Rain
+7/12/2022,54,48,82,NW,9,0,29.61,0,Light Rain
+7/12/2022,53,50,89,WNW,8,0,29.61,0,Light Rain
+7/12/2022,54,50,88,WNW,9,0,29.61,0,Light Rain
+7/12/2022,54,50,88,WNW,9,0,29.61,0,Light Rain
+7/12/2022,54,50,88,W,12,0,29.61,0,Light Rain
+7/12/2022,53,49,86,W,6,0,29.6,0,Cloudy
+7/12/2022,54,50,88,WNW,6,0,29.6,0,Cloudy
+7/12/2022,54,50,88,WNW,6,0,29.6,0,Cloudy
+7/12/2022,54,48,82,WNW,7,0,29.6,0,Cloudy
+7/12/2022,54,49,83,WNW,8,0,29.6,0,Cloudy
+7/12/2022,55,52,88,NW,9,0,29.6,0,Cloudy
+7/12/2022,55,50,82,NW,8,0,29.6,0,Cloudy
+7/12/2022,55,50,83,NW,8,0,29.6,0,Cloudy
+7/12/2022,55,52,88,NNW,14,0,29.6,0,Light Rain
+7/12/2022,55,52,88,NNW,10,0,29.6,0,Cloudy
+7/12/2022,55,50,82,NW,12,0,29.6,0,Light Drizzle
+7/12/2022,55,50,83,NW,15,0,29.6,0,Light Drizzle
+7/12/2022,55,50,82,NNW,12,0,29.6,0,Light Rain
+7/12/2022,54,50,86,NW,9,0,29.61,0,Cloudy
+7/12/2022,55,48,77,NW,13,0,29.61,0,Cloudy
+7/12/2022,54,49,83,NW,14,0,29.61,0,Cloudy
+7/12/2022,54,49,83,NW,10,0,29.63,0,Cloudy
+7/12/2022,52,48,88,WNW,7,0,29.65,0,Cloudy
+7/12/2022,52,48,88,NW,7,0,29.65,0,Cloudy
+7/12/2022,52,49,89,NW,10,0,29.65,0,Clou
+7/13/2022,52,49,89,NNW,13,0,29.67,0,Mostly Cloudy
+7/13/2022,54,48,82,NNW,16,0,29.68,0,Cloudy
+7/13/2022,53,49,86,NNW,13,0,29.69,0,Mostly Cloudy
+7/13/2022,53,49,86,NW,12,0,29.71,0,Cloudy
+7/13/2022,54,48,82,NNW,14,0,29.71,0,Cloudy
+7/13/2022,54,48,82,NNW,16,0,29.72,0,Cloudy
+7/13/2022,53,49,86,NNW,16,0,29.72,0,Cloudy
+7/13/2022,54,48,82,NNW,14,0,29.72,0,Cloudy
+7/13/2022,54,49,83,NW,9,0,29.74,0,Cloudy
+7/13/2022,54,48,82,NW,9,0,29.74,0,Mostly Cloudy
+7/13/2022,53,49,86,NNW,15,0,29.76,0,Mostly Cloudy
+7/13/2022,54,49,83,NNW,18,0,29.78,0,Mostly Cloudy
+7/13/2022,54,48,82,NNW,17,0,29.78,0,Mostly Cloudy
+7/13/2022,54,48,82,N,18,0,29.78,0,Mostly Cloudy
+7/13/2022,55,50,82,NNW,14,0,29.8,0,Mostly Cloudy
+7/13/2022,55,48,77,N,10,0,29.82,0,Mostly Cloudy
+7/13/2022,55,50,83,N,9,0,29.82,0,Mostly Cloudy
+7/13/2022,55,50,82,NNW,9,0,29.83,0,Mostly Cloudy
+7/13/2022,55,48,77,N,10,0,29.84,0,Mostly Cloudy
+7/13/2022,55,49,80,N,10,0,29.84,0,Mostly Cloudy
+7/13/2022,55,50,82,NNW,12,0,29.84,0,Mostly Cloudy
+7/13/2022,55,50,82,NW,9,0,29.84,0,Mostly Cloudy
+7/13/2022,57,52,82,NNW,7,0,29.85,0,Mostly Cloudy
+7/13/2022,57,52,82,NNW,7,0,29.85,0,Mostly Cloudy
+7/13/2022,57,50,77,NNW,12,0,29.84,0,Mostly Cloudy
+7/13/2022,59,51,75,NNW,15,0,29.83,0,Mostly Cloudy
+7/13/2022,61,52,72,N,12,0,29.83,0,Mostly Cloudy
+7/13/2022,57,52,82,N,7,0,29.83,0,Partly Cloudy
+7/13/2022,59,53,81,WNW,8,0,29.85,0,Mostly Cloudy
+7/13/2022,59,52,77,W,7,0,29.85,0,Mostly Cloudy
+7/13/2022,59,52,77,WNW,12,0,29.86,0,Mostly Cloudy
+7/13/2022,59,52,77,WNW,8,0,29.87,0,Mostly Cloudy
+7/13/2022,59,52,77,NNW,10,0,29.88,0,Mostly Cloudy
+7/13/2022,57,52,82,N,12,0,29.88,0,Mostly Cloudy
+7/13/2022,57,51,81,N,13,0,29.88,0,Mostly Cloudy
+7/13/2022,57,52,82,NNE,14,0,29.88,0,Mostly Cloudy
+7/13/2022,61,52,72,NNW,14,0,29.9,0,Mostly Cloudy
+7/13/2022,61,52,72,NNW,14,0,29.9,0,Mostly Cloudy
+7/13/2022,60,52,75,NNW,14,0,29.9,0,Mostly Cloudy
+7/13/2022,58,51,78,NW,13,0,29.92,0,Mostly Cloudy
+7/13/2022,57,52,82,NW,12,0,29.92,0,Mostly Cloudy
+7/13/2022,57,52,82,N,9,0,29.93,0,Mostly Cloudy
+7/13/2022,58,52,81,N,9,0,29.93,0,Mostly Cloudy
+7/13/2022,57,52,82,NNW,8,0,29.93,0,Mostly Cloudy
+7/13/2022,57,52,82,NNW,13,0,29.94,0,Mostly Cloudy
+7/13/2022,58,52,81,NNW,13,0,29.95,0,Mostly Cloudy
+7/13/2022,56,50,80,NW,10,0,29.96,0,Cloudy
+7/13/2022,55,50,82,N,10,0,29.96,0,Partly Cloudy
+7/13/2022,55,49,80,N,7,0,29.99,0,Fair
+7/13/2022,53,47,80,NNW,10,0,30,0,Fair
+7/14/2022,53,47,80,N,12,0,30,0,Cloudy
+7/14/2022,52,47,83,N,6,0,30,0,Partly Cloudy
+7/14/2022,51,46,83,N,10,0,30.01,0,Fair
+7/14/2022,51,45,80,NW,7,0,30,0,Mostly Cloudy
+7/14/2022,51,46,83,W,8,0,30,0,Fair
+7/14/2022,51,47,86,WNW,6,0,30.01,0,Mostly Cloudy
+7/14/2022,52,47,83,NW,7,0,30.01,0,Mostly Cloudy
+7/14/2022,52,47,83,NW,7,0,30.02,0,Mostly Cloudy
+7/14/2022,52,49,89,NNE,6,0,30.02,0,Light Rain
+7/14/2022,52,49,89,NNW,5,0,30.01,0,Light Rain
+7/14/2022,53,50,89,N,6,0,30.01,0,Mostly Cloudy
+7/14/2022,53,49,86,N,5,0,30.01,0,Mostly Cloudy
+7/14/2022,55,50,82,NNE,5,0,30.01,0,Mostly Cloudy
+7/14/2022,56,50,80,N,6,0,30,0,Mostly Cloudy
+7/14/2022,55,50,82,NE,5,0,30,0,Mostly Cloudy
+7/14/2022,57,50,77,NNE,5,0,29.97,0,Mostly Cloudy
+7/14/2022,57,50,77,VAR,5,0,29.97,0,Mostly Cloudy
+7/14/2022,59,48,67,NW,6,0,29.96,0,Mostly Cloudy
+7/14/2022,59,50,72,WNW,6,0,29.96,0,Mostly Cloudy
+7/14/2022,59,50,72,WNW,7,0,29.96,0,Mostly Cloudy
+7/14/2022,59,52,77,WNW,7,0,29.96,0,Mostly Cloudy
+7/14/2022,59,51,75,WNW,6,0,29.96,0,Mostly Cloudy
+7/14/2022,59,51,75,NW,9,0,29.96,0,Mostly Cloudy
+7/14/2022,57,52,82,WNW,8,0,29.96,0,Partly Cloudy
+7/14/2022,58,51,78,WNW,8,0,29.96,0,Partly Cloudy
+7/14/2022,57,52,82,WNW,9,0,29.96,0,Mostly Cloudy
+7/14/2022,58,51,78,WNW,7,0,29.95,0,Mostly Cloudy
+7/14/2022,58,50,75,NW,3,0,29.94,0,Cloudy
+7/14/2022,58,50,75,CALM,0,0,29.93,0,Mostly Cloudy
+7/14/2022,56,51,84,CALM,0,0,29.93,0,Partly Cloudy
+7/14/2022,52,50,93,ENE,3,0,29.96,0,Fair
+7/15/2022,52,50,93,NE,3,0,29.95,0,Partly Cloudy
+7/15/2022,51,49,92,CALM,0,0,29.94,0,Fair
+7/15/2022,50,48,94,S,12,0,29.92,0,Fair
+7/15/2022,50,49,96,SSE,8,0,29.92,0,Partly Cloudy
+7/15/2022,50,48,94,SE,12,0,29.91,0,Mostly Cloudy
+7/15/2022,50,48,94,SE,8,0,29.91,0,Mostly Cloudy
+7/15/2022,50,48,94,SSE,6,0,29.9,0,Mostly Cloudy
+7/15/2022,48,48,100,SSE,9,0,29.9,0,Partly Cloudy
+7/15/2022,48,48,100,SSE,9,0,29.9,0,Mostly Cloudy
+7/15/2022,49,48,97,SSE,10,0,29.9,0,Mostly Cloudy
+7/15/2022,48,48,100,SSE,8,0,29.89,0,Cloudy
+7/15/2022,49,48,97,SSE,7,0,29.88,0,Patches of Fog
+7/15/2022,49,48,97,S,14,0,29.87,0,Patches of Fog
+7/15/2022,49,47,93,S,8,0,29.86,0,Mostly Cloudy
+7/15/2022,50,48,93,SSE,12,0,29.85,0,Cloudy
+7/15/2022,50,49,96,SSE,10,0,29.85,0,Cloudy
+7/15/2022,50,48,94,SSE,12,0,29.84,0,Light Drizzle
+7/15/2022,51,50,96,SSE,12,0,29.83,0,Light Drizzle
+7/15/2022,52,50,94,S,14,0,29.83,0,Light Rain
+7/15/2022,51,50,96,SSE,12,0,29.82,0,Light Rain
+7/15/2022,52,50,94,S,14,0,29.81,0,Light Rain
+7/15/2022,52,50,94,SSE,12,0,29.81,0,Light Rain
+7/15/2022,51,50,96,SSE,10,0,29.81,0,Light Rain
+7/15/2022,52,50,94,SSE,9,0,29.8,0,Light Rain
+7/15/2022,52,50,94,SSE,10,0,29.8,0,Light Rain
+7/15/2022,52,50,94,SSE,12,0,29.8,0,Light Rain
+7/15/2022,52,52,100,SSE,13,0,29.8,0,Light Rain
+7/15/2022,52,50,94,SSE,10,0,29.8,0,Light Rain
+7/15/2022,52,52,100,SSE,7,0,29.8,0,Light Rain
+7/15/2022,51,51,100,SSE,9,0,29.79,0,Light Rain
+7/15/2022,52,52,100,SSE,12,0,29.79,0,Light Rain
+7/15/2022,52,52,100,SSE,8,0,29.78,0,Light Rain
+7/15/2022,54,52,94,SSE,10,0,29.77,0,Light Rain
+7/15/2022,54,52,94,SSE,8,0,29.76,0,Light Rain
+7/15/2022,53,52,96,SSE,9,0,29.76,0,Light Rain
+7/15/2022,54,52,94,SSE,8,0,29.76,0,Light Rain
+7/15/2022,54,52,94,SSE,10,0,29.75,0,Cloudy
+7/15/2022,54,52,93,SSE,9,0,29.75,0,Cloudy
+7/15/2022,54,52,94,SSE,8,0,29.74,0,Cloudy
+7/15/2022,54,52,93,SSE,7,0,29.74,0,Cloudy
+7/15/2022,54,52,94,SSE,8,0,29.75,0,Cloudy
+7/15/2022,54,52,94,SSE,8,0,29.74,0,Cloudy
+7/15/2022,54,52,94,SSE,8,0,29.73,0,Cloudy
+7/15/2022,54,52,94,SSE,9,0,29.73,0,Cloudy
+7/15/2022,53,51,93,SSE,9,0,29.73,0,Cloudy
+7/15/2022,54,52,94,SSE,8,0,29.73,0,Fog
+7/15/2022,54,52,94,SSE,7,0,29.73,0,Fog
+7/15/2022,52,52,100,SSE,7,0,29.72,0,Fog
+7/15/2022,52,52,100,SSE,7,0,29.72,0,Fog
+7/15/2022,53,52,96,SSE,5,0,29.71,0,Cloudy
+7/15/2022,54,52,94,SSE,7,0,29.71,0,Light Rain
+7/15/2022,52,52,100,SSE,8,0,29.71,0,Light Rain
+7/15/2022,54,52,94,SSE,7,0,29.7,0,Rain
+7/15/2022,54,52,94,SSE,9,0,29.7,0,Light Rain
+7/15/2022,52,52,100,SSE,9,0,29.7,0,Light Rain
+7/15/2022,52,52,100,SSE,8,0,29.69,0,Light Rain
+7/15/2022,52,52,100,SE,9,0,29.69,0,Cloudy
+7/15/2022,52,51,97,SSE,8,0,29.68,0,Cloudy
+7/15/2022,52,52,100,SE,8,0,29.68,0,Cloudy
+7/15/2022,52,52,100,SSE,9,0,29.68,0,Light Rain
+7/15/2022,52,52,100,SSE,9,0,29.68,0,Light Rain
+7/15/2022,52,52,100,SSE,10,0,29.68,0,Cloudy
+7/16/2022,52,52,100,SSE,12,0,29.67,0,Cloudy
+7/16/2022,54,52,94,SSE,8,0,29.66,0,Cloudy
+7/16/2022,54,52,94,SE,7,0,29.66,0,Cloudy
+7/16/2022,54,52,94,SE,8,0,29.65,0,Light Rain
+7/16/2022,53,52,96,SE,9,0,29.65,0,Light Rain
+7/16/2022,54,52,94,SE,9,0,29.65,0,Light Rain
+7/16/2022,52,52,100,SSE,8,0,29.64,0,Light Rain
+7/16/2022,52,51,97,SSE,12,0,29.64,0,Light Rain
+7/16/2022,53,52,96,SSE,13,0,29.62,0,Light Rain
+7/16/2022,54,52,94,SSE,12,0,29.61,0,Light Rain
+7/16/2022,53,52,96,SSE,12,0,29.6,0,Cloudy
+7/16/2022,54,52,94,S,13,0,29.59,0,Light Rain
+7/16/2022,54,54,100,SSW,12,0,29.59,0,Cloudy
+7/16/2022,53,52,96,S,14,0,29.58,0,Cloudy
+7/16/2022,54,52,94,S,15,0,29.57,0,Cloudy
+7/16/2022,54,52,94,S,16,0,29.57,0,Cloudy
+7/16/2022,53,51,93,S,16,0,29.56,0,Light Drizzle
+7/16/2022,53,52,96,SSW,13,0,29.57,0,Light Drizzle
+7/16/2022,54,52,94,SW,8,0,29.57,0,Light Drizzle
+7/16/2022,54,50,86,S,5,0,29.57,0,Light Drizzle
+7/16/2022,54,51,90,NNE,6,0,29.57,0,Mostly Cloudy
+7/16/2022,55,52,89,VAR,3,0,29.58,0,Mostly Cloudy
+7/16/2022,57,54,88,SSW,13,0,29.55,0,Mostly Cloudy
+7/16/2022,57,53,87,SSW,13,0,29.55,0,Mostly Cloudy
+7/16/2022,55,52,88,SSW,15,0,29.56,0,Mostly Cloudy
+7/16/2022,55,51,86,SSW,13,0,29.56,0,Mostly Cloudy
+7/16/2022,54,50,88,SSW,18,0,29.56,0,Mostly Cloudy
+7/16/2022,55,50,83,SSW,17,0,29.56,0,Mostly Cloudy
+7/16/2022,54,48,82,SW,12,0,29.57,0,Mostly Cloudy
+7/16/2022,54,48,80,SW,21,24,29.57,0,Mostly Cloudy / Windy
+7/16/2022,53,48,83,S,14,0,29.58,0,Cloudy
+7/16/2022,54,48,82,S,17,0,29.58,0,Cloudy
+7/16/2022,54,48,82,SSW,9,26,29.59,0,Light Rain
+7/16/2022,54,48,82,SSW,9,26,29.59,0,Light Rain
+7/16/2022,53,48,83,SW,8,26,29.59,0,Light Rain
+7/16/2022,54,48,82,VAR,6,26,29.59,0,Light Rain
+7/16/2022,54,48,82,VAR,7,0,29.58,0,Light Rain
+7/16/2022,54,49,83,S,8,0,29.57,0,Light Rain
+7/16/2022,54,48,82,SSW,7,0,29.58,0,Light Rain
+7/16/2022,54,48,82,S,29,0,29.57,0,Light Rain / Windy
+7/16/2022,54,49,83,S,29,0,29.57,0,Light Rain / Windy
+7/16/2022,54,48,82,S,29,0,29.57,0,Light Rain / Windy
+7/16/2022,54,48,82,SW,10,16,29.57,0,Cloudy
+7/16/2022,54,48,80,SW,17,22,29.58,0,Cloudy
+7/16/2022,53,48,83,SW,18,24,29.58,0,Light Rain
+7/16/2022,52,49,89,S,8,0,29.58,0,Cloudy
+7/16/2022,52,48,88,SW,10,0,29.59,0,Cloudy
+7/17/2022,52,48,88,SSW,9,0,29.6,0,Cloudy
+7/17/2022,52,48,88,SSW,8,0,29.61,0,Cloudy
+7/17/2022,53,48,83,SW,9,0,29.62,0,Cloudy
+7/17/2022,53,48,83,SW,14,0,29.63,0,Cloudy
+7/17/2022,54,48,82,SW,8,0,29.63,0,Cloudy
+7/17/2022,54,48,82,SW,12,0,29.63,0,Cloudy
+7/17/2022,54,48,82,WSW,12,0,29.63,0,Cloudy
+7/17/2022,52,48,86,WSW,9,0,29.63,0,Cloudy
+7/17/2022,52,47,83,W,9,0,29.64,0,Cloudy
+7/17/2022,52,46,82,WSW,9,0,29.64,0,Cloudy
+7/17/2022,52,46,82,WSW,7,0,29.65,0,Cloudy
+7/17/2022,52,46,80,WSW,12,0,29.65,0,Cloudy
+7/17/2022,52,46,82,SW,5,0,29.65,0,Cloudy
+7/17/2022,52,46,82,W,12,16,29.67,0,Cloudy
+7/17/2022,53,47,80,W,14,0,29.69,0,Cloudy
+7/17/2022,52,48,88,WNW,14,0,29.7,0,Cloudy
+7/17/2022,54,50,88,WNW,25,44,29.71,0,Cloudy / Windy
+7/17/2022,52,48,88,WNW,25,44,29.71,0,Cloudy / Windy
+7/17/2022,52,49,89,WNW,25,44,29.72,0,Cloudy / Windy
+7/17/2022,52,48,88,WNW,25,44,29.72,0,Cloudy / Windy
+7/17/2022,52,48,88,W,18,36,29.74,0,Light Rain
+7/17/2022,52,48,88,WNW,18,32,29.76,0,Mostly Cloudy
+7/17/2022,52,48,88,WNW,18,32,29.76,0,Mostly Cloudy
+7/17/2022,52,48,86,WNW,18,32,29.76,0,Mostly Cloudy
+7/17/2022,52,48,88,WNW,18,44,29.78,0,Partly Cloudy
+7/17/2022,54,48,82,WNW,17,32,29.79,0,Partly Cloudy
+7/17/2022,53,48,83,WNW,17,32,29.8,0,Partly Cloudy
+7/17/2022,54,46,77,WNW,12,32,29.81,0,Fair
+7/17/2022,54,45,72,WNW,14,32,29.82,0,Fair
+7/17/2022,54,46,77,WNW,13,22,29.83,0,Fair
+7/17/2022,54,46,75,WNW,12,0,29.83,0,Fair
+7/17/2022,54,45,72,W,9,20,29.85,0,Fair
+7/17/2022,54,45,72,W,32,0,29.86,0,Fair / Windy
+7/17/2022,55,45,67,WNW,8,0,29.88,0,Fair
+7/17/2022,55,45,67,WNW,20,0,29.88,0,Fair
+7/17/2022,55,43,64,WNW,20,0,29.87,0,Fair
+7/17/2022,55,43,63,WNW,26,0,29.88,0,Partly Cloudy / Windy
+7/17/2022,56,43,62,WNW,26,0,29.89,0,Partly Cloudy / Windy
+7/17/2022,57,43,59,NNW,28,0,29.89,0,Partly Cloudy / Windy
+7/17/2022,58,41,53,NNW,28,0,29.89,0,Partly Cloudy / Windy
+7/17/2022,59,43,55,NW,25,0,29.91,0,Partly Cloudy / Windy
+7/17/2022,61,43,52,W,7,0,29.92,0,Partly Cloudy
+7/17/2022,61,43,52,W,9,0,29.92,0,Partly Cloudy
+7/17/2022,61,43,52,W,9,0,29.92,0,Partly Cloudy
+7/17/2022,63,46,55,S,7,0,29.92,0,Partly Cloudy
+7/17/2022,61,45,56,S,5,0,29.92,0,Partly Cloudy
+7/17/2022,61,46,59,SW,7,0,29.93,0,Partly Cloudy
+7/17/2022,61,46,58,SSW,5,0,29.93,0,Partly Cloudy
+7/17/2022,61,46,59,SSW,3,0,29.94,0,Fair
+7/17/2022,61,46,58,SW,6,0,29.94,0,Fair
+7/17/2022,59,46,62,CALM,0,0,29.94,0,Fair
+7/17/2022,58,47,67,VAR,3,0,29.95,0,Fair
+7/17/2022,57,45,64,W,8,0,29.96,0,Fair
+7/17/2022,55,46,72,WSW,5,0,30,0,Fair
+7/18/2022,49,46,90,S,8,0,29.94,0,Cloudy
+7/18/2022,50,46,87,N,6,0,29.94,0,Cloudy
+7/18/2022,50,46,87,CALM,0,0,29.94,0,Cloudy
+7/18/2022,50,46,86,S,8,0,29.93,0,Cloudy
+7/18/2022,50,46,87,S,7,0,29.93,0,Cloudy
+7/18/2022,48,46,93,SE,5,0,29.91,0,Cloudy
+7/18/2022,48,46,93,SE,5,0,29.91,0,Cloudy
+7/18/2022,49,47,93,CALM,0,0,29.91,0,Cloudy
+7/18/2022,49,46,90,CALM,0,0,29.9,0,Cloudy
+7/18/2022,49,46,90,NNW,5,0,29.89,0,Cloudy
+7/18/2022,48,46,93,NW,6,0,29.9,0,Cloudy
+7/18/2022,48,45,87,WNW,8,0,29.9,0,Cloudy
+7/18/2022,49,45,86,NNW,3,0,29.89,0,Cloudy
+7/18/2022,48,45,87,NNW,3,0,29.89,0,Mostly Cloudy
+7/18/2022,50,46,86,WNW,7,0,29.91,0,Mostly Cloudy
+7/18/2022,50,46,87,WNW,6,0,29.91,0,Mostly Cloudy
+7/18/2022,50,46,87,WNW,6,0,29.92,0,Mostly Cloudy
+7/18/2022,50,46,86,WNW,7,0,29.92,0,Mostly Cloudy
+7/18/2022,50,46,87,WNW,7,0,29.92,0,Cloudy
+7/18/2022,52,46,82,WNW,6,0,29.92,0,Mostly Cloudy
+7/18/2022,52,46,82,WNW,8,0,29.92,0,Mostly Cloudy
+7/18/2022,52,46,82,WNW,7,0,29.91,0,Partly Cloudy
+7/18/2022,52,46,82,WNW,7,0,29.92,0,Mostly Cloudy
+7/18/2022,53,46,77,NW,6,0,29.92,0,Mostly Cloudy
+7/18/2022,54,46,77,WNW,8,0,29.92,0,Mostly Cloudy
+7/18/2022,55,46,72,NW,12,0,29.92,0,Mostly Cloudy
+7/18/2022,54,46,75,NW,10,0,29.93,0,Mostly Cloudy
+7/18/2022,54,46,77,WNW,10,0,29.93,0,Mostly Cloudy
+7/18/2022,55,46,72,NW,8,0,29.92,0,Partly Cloudy
+7/18/2022,56,46,69,NW,9,0,29.92,0,Partly Cloudy
+7/18/2022,57,46,67,NW,9,0,29.94,0,Partly Cloudy
+7/18/2022,57,46,67,NW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,57,47,69,NW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,59,48,67,WNW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,59,48,67,W,10,0,29.93,0,Mostly Cloudy
+7/18/2022,59,48,67,WNW,8,0,29.93,0,Mostly Cloudy
+7/18/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/18/2022,57,48,72,WNW,9,0,29.96,0,Mostly Cloudy
+7/18/2022,58,49,72,WNW,9,0,29.96,0,Mostly Cloudy
+7/18/2022,57,48,72,W,10,0,29.96,0,Mostly Cloudy
+7/18/2022,57,49,74,W,10,0,29.96,0,Mostly Cloudy
+7/18/2022,57,48,72,W,9,0,29.97,0,Mostly Cloudy
+7/18/2022,57,48,72,W,8,0,29.96,0,Mostly Cloudy
+7/18/2022,56,48,75,W,8,0,29.96,0,Cloudy
+7/18/2022,56,48,75,W,7,0,29.99,0,Cloudy
+7/18/2022,55,48,77,W,8,0,29.99,0,Cloudy
+7/18/2022,54,47,77,W,9,0,30,0,Cloudy
+7/18/2022,53,47,80,W,7,0,30,0,Mostly Cloudy
+7/19/2022,49,46,90,S,8,0,29.94,0,Cloudy
+7/19/2022,50,46,87,N,6,0,29.94,0,Cloudy
+7/19/2022,50,46,87,CALM,0,0,29.94,0,Cloudy
+7/19/2022,50,46,86,S,8,0,29.93,0,Cloudy
+7/19/2022,50,46,87,S,7,0,29.93,0,Cloudy
+7/19/2022,48,46,93,SE,5,0,29.91,0,Cloudy
+7/19/2022,48,46,93,SE,5,0,29.91,0,Cloudy
+7/19/2022,49,47,93,CALM,0,0,29.91,0,Cloudy
+7/19/2022,49,46,90,CALM,0,0,29.9,0,Cloudy
+7/19/2022,49,46,90,NNW,5,0,29.89,0,Cloudy
+7/19/2022,48,46,93,NW,6,0,29.9,0,Cloudy
+7/19/2022,48,45,87,WNW,8,0,29.9,0,Cloudy
+7/19/2022,49,45,86,NNW,3,0,29.89,0,Cloudy
+7/19/2022,48,45,87,NNW,3,0,29.89,0,Mostly Cloudy
+7/19/2022,50,46,86,WNW,7,0,29.91,0,Mostly Cloudy
+7/19/2022,50,46,87,WNW,6,0,29.91,0,Mostly Cloudy
+7/19/2022,50,46,87,WNW,6,0,29.92,0,Mostly Cloudy
+7/19/2022,50,46,86,WNW,7,0,29.92,0,Mostly Cloudy
+7/19/2022,50,46,87,WNW,7,0,29.92,0,Cloudy
+7/19/2022,52,46,82,WNW,6,0,29.92,0,Mostly Cloudy
+7/19/2022,52,46,82,WNW,8,0,29.92,0,Mostly Cloudy
+7/19/2022,52,46,82,WNW,7,0,29.91,0,Partly Cloudy
+7/19/2022,52,46,82,WNW,7,0,29.92,0,Mostly Cloudy
+7/19/2022,53,46,77,NW,6,0,29.92,0,Mostly Cloudy
+7/19/2022,54,46,77,WNW,8,0,29.92,0,Mostly Cloudy
+7/19/2022,55,46,72,NW,12,0,29.92,0,Mostly Cloudy
+7/19/2022,54,46,75,NW,10,0,29.93,0,Mostly Cloudy
+7/19/2022,54,46,77,WNW,10,0,29.93,0,Mostly Cloudy
+7/19/2022,55,46,72,NW,8,0,29.92,0,Partly Cloudy
+7/19/2022,56,46,69,NW,9,0,29.92,0,Partly Cloudy
+7/19/2022,57,46,67,NW,9,0,29.94,0,Partly Cloudy
+7/19/2022,57,46,67,NW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,57,47,69,NW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,59,48,67,WNW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,59,48,67,W,10,0,29.93,0,Mostly Cloudy
+7/19/2022,59,48,67,WNW,8,0,29.93,0,Mostly Cloudy
+7/19/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,57,48,72,WNW,9,0,29.94,0,Mostly Cloudy
+7/19/2022,57,48,72,WNW,9,0,29.96,0,Mostly Cloudy
+7/19/2022,58,49,72,WNW,9,0,29.96,0,Mostly Cloudy
+7/19/2022,57,48,72,W,10,0,29.96,0,Mostly Cloudy
+7/19/2022,57,49,74,W,10,0,29.96,0,Mostly Cloudy
+7/19/2022,57,48,72,W,9,0,29.97,0,Mostly Cloudy
+7/19/2022,57,48,72,W,8,0,29.96,0,Mostly Cloudy
+7/19/2022,56,48,75,W,8,0,29.96,0,Cloudy
+7/19/2022,56,48,75,W,7,0,29.99,0,Cloudy
+7/19/2022,55,48,77,W,8,0,29.99,0,Cloudy
+7/19/2022,54,47,77,W,9,0,30,0,Cloudy
+7/19/2022,53,47,80,W,7,0,30,0,Mostly Cloudy
+7/20/2022,52,47,83,W,5,0,30,0,Mostly Cloudy
+7/20/2022,51,46,83,W,3,0,30,0,Cloudy
+7/20/2022,50,46,86,CALM,0,0,29.99,0,Fair
+7/20/2022,48,46,93,SSE,3,0,29.97,0,Mostly Cloudy
+7/20/2022,48,45,87,S,3,0,29.97,0,Fair
+7/20/2022,49,46,90,CALM,0,0,29.97,0,Fair
+7/20/2022,50,46,87,SSE,8,0,29.96,0,Mostly Cloudy
+7/20/2022,50,46,87,S,8,0,29.96,0,Partly Cloudy
+7/20/2022,50,47,89,SSE,7,0,29.96,0,Partly Cloudy
+7/20/2022,50,46,87,S,8,0,29.96,0,Mostly Cloudy
+7/20/2022,51,47,86,S,8,0,29.95,0,Cloudy
+7/20/2022,50,46,86,S,12,0,29.95,0,Mostly Cloudy
+7/20/2022,48,45,87,S,9,0,29.94,0,Mostly Cloudy
+7/20/2022,50,46,86,WSW,12,17,29.93,0,Mostly Cloudy
+7/20/2022,48,46,93,SSW,9,0,29.91,0,Light Drizzle
+7/20/2022,48,46,93,SSW,9,0,29.91,0,Light Drizzle
+7/20/2022,48,46,93,SSW,7,0,29.91,0,Light Drizzle
+7/20/2022,50,46,86,S,9,0,29.91,0,Light Drizzle
+7/20/2022,50,46,87,S,10,0,29.9,0,Light Drizzle
+7/20/2022,50,46,87,S,10,0,29.91,0,Light Drizzle
+7/20/2022,52,48,88,S,15,0,29.89,0,Light Drizzle
+7/20/2022,52,48,88,S,13,0,29.87,0,Light Rain
+7/20/2022,52,48,88,S,14,0,29.87,0,Light Rain
+7/20/2022,52,48,88,S,12,0,29.87,0,Light Drizzle
+7/20/2022,52,48,88,S,14,0,29.87,0,Light Rain
+7/20/2022,52,48,88,SSW,14,0,29.86,0,Light Rain
+7/20/2022,51,49,92,SSW,14,0,29.87,0,Light Rain
+7/20/2022,52,48,88,S,14,0,29.87,0,Light Rain
+7/20/2022,52,48,88,SSW,10,0,29.85,0,Light Rain
+7/20/2022,51,49,92,SSW,12,0,29.85,0,Light Rain
+7/20/2022,52,48,88,SSW,12,0,29.85,0,Light Rain
+7/20/2022,52,48,88,SW,16,22,29.84,0,Light Rain
+7/20/2022,52,48,86,SSW,17,22,29.84,0,Light Rain
+7/20/2022,52,48,88,SSW,15,22,29.84,0,Light Rain
+7/20/2022,52,48,86,S,12,18,29.82,0,Cloudy
+7/20/2022,52,48,88,SSW,15,0,29.82,0,Cloudy
+7/20/2022,51,47,86,SSW,17,23,29.81,0,Light Rain
+7/20/2022,52,46,82,S,21,26,29.81,0,Light Rain / Windy
+7/20/2022,52,48,88,SSW,12,0,29.79,0,Light Rain
+7/20/2022,51,48,89,SW,13,0,29.79,0,Light Rain
+7/20/2022,52,48,88,SW,12,0,29.79,0,Light Rain
+7/20/2022,52,48,88,VAR,6,0,29.8,0,Light Rain
+7/20/2022,52,48,88,S,7,0,29.8,0,Light Rain
+7/20/2022,52,48,88,S,8,0,29.8,0,Light Rain
+7/20/2022,52,48,88,SSE,3,0,29.8,0,Light Rain
+7/20/2022,52,48,86,SW,9,0,29.79,0,Light Rain
+7/20/2022,52,47,83,W,7,0,29.81,0,Cloudy
+7/20/2022,52,48,88,NNW,3,0,29.81,0,Cloudy
+7/20/2022,51,48,89,NNW,3,0,29.81,0,Cloudy
+7/20/2022,52,48,88,CALM,0,0,29.81,0,Cloudy
+7/20/2022,52,48,88,CALM,0,0,29.81,0,Cloudy
+7/20/2022,50,48,93,NNW,8,0,29.82,0,Cloudy
+7/21/2022,50,46,86,WNW,7,0,29.82,0,Cloudy
+7/21/2022,50,45,83,W,8,0,29.83,0,Mostly Cloudy
+7/21/2022,49,45,86,WNW,7,0,29.84,0,Fair
+7/21/2022,47,44,90,NNW,6,0,29.85,0,Fair
+7/21/2022,48,44,86,NW,9,0,29.85,0,Fair
+7/21/2022,48,44,86,NNW,10,0,29.86,0,Fair
+7/21/2022,48,45,87,NNW,6,0,29.87,0,Mostly Cloudy
+7/21/2022,48,44,86,NNW,3,0,29.88,0,Mostly Cloudy
+7/21/2022,48,43,82,N,7,0,29.88,0,Mostly Cloudy
+7/21/2022,48,43,83,NNW,7,0,29.89,0,Mostly Cloudy
+7/21/2022,48,43,82,NNW,7,0,29.89,0,Mostly Cloudy
+7/21/2022,48,43,82,NNW,8,0,29.88,0,Mostly Cloudy
+7/21/2022,49,43,80,NNW,9,0,29.88,0,Mostly Cloudy
+7/21/2022,50,43,76,NNW,10,0,29.89,0,Mostly Cloudy
+7/21/2022,50,43,76,N,9,0,29.89,0,Cloudy
+7/21/2022,52,43,71,NNW,8,0,29.89,0,Partly Cloudy
+7/21/2022,52,43,71,NNW,9,0,29.89,0,Mostly Cloudy
+7/21/2022,51,42,71,NW,7,0,29.89,0,Mostly Cloudy
+7/21/2022,52,43,71,NNW,9,0,29.88,0,Mostly Cloudy
+7/21/2022,52,43,71,NNW,6,0,29.88,0,Mostly Cloudy
+7/21/2022,52,43,71,N,8,0,29.88,0,Mostly Cloudy
+7/21/2022,52,43,71,N,8,0,29.88,0,Mostly Cloudy
+7/21/2022,52,43,71,N,7,0,29.89,0,Mostly Cloudy
+7/21/2022,52,45,76,NNE,7,0,29.89,0,Mostly Cloudy
+7/21/2022,52,44,74,NNE,6,0,29.89,0,Mostly Cloudy
+7/21/2022,52,45,76,N,7,0,29.89,0,Mostly Cloudy
+7/21/2022,52,45,76,NNE,7,0,29.89,0,Mostly Cloudy
+7/21/2022,51,44,77,NNE,7,0,29.89,0,Mostly Cloudy
+7/21/2022,52,45,76,NNE,7,0,29.89,0,Mostly Cloudy
+7/21/2022,54,45,72,W,7,0,29.87,0,Mostly Cloudy
+7/21/2022,54,44,69,W,8,0,29.87,0,Mostly Cloudy
+7/21/2022,54,45,72,NNE,8,0,29.87,0,Mostly Cloudy
+7/21/2022,53,44,71,NNE,8,0,29.87,0,Mostly Cloudy
+7/21/2022,54,45,72,NNE,8,0,29.87,0,Mostly Cloudy
+7/21/2022,53,44,71,NE,7,0,29.87,0,Mostly Cloudy
+7/21/2022,53,45,74,NNE,8,0,29.88,0,Mostly Cloudy
+7/21/2022,54,45,72,N,8,0,29.88,0,Mostly Cloudy
+7/21/2022,54,45,72,NNE,6,0,29.87,0,Mostly Cloudy
+7/21/2022,54,44,69,CALM,0,0,29.87,0,Mostly Cloudy
+7/21/2022,54,45,72,VAR,6,0,29.87,0,Mostly Cloudy
+7/21/2022,55,45,69,WNW,8,0,29.88,0,Cloudy
+7/21/2022,54,45,72,N,10,0,29.87,0,Cloudy
+7/21/2022,52,45,77,N,9,0,29.89,0,Cloudy
+7/21/2022,49,44,83,N,8,0,29.9,0,Cloudy
+7/21/2022,48,45,87,N,8,0,29.9,0,Cloudy
+7/21/2022,48,43,83,N,8,0,29.91,0,Partly Cloudy
+7/22/2022,48,43,82,N,7,0,29.92,0,Mostly Cloudy
+7/22/2022,47,42,83,NW,5,0,29.92,0,Cloudy
+7/22/2022,47,42,83,NW,5,0,29.93,0,Cloudy
+7/22/2022,47,42,83,NW,5,0,29.94,0,Cloudy
+7/22/2022,47,41,80,NNW,6,0,29.94,0,Cloudy
+7/22/2022,46,41,83,WNW,3,0,29.94,0,Cloudy
+7/22/2022,43,41,93,CALM,0,0,29.95,0,Fair
+7/22/2022,45,41,87,CALM,0,0,29.95,0,Fair
+7/22/2022,45,41,87,CALM,0,0,29.95,0,Fair
+7/22/2022,48,39,71,CALM,0,0,29.93,0,Fair
+7/22/2022,48,41,76,CALM,0,0,29.93,0,Fair
+7/22/2022,50,40,68,W,3,0,29.93,0,Fair
+7/22/2022,50,39,66,NW,3,0,29.93,0,Fair
+7/22/2022,50,39,66,NNW,3,0,0,0,Fair
+7/22/2022,50,40,68,CALM,0,0,29.93,0,Partly Cloudy
+7/22/2022,52,42,69,SSE,8,0,29.93,0,Partly Cloudy
+7/22/2022,52,43,71,SSE,8,0,29.93,0,Partly Cloudy
+7/22/2022,54,43,67,SSE,9,0,29.92,0,Partly Cloudy
+7/22/2022,54,43,67,SSE,12,0,29.92,0,Partly Cloudy
+7/22/2022,52,42,69,SSE,9,0,29.92,0,Partly Cloudy
+7/22/2022,52,43,71,SSE,12,0,29.92,0,Partly Cloudy
+7/22/2022,53,42,66,SSE,12,0,29.92,0,Mostly Cloudy
+7/22/2022,54,43,67,SSE,10,0,29.9,0,Mostly Cloudy
+7/22/2022,54,42,64,SSE,12,0,29.91,0,Mostly Cloudy
+7/22/2022,54,45,72,SSE,13,0,29.9,0,Mostly Cloudy
+7/22/2022,54,43,67,SSE,13,0,29.9,0,Mostly Cloudy
+7/22/2022,53,44,71,SSE,10,0,29.9,0,Mostly Cloudy
+7/22/2022,54,45,72,SSE,9,0,29.89,0,Mostly Cloudy
+7/22/2022,53,45,74,SSE,13,0,29.89,0,Mostly Cloudy
+7/22/2022,52,45,76,SSE,9,0,29.89,0,Mostly Cloudy
+7/22/2022,52,45,76,SSE,12,0,29.88,0,Mostly Cloudy
+7/22/2022,54,45,72,SSE,12,0,29.88,0,Mostly Cloudy
+7/22/2022,53,45,74,SSE,12,0,29.88,0,Mostly Cloudy
+7/22/2022,52,45,77,SSE,6,0,29.89,0,Cloudy
+7/22/2022,52,45,76,CALM,0,0,29.88,0,Cloudy
+7/22/2022,50,45,83,SSE,3,0,29.86,0,Cloudy
+7/22/2022,50,45,82,CALM,0,0,29.86,0,Cloudy
+7/22/2022,50,45,82,CALM,0,0,29.87,0,Cloudy
+7/22/2022,50,45,83,VAR,3,0,29.85,0,Cloudy
+7/22/2022,50,46,87,NNE,6,0,29.85,0,Cloudy
+7/22/2022,50,46,87,NNE,8,0,29.85,0,Cloudy
+7/22/2022,50,46,86,NE,6,0,29.84,0,Cloudy
+7/23/2022,50,46,87,VAR,5,0,29.83,0,Cloudy
+7/23/2022,50,48,93,NE,6,0,29.83,0,Cloudy
+7/23/2022,50,48,93,NE,7,0,29.81,0,Light Rain
+7/23/2022,49,48,97,NE,8,0,29.79,0,Light Rain
+7/23/2022,49,47,93,NE,8,0,29.75,0,Light Rain
+7/23/2022,49,48,97,NNE,8,0,29.72,0,Light Rain
+7/23/2022,50,49,96,NE,9,0,29.66,0,Light Rain
+7/23/2022,50,48,94,VAR,6,0,29.66,0,Light Rain
+7/23/2022,50,48,94,NE,9,17,29.63,0,Light Rain
+7/23/2022,50,48,94,NE,13,21,29.63,0,Light Rain
+7/23/2022,50,49,96,NE,12,21,29.63,0,Light Rain
+7/23/2022,50,48,94,NE,12,21,29.63,0,Light Rain
+7/23/2022,50,48,93,NE,13,17,29.61,0,Rain
+7/23/2022,50,48,94,NE,12,17,29.61,0,Rain
+7/23/2022,50,48,94,NE,12,20,29.59,0,Rain
+7/23/2022,50,48,93,NNE,14,20,29.58,0,Rain
+7/23/2022,50,48,94,NE,12,18,29.58,0,Light Rain
+7/23/2022,50,49,96,NNE,13,18,29.58,0,Light Rain
+7/23/2022,50,48,94,NE,12,18,29.58,0,Light Rain
+7/23/2022,50,48,94,NE,13,18,29.57,0,Light Rain
+7/23/2022,50,48,94,NE,13,18,29.57,0,Light Rain
+7/23/2022,50,48,94,NE,13,18,29.56,0,Light Rain
+7/23/2022,50,48,94,NE,13,18,29.56,0,Light Rain
+7/23/2022,50,49,96,NE,13,18,29.56,0,Light Rain
+7/23/2022,52,48,88,NE,13,18,29.56,0,Light Rain
+7/23/2022,52,50,94,NE,13,18,29.54,0,Light Rain
+7/23/2022,51,50,96,NE,13,18,29.54,0,Light Rain
+7/23/2022,52,50,94,NE,13,18,29.54,0,Light Rain
+7/23/2022,52,50,94,NNE,15,0,29.54,0,Light Rain
+7/23/2022,52,50,94,NNE,13,20,29.54,0,Light Rain
+7/23/2022,52,50,94,NNE,13,20,29.54,0,Light Rain
+7/23/2022,52,50,94,NNE,13,20,29.54,0,Light Rain
+7/23/2022,52,50,94,NNE,16,0,29.54,0,Light Rain
+7/23/2022,52,50,93,NNE,12,0,29.53,0,Light Rain
+7/23/2022,52,50,94,NNE,12,0,29.53,0,Light Rain
+7/23/2022,54,50,88,NNE,10,0,29.55,0,Cloudy
+7/23/2022,53,50,89,NNE,9,17,29.55,0,Cloudy
+7/23/2022,54,50,88,NNE,9,17,29.55,0,Cloudy
+7/23/2022,54,50,88,NNE,10,0,29.55,0,Cloudy
+7/23/2022,54,50,86,NNE,9,0,29.56,0,Cloudy
+7/23/2022,55,50,82,NNE,12,17,29.55,0,Cloudy
+7/23/2022,55,50,82,NNE,9,0,29.55,0,Cloudy
+7/23/2022,55,50,82,VAR,7,0,29.56,0,Cloudy
+7/23/2022,55,50,82,VAR,7,0,29.56,0,Mostly Cloudy
+7/23/2022,57,50,77,NNE,8,0,29.56,0,Mostly Cloudy
+7/23/2022,55,50,83,N,8,0,29.55,0,Mostly Cloudy
+7/23/2022,55,50,82,N,5,0,29.55,0,Cloudy
+7/23/2022,54,50,86,NNE,6,0,29.59,0,Cloudy
+7/23/2022,54,50,86,SSW,6,0,29.6,0,Cloudy
+7/23/2022,53,50,89,SSE,8,0,29.61,0,Cloudy
+7/23/2022,54,50,88,SSE,7,0,29.62,0,Cloudy
+7/23/2022,53,50,89,S,8,0,29.64,0,Cloudy
+7/24/2022,52,50,93,CALM,0,0,29.67,0,Cloudy
+7/24/2022,53,49,86,CALM,0,0,29.66,0,Cloudy
+7/24/2022,54,48,82,E,7,0,29.67,0,Cloudy
+7/24/2022,54,48,82,VAR,5,0,29.67,0,Cloudy
+7/24/2022,53,49,86,S,3,0,29.67,0,Cloudy
+7/24/2022,53,49,86,CALM,0,0,29.65,0,Cloudy
+7/24/2022,52,50,94,CALM,0,0,29.63,0,Cloudy
+7/24/2022,52,50,93,VAR,6,0,29.63,0,Cloudy
+7/24/2022,52,50,94,VAR,6,0,29.6,0,Cloudy
+7/24/2022,52,50,93,VAR,3,0,29.6,0,Cloudy
+7/24/2022,52,50,94,VAR,5,0,29.59,0,Cloudy
+7/24/2022,52,50,93,VAR,5,0,29.59,0,Cloudy
+7/24/2022,52,50,94,VAR,6,0,29.58,0,Light Rain
+7/24/2022,52,50,94,VAR,3,0,29.57,0,Light Rain
+7/24/2022,52,50,93,VAR,5,0,29.57,0,Light Rain
+7/24/2022,52,50,94,VAR,6,0,29.57,0,Light Rain
+7/24/2022,52,52,100,VAR,5,0,29.56,0,Light Rain
+7/24/2022,52,52,100,VAR,5,0,29.56,0,Light Rain
+7/24/2022,53,52,96,VAR,3,0,29.55,0,Light Rain
+7/24/2022,54,52,94,VAR,5,0,29.55,0,Light Rain
+7/24/2022,54,52,94,CALM,0,0,29.55,0,Light Rain
+7/24/2022,54,52,94,VAR,5,0,29.54,0,Light Rain
+7/24/2022,54,52,94,SE,5,0,29.54,0,Light Rain
+7/24/2022,54,52,94,VAR,5,0,29.54,0,Rain
+7/24/2022,53,51,93,VAR,7,0,29.54,0,Rain
+7/24/2022,54,52,94,VAR,6,0,29.54,0,Rain
+7/24/2022,54,52,94,SE,8,16,29.53,0,Light Rain
+7/24/2022,54,52,94,SE,13,22,29.53,0,Light Rain
+7/24/2022,54,52,93,SE,16,22,29.54,0,Light Rain
+7/24/2022,54,52,94,SSE,15,21,29.54,0,Light Rain
+7/24/2022,53,52,96,SSE,15,21,29.54,0,Light Rain
+7/24/2022,54,52,94,SSE,16,21,29.54,0,Light Rain
+7/24/2022,54,52,94,SSE,14,18,29.53,0,Light Rain
+7/24/2022,53,52,96,SSE,13,18,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,12,18,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,14,18,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,14,18,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,14,18,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,15,0,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,15,0,29.54,0,Light Rain
+7/24/2022,52,52,100,SE,14,21,29.54,0,Light Rain
+7/24/2022,52,52,100,SSE,14,21,29.53,0,Rain
+7/24/2022,52,52,100,SSE,13,21,29.53,0,Light Rain
+7/24/2022,52,52,100,SE,10,0,29.53,0,Light Rain
+7/24/2022,53,52,96,SE,12,0,29.52,0,Light Rain
+7/24/2022,52,52,100,SSE,13,18,29.52,0,Light Rain
+7/24/2022,52,52,100,SSE,13,18,29.52,0,Light Rain
+7/24/2022,54,54,100,S,20,0,29.51,0,Cloudy
+7/24/2022,54,53,97,S,20,26,29.51,0,Cloudy
+7/24/2022,54,54,100,S,21,28,29.51,0,Cloudy / Windy
+7/24/2022,54,54,100,S,23,0,29.49,0,Light Rain / Windy
+7/24/2022,54,54,100,S,25,30,29.49,0,Light Rain / Windy
+7/24/2022,54,54,100,S,24,30,29.49,0,Light Rain / Windy
+7/24/2022,54,54,100,S,22,30,29.48,0,Light Rain / Windy
+7/24/2022,54,54,100,S,24,32,29.49,0,Light Rain / Windy
+7/24/2022,54,53,97,S,22,32,29.49,0,Light Rain / Windy
+7/24/2022,54,50,88,S,25,36,29.49,0,Cloudy / Windy
+7/24/2022,53,50,89,SSW,29,39,29.5,0,Cloudy / Windy
+7/24/2022,52,48,86,S,21,28,29.52,0,Cloudy / Windy
+7/24/2022,52,47,83,SSW,23,31,29.52,0,Cloudy / Windy
+7/25/2022,52,47,83,SSW,25,31,29.55,0,Cloudy / Windy
+7/25/2022,52,45,77,SSW,18,24,29.57,0,Cloudy
+7/25/2022,51,44,77,SW,13,29,29.61,0,Cloudy
+7/25/2022,51,44,77,VAR,5,0,29.65,0,Cloudy
+7/25/2022,52,45,76,WSW,14,20,29.67,0,Cloudy
+7/25/2022,52,45,76,WSW,13,21,29.68,0,Cloudy
+7/25/2022,51,44,77,WSW,16,21,29.73,0,Cloudy
+7/25/2022,52,43,71,WSW,15,21,29.76,0,Mostly Cloudy
+7/25/2022,51,43,74,WSW,12,21,29.77,0,Mostly Cloudy
+7/25/2022,52,43,71,SW,12,21,29.77,0,Mostly Cloudy
+7/25/2022,52,45,76,WNW,8,0,29.81,0,Mostly Cloudy
+7/25/2022,52,45,76,W,9,0,29.83,0,Light Rain
+7/25/2022,52,45,76,W,10,0,29.83,0,Light Rain
+7/25/2022,50,45,82,WSW,7,0,29.86,0,Light Rain
+7/25/2022,50,44,80,WSW,6,0,29.86,0,Light Rain
+7/25/2022,52,45,76,WSW,7,0,29.87,0,Mostly Cloudy
+7/25/2022,52,45,76,WSW,7,0,29.88,0,Mostly Cloudy
+7/25/2022,52,45,76,W,7,0,29.88,0,Mostly Cloudy
+7/25/2022,52,45,76,WNW,6,0,29.9,0,Mostly Cloudy
+7/25/2022,52,45,76,NW,7,0,29.9,0,Mostly Cloudy
+7/25/2022,51,44,77,WSW,7,0,29.94,0,Mostly Cloudy
+7/25/2022,52,45,76,WSW,7,0,29.94,0,Mostly Cloudy
+7/25/2022,50,43,76,NW,6,0,29.97,0,Mostly Cloudy
+7/25/2022,51,43,74,NW,7,0,29.97,0,Mostly Cloudy
+7/25/2022,52,43,71,NW,6,0,29.97,0,Mostly Cloudy
+7/25/2022,52,45,76,WNW,9,0,30,0,Light Rain
+7/25/2022,52,43,71,WNW,9,0,30.02,0,Mostly Cloudy
+7/25/2022,52,43,71,NW,8,0,30.03,0,Mostly Cloudy
+7/25/2022,54,43,67,W,5,0,30.03,0,Mostly Cloudy
+7/25/2022,53,43,69,WSW,5,0,30.04,0,Mostly Cloudy
+7/25/2022,55,42,62,WNW,8,0,30.07,0,Mostly Cloudy
+7/25/2022,55,43,63,WNW,10,0,30.06,0,Partly Cloudy
+7/25/2022,57,42,57,W,9,0,30.07,0,Partly Cloudy
+7/25/2022,57,43,59,NW,9,0,30.09,0,Partly Cloudy
+7/25/2022,57,43,59,WNW,8,0,30.1,0,Fair
+7/25/2022,57,43,59,WNW,9,0,30.1,0,Partly Cloudy
+7/25/2022,55,43,63,WNW,9,0,30.13,0,Partly Cloudy
+7/25/2022,56,41,57,W,8,0,30.13,0,Partly Cloudy
+7/25/2022,55,43,63,W,8,0,30.13,0,Cloudy
+7/25/2022,57,41,55,W,5,0,30.14,0,Fair
+7/25/2022,56,43,62,W,7,0,30.15,0,Fair
+7/25/2022,55,43,64,WNW,3,0,30.16,0,Fair
+7/25/2022,52,44,74,CALM,0,0,30.21,0,Fair
+7/25/2022,49,45,86,ENE,3,0,30.22,0,Mostly Cloudy
+7/26/2022,48,45,89,CALM,0,0,30.25,0,Mostly Cloudy
+7/26/2022,47,44,90,ENE,5,0,30.26,0,Fair
+7/26/2022,46,43,89,CALM,0,0,30.27,0,Fair
+7/26/2022,46,43,89,CALM,0,0,30.26,0,Fair
+7/26/2022,46,44,93,NNE,3,0,30.25,0,Fair
+7/26/2022,48,45,87,NNE,5,0,30.25,0,Mostly Cloudy
+7/26/2022,48,44,86,N,5,0,30.25,0,Mostly Cloudy
+7/26/2022,46,43,87,CALM,0,0,30.26,0,Mostly Cloudy
+7/26/2022,47,43,86,CALM,0,0,30.26,0,Mostly Cloudy
+7/26/2022,48,43,82,N,8,0,30.26,0,Mostly Cloudy
+7/26/2022,49,43,80,N,7,0,30.26,0,Mostly Cloudy
+7/26/2022,50,45,82,NNE,5,0,30.26,0,Mostly Cloudy
+7/26/2022,51,44,77,N,6,0,30.26,0,Mostly Cloudy
+7/26/2022,52,45,76,NNE,5,0,30.26,0,Mostly Cloudy
+7/26/2022,52,45,76,N,8,0,30.26,0,Mostly Cloudy
+7/26/2022,52,46,82,N,9,0,30.25,0,Mostly Cloudy
+7/26/2022,52,46,80,N,8,0,30.25,0,Mostly Cloudy
+7/26/2022,52,46,82,N,9,0,30.25,0,Mostly Cloudy
+7/26/2022,54,46,77,N,8,0,30.25,0,Mostly Cloudy
+7/26/2022,53,46,77,NNE,9,0,30.25,0,Mostly Cloudy
+7/26/2022,54,46,77,NE,12,16,30.25,0,Mostly Cloudy
+7/26/2022,54,47,77,NE,6,16,30.25,0,Mostly Cloudy
+7/26/2022,54,46,77,NE,8,0,30.24,0,Mostly Cloudy
+7/26/2022,54,46,77,NE,7,0,30.24,0,Mostly Cloudy
+7/26/2022,54,47,77,VAR,5,0,30.24,0,Mostly Cloudy
+7/26/2022,55,46,72,NNE,10,0,30.23,0,Mostly Cloudy
+7/26/2022,55,46,72,NNE,10,0,30.23,0,Mostly Cloudy
+7/26/2022,55,46,72,NNE,10,0,30.23,0,Mostly Cloudy
+7/26/2022,57,45,63,NNE,8,0,30.21,0,Partly Cloudy
+7/26/2022,57,44,62,NNE,9,0,30.21,0,Partly Cloudy
+7/26/2022,55,45,67,N,9,0,30.19,0,Partly Cloudy
+7/26/2022,56,45,67,N,8,0,30.19,0,Partly Cloudy
+7/26/2022,57,45,63,VAR,5,0,30.18,0,Partly Cloudy
+7/26/2022,58,44,60,VAR,7,0,30.18,0,Partly Cloudy
+7/26/2022,57,45,63,NNW,8,0,30.18,0,Fair
+7/26/2022,56,45,67,N,7,0,30.17,0,Mostly Cloudy
+7/26/2022,55,44,67,NNE,6,0,30.16,0,Mostly Cloudy
+7/26/2022,55,45,67,NNE,6,0,30.15,0,Mostly Cloudy
+7/26/2022,54,45,72,NNW,5,0,30.15,0,Cloudy
+7/26/2022,53,46,77,N,3,0,30.17,0,Cloudy
+7/26/2022,52,46,80,NE,3,0,30.18,0,Cloudy
+7/27/2022,52,46,82,NNE,3,0,30.18,0,Cloudy
+7/27/2022,51,46,83,NE,6,0,30.17,0,Mostly Cloudy
+7/27/2022,49,45,86,NE,6,0,30.16,0,Fair
+7/27/2022,48,45,89,NE,5,0,30.15,0,Fair
+7/27/2022,49,44,83,NNE,8,0,30.15,0,Fair
+7/27/2022,49,45,86,N,6,0,30.15,0,Fair
+7/27/2022,48,43,82,NW,5,0,30.15,0,Fair
+7/27/2022,48,43,83,NNW,5,0,30.15,0,Fair
+7/27/2022,49,43,80,N,7,0,30.15,0,Fair
+7/27/2022,52,45,76,N,7,0,30.15,0,Fair
+7/27/2022,52,45,76,NNE,7,0,30.15,0,Fair
+7/27/2022,52,45,76,NNE,8,0,30.14,0,Fair
+7/27/2022,52,44,74,NNE,7,0,30.14,0,Fair
+7/27/2022,52,44,74,NNE,7,0,30.14,0,Fair
+7/27/2022,54,45,72,N,8,0,30.13,0,Fair
+7/27/2022,54,44,69,N,8,0,30.13,0,Fair
+7/27/2022,54,45,72,N,8,0,30.14,0,Partly Cloudy
+7/27/2022,55,45,67,N,8,0,30.14,0,Partly Cloudy
+7/27/2022,55,45,69,N,8,0,30.14,0,Partly Cloudy
+7/27/2022,57,44,62,N,8,0,30.13,0,Mostly Cloudy
+7/27/2022,59,45,60,VAR,3,0,30.13,0,Mostly Cloudy
+7/27/2022,61,43,52,VAR,7,0,30.11,0,Partly Cloudy
+7/27/2022,61,41,48,NE,8,0,30.1,0,Partly Cloudy
+7/27/2022,61,43,52,ENE,8,0,30.09,0,Fair
+7/27/2022,61,43,52,VAR,5,0,30.09,0,Fair
+7/27/2022,63,43,48,VAR,7,0,30.09,0,Fair
+7/27/2022,61,43,52,ENE,6,0,30.09,0,Fair
+7/27/2022,60,44,55,VAR,7,0,30.09,0,Fair
+7/27/2022,58,44,60,VAR,5,0,30.09,0,Fair
+7/27/2022,55,45,69,NNE,6,0,30.08,0,Fair
+7/27/2022,52,44,74,CALM,0,0,30.09,0,Fair
+7/28/2022,50,44,80,ENE,5,0,30.09,0,Fair
+7/28/2022,49,43,80,ENE,5,0,30.08,0,Fair
+7/28/2022,50,41,71,E,3,0,30.01,0,Fair
+7/28/2022,48,41,76,CALM,0,0,30.01,0,Fair
+7/28/2022,48,41,77,E,3,0,30.01,0,Fair
+7/28/2022,52,43,71,SSE,3,0,30.01,0,Partly Cloudy
+7/28/2022,51,43,74,SSE,3,0,30.01,0,Partly Cloudy
+7/28/2022,54,46,77,SSE,3,0,30,0,Partly Cloudy
+7/28/2022,54,46,75,VAR,3,0,30,0,Partly Cloudy
+7/28/2022,55,46,72,VAR,5,0,29.96,0,Partly Cloudy
+7/28/2022,57,48,72,VAR,6,0,29.95,0,Mostly Cloudy
+7/28/2022,57,48,72,E,6,0,29.95,0,Mostly Cloudy
+7/28/2022,55,48,77,E,7,0,29.95,0,Mostly Cloudy
+7/28/2022,56,48,75,E,5,0,29.96,0,Mostly Cloudy
+7/28/2022,55,48,77,ENE,7,0,29.96,0,Mostly Cloudy
+7/28/2022,54,48,82,VAR,6,0,29.95,0,Cloudy
+7/28/2022,55,49,80,VAR,6,0,29.95,0,Cloudy
+7/28/2022,55,48,77,VAR,7,0,29.94,0,Cloudy
+7/28/2022,55,48,77,ENE,6,0,29.95,0,Cloudy
+7/28/2022,55,49,80,VAR,5,0,29.95,0,Cloudy
+7/28/2022,55,48,77,VAR,3,0,29.95,0,Cloudy
+7/28/2022,55,48,77,VAR,5,0,29.95,0,Cloudy
+7/28/2022,55,49,80,VAR,5,0,29.95,0,Cloudy
+7/28/2022,55,48,77,VAR,6,0,29.95,0,Cloudy
+7/28/2022,55,50,82,E,8,0,29.94,0,Cloudy
+7/28/2022,54,49,83,E,8,0,29.94,0,Cloudy
+7/28/2022,54,48,82,VAR,6,0,29.93,0,Cloudy
+7/28/2022,54,48,82,VAR,5,0,29.92,0,Cloudy
+7/28/2022,54,48,82,VAR,5,0,29.92,0,Cloudy
+7/28/2022,54,48,82,VAR,5,0,29.9,0,Light Rain
+7/28/2022,54,50,88,VAR,5,0,29.89,0,Light Rain
+7/28/2022,53,50,89,ENE,5,0,29.89,0,Light Rain
+7/28/2022,54,50,88,VAR,3,0,29.87,0,Cloudy
+7/28/2022,53,50,89,VAR,3,0,29.87,0,Cloudy
+7/28/2022,54,50,88,CALM,0,0,29.87,0,Cloudy
+7/28/2022,54,50,88,VAR,5,0,29.87,0,Cloudy
+7/28/2022,53,51,93,VAR,6,0,29.85,0,Cloudy
+7/28/2022,54,52,94,E,8,0,29.83,0,Cloudy
+7/28/2022,53,51,93,VAR,7,0,29.83,0,Light Rain
+7/28/2022,53,51,93,NE,8,0,29.83,0,Light Rain
+7/28/2022,54,52,94,VAR,7,0,29.83,0,Light Rain
+7/28/2022,53,51,93,VAR,6,0,29.82,0,Cloudy
+7/29/2022,53,52,96,ENE,5,0,29.8,0,Cloudy
+7/29/2022,54,52,94,CALM,0,0,29.8,0,Light Rain
+7/29/2022,53,52,96,CALM,0,0,29.79,0,Light Rain
+7/29/2022,53,52,96,CALM,0,0,29.78,0,Cloudy
+7/29/2022,53,52,96,NNE,5,0,29.76,0,Cloudy
+7/29/2022,53,52,96,SSE,5,0,29.76,0,Cloudy
+7/29/2022,53,52,96,CALM,0,0,29.76,0,Cloudy
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,52,94,,0,0,29.76,0,Cloudy
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,53,52,96,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,52,52,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.75,0,Cloudy
+7/29/2022,53,52,96,CALM,0,0,29.75,0,Cloudy
+7/29/2022,52,52,100,CALM,0,0,29.75,0,Fog
+7/29/2022,54,52,94,S,3,0,29.75,0,Cloudy
+7/29/2022,53,52,96,CALM,0,0,29.75,0,Cloudy
+7/29/2022,54,52,94,CALM,0,0,29.74,0,Cloudy
+7/29/2022,54,52,94,W,3,0,29.74,0,Cloudy
+7/29/2022,54,52,94,W,3,0,29.74,0,Cloudy
+7/29/2022,54,52,94,CALM,0,0,29.74,0,Light Rain
+7/29/2022,54,54,100,W,3,0,29.74,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.74,0,Light Rain
+7/29/2022,54,53,97,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.75,0,Light Rain
+7/29/2022,54,54,100,S,3,0,29.76,0,Light Rain
+7/29/2022,54,52,94,WSW,3,0,29.76,0,Light Rain
+7/29/2022,54,52,94,SW,3,0,29.76,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,53,53,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,52,94,SW,3,0,29.77,0,Light Rain
+7/29/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.77,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,53,97,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Cloudy
+7/29/2022,54,54,100,CALM,0,0,29.76,0,Cloudy
+7/29/2022,55,54,94,CALM,0,0,29.76,0,Cloudy
+7/29/2022,55,53,93,CALM,0,0,29.76,0,Cloudy
+7/29/2022,55,54,94,WSW,3,0,29.74,0,Mostly Cloudy
+7/29/2022,57,54,88,N,3,0,29.74,0,Mostly Cloudy
+7/29/2022,56,54,93,CALM,0,0,29.74,0,Mostly Cloudy
+7/29/2022,55,54,94,CALM,0,0,29.74,0,Mostly Cloudy
+7/29/2022,54,54,100,SSE,8,0,29.74,0,Mostly Cloudy
+7/29/2022,54,53,97,SSE,9,0,29.74,0,Mostly Cloudy
+7/29/2022,54,54,100,SSE,9,0,29.74,0,Fog
+7/29/2022,55,54,94,SSE,8,0,29.74,0,Light Rain
+7/29/2022,54,53,97,SSE,7,0,29.77,0,Light Rain
+7/29/2022,54,54,100,SSE,7,0,29.77,0,Light Rain
+7/29/2022,54,53,97,CALM,0,0,29.78,0,Cloudy
+7/29/2022,55,54,94,CALM,0,0,29.78,0,Cloudy
+7/29/2022,55,53,93,CALM,0,0,29.8,0,Cloudy
+7/29/2022,54,52,93,W,5,0,29.82,0,Cloudy
+7/29/2022,53,51,93,WNW,3,0,29.82,0,Cloudy
+7/30/2022,53,51,93,CALM,0,0,29.83,0,Cloudy
+7/30/2022,54,52,94,W,7,0,29.84,0,Cloudy
+7/30/2022,54,52,94,SE,5,0,29.84,0,Cloudy
+7/30/2022,52,51,97,CALM,0,0,29.85,0,Cloudy
+7/30/2022,52,51,97,SE,3,0,29.86,0,Cloudy
+7/30/2022,52,50,94,SSE,5,0,29.87,0,Mostly Cloudy
+7/30/2022,51,50,96,SE,3,0,29.87,0,Mostly Cloudy
+7/30/2022,52,50,94,CALM,0,0,29.87,0,Mostly Cloudy
+7/30/2022,52,51,97,CALM,0,0,29.89,0,Cloudy
+7/30/2022,52,52,100,SSE,3,0,29.9,0,Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.9,0,Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.9,0,Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.9,0,Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.9,0,Cloudy
+7/30/2022,53,51,93,CALM,0,0,29.9,0,Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.9,0,Cloudy
+7/30/2022,53,51,93,CALM,0,0,29.91,0,Mostly Cloudy
+7/30/2022,54,52,94,CALM,0,0,29.92,0,Mostly Cloudy
+7/30/2022,53,51,93,SSE,3,0,29.93,0,Mostly Cloudy
+7/30/2022,55,52,88,CALM,0,0,29.95,0,Mostly Cloudy
+7/30/2022,55,51,86,CALM,0,0,29.95,0,Mostly Cloudy
+7/30/2022,55,52,88,CALM,0,0,29.95,0,Mostly Cloudy
+7/30/2022,55,52,88,NNW,5,0,29.96,0,Mostly Cloudy
+7/30/2022,55,52,88,NNW,5,0,29.96,0,Mostly Cloudy
+7/30/2022,57,52,82,WNW,3,0,29.95,0,Mostly Cloudy
+7/30/2022,58,51,78,W,5,0,29.95,0,Mostly Cloudy
+7/30/2022,57,52,82,W,5,0,29.95,0,Mostly Cloudy
+7/30/2022,57,52,82,W,5,0,29.95,0,Mostly Cloudy
+7/30/2022,59,52,77,S,3,0,29.96,0,Mostly Cloudy
+7/30/2022,59,52,77,S,5,0,29.96,0,Mostly Cloudy
+7/30/2022,59,51,75,S,5,0,29.96,0,Mostly Cloudy
+7/30/2022,59,52,77,S,3,0,29.96,0,Mostly Cloudy
+7/30/2022,57,52,82,SSE,6,0,29.97,0,Mostly Cloudy
+7/30/2022,58,52,81,SSE,7,0,29.97,0,Mostly Cloudy
+7/30/2022,59,52,77,SSE,7,0,29.97,0,Mostly Cloudy
+7/30/2022,59,54,82,S,10,0,29.97,0,Mostly Cloudy
+7/30/2022,59,53,81,S,10,0,29.97,0,Mostly Cloudy
+7/30/2022,59,54,82,S,10,0,29.99,0,Mostly Cloudy
+7/30/2022,58,53,84,S,10,0,29.99,0,Mostly Cloudy
+7/30/2022,57,54,88,S,9,0,29.99,0,Mostly Cloudy
+7/30/2022,57,52,82,S,9,0,29.99,0,Mostly Cloudy
+7/30/2022,57,53,87,S,8,0,29.99,0,Mostly Cloudy
+7/30/2022,55,52,88,S,10,0,29.99,0,Mostly Cloudy
+7/30/2022,56,52,87,S,10,0,30,0,Mostly Cloudy
+7/30/2022,55,52,88,S,7,0,30,0,Mostly Cloudy
+7/30/2022,55,52,88,S,7,0,30,0,Mostly Cloudy
+7/30/2022,54,52,93,S,12,0,30,0,Mostly Cloudy
+7/30/2022,54,52,94,S,10,0,30,0,Cloudy
+7/30/2022,54,52,94,S,12,0,30.03,0,Cloudy
+7/30/2022,54,52,94,SSW,9,0,30.02,0,Cloudy
+7/30/2022,54,52,94,S,9,0,30.02,0,Cloudy
+7/30/2022,54,52,94,S,5,0,30.02,0,Cloudy
+7/30/2022,54,52,94,S,3,0,30.03,0,Cloudy
+7/30/2022,54,50,88,SSW,9,0,30.03,0,Cloudy
+7/30/2022,54,50,86,S,7,0,30.03,0,Cloudy
+7/30/2022,52,50,94,SW,5,0,30.04,0,Light Rain
+7/30/2022,52,50,93,WSW,8,0,30.06,0,Light Rain
+7/31/2022,52,49,89,SW,9,0,30.07,0,Cloudy
+7/31/2022,51,49,92,SSW,9,0,30.07,0,Cloudy
+7/31/2022,52,48,88,S,7,0,30.07,0,Cloudy
+7/31/2022,52,48,88,S,9,0,30.07,0,Cloudy
+7/31/2022,52,48,88,SSW,10,16,30.08,0,Cloudy
+7/31/2022,52,48,86,WSW,8,0,30.08,0,Cloudy
+7/31/2022,52,48,88,WSW,5,0,30.08,0,Cloudy
+7/31/2022,52,48,88,SW,6,0,30.08,0,Cloudy
+7/31/2022,52,48,86,S,6,0,30.08,0,Cloudy
+7/31/2022,52,48,88,S,9,0,30.08,0,Cloudy
+7/31/2022,52,48,86,SSW,10,0,30.08,0,Cloudy
+7/31/2022,52,50,94,SSE,8,0,30.08,0,Cloudy
+7/31/2022,52,50,94,S,12,0,30.07,0,Light Rain
+7/31/2022,52,50,94,S,13,0,30.07,0,Cloudy
+7/31/2022,52,50,93,S,12,0,30.07,0,Light Drizzle
+7/31/2022,52,50,94,S,9,0,30.07,0,Light Drizzle
+7/31/2022,52,50,94,S,8,0,30.07,0,Light Drizzle
+7/31/2022,51,50,96,S,12,0,30.06,0,Light Drizzle
+7/31/2022,52,50,94,SSW,13,0,30.06,0,Light Drizzle
+7/31/2022,52,50,94,S,9,0,30.06,0,Mostly Cloudy
+7/31/2022,52,50,93,S,10,0,30.06,0,Mostly Cloudy
+7/31/2022,52,50,94,S,8,0,30.06,0,Mostly Cloudy
+7/31/2022,52,50,94,S,13,0,30.06,0,Mostly Cloudy
+7/31/2022,52,48,88,S,13,0,30.07,0,Cloudy
+7/31/2022,52,49,89,S,12,0,30.07,0,Cloudy
+7/31/2022,52,48,88,S,12,0,30.07,0,Cloudy
+7/31/2022,52,50,93,SSE,10,0,30.07,0,Light Rain
+7/31/2022,52,50,94,SSE,10,0,30.06,0,Light Rain
+7/31/2022,54,50,88,SSE,12,0,30.04,0,Light Rain
+7/31/2022,52,50,94,SSE,12,17,30.04,0,Light Rain
+7/31/2022,52,50,93,SSE,15,20,30.04,0,Light Rain
+7/31/2022,52,52,100,SSE,13,0,30.06,0,Light Rain
+7/31/2022,52,52,100,SSE,10,18,30.04,0,Light Rain
+7/31/2022,52,52,100,SSE,13,17,30.03,0,Light Rain
+7/31/2022,54,52,94,SSE,15,21,0,0,Light Drizzle
+7/31/2022,53,51,93,SSE,15,21,30.03,0,Light Drizzle
+7/31/2022,52,52,100,SSE,15,0,30.03,0,Light Drizzle
+7/31/2022,54,52,94,SSE,12,0,30.02,0,Light Drizzle
+7/31/2022,53,51,93,SSE,9,0,30.02,0,Light Drizzle
+7/31/2022,54,52,94,SSE,9,0,30.02,0,Light Drizzle
+7/31/2022,54,52,94,SSE,6,0,30.01,0,Light Drizzle
+7/31/2022,54,52,94,VAR,7,0,30.01,0,Light Drizzle
+7/31/2022,54,52,94,SSE,8,0,30,0,Light Drizzle
+7/31/2022,54,52,94,SSE,7,0,30,0,Light Drizzle
+7/31/2022,55,54,94,SE,8,0,29.97,0,Light Drizzle
+7/31/2022,55,53,93,SE,9,0,29.97,0,Light Drizzle
+7/31/2022,54,54,100,SSE,10,0,29.96,0,Light Drizzle
+7/31/2022,54,54,100,SSE,10,0,29.96,0,Light Drizzle
+7/31/2022,54,54,100,SE,9,0,29.95,0,Light Drizzle
+7/31/2022,54,54,100,SSE,13,0,29.94,0,Light Drizzle
+7/31/2022,54,53,97,SSE,13,0,29.94,0,Light Drizzle
+7/31/2022,54,54,100,SSE,14,0,29.94,0,Light Drizzle
+7/31/2022,54,54,100,SSE,8,0,29.93,0,Light Drizzle
+7/31/2022,54,52,94,SE,10,0,29.93,0,Light Drizzle
+7/31/2022,54,54,100,SSE,12,0,29.92,0,Light Drizzle
+7/31/2022,53,53,100,SSE,12,0,29.93,0,Light Drizzle
+7/31/2022,54,52,94,SSE,12,0,29.93,0,Light Drizzle
+7/31/2022,54,52,94,SSE,10,0,29.93,0,Light Rain
+7/31/2022,54,52,94,SSE,9,0,29.93,0,Light Rain
+7/31/2022,54,54,100,SE,8,0,29.91,0,Light Rain
+7/31/2022,54,54,100,S,14,0,29.91,0,Light Rain
+7/31/2022,54,53,97,S,13,0,29.92,0,Light Rain
+7/31/2022,54,54,100,S,10,0,29.92,0,Light Rain
+7/31/2022,54,54,100,S,13,0,29.91,0,Light Rain
+7/31/2022,54,53,97,S,12,0,29.91,0,Cloudy
+7/31/2022,54,52,94,SSW,9,0,29.92,0,Cloudy
+7/31/2022,54,49,83,S,12,0,29.92,0,Cloudy
+7/31/2022,54,48,80,SSW,18,24,29.95,0,Cloudy
+8/1/2022,52,47,83,SW,12,24,29.96,0,Light Rain
+8/1/2022,53,46,77,SW,16,26,29.96,0,Cloudy
+8/1/2022,53,47,80,SW,10,21,29.96,0,Cloudy
+8/1/2022,52,46,80,SW,7,0,29.96,0,Cloudy
+8/1/2022,52,46,80,SSW,14,0,29.96,0,Cloudy
+8/1/2022,52,46,82,S,5,0,29.97,0,Mostly Cloudy
+8/1/2022,52,47,83,SSW,7,0,29.97,0,Mostly Cloudy
+8/1/2022,52,46,82,SSW,6,0,29.97,0,Mostly Cloudy
+8/1/2022,53,47,80,WNW,7,0,29.99,0,Mostly Cloudy
+8/1/2022,54,46,77,NW,9,0,29.99,0,Mostly Cloudy
+8/1/2022,52,48,88,SW,5,0,30,0,Mostly Cloudy
+8/1/2022,54,46,77,SW,9,0,30,0,Mostly Cloudy
+8/1/2022,53,47,80,SSW,8,0,30,0,Mostly Cloudy
+8/1/2022,54,48,82,WSW,8,0,30.03,0,Mostly Cloudy
+8/1/2022,52,48,86,SW,5,0,30.03,0,Mostly Cloudy
+8/1/2022,54,46,77,WSW,13,0,30.03,0,Mostly Cloudy
+8/1/2022,54,47,77,WSW,12,0,30.03,0,Mostly Cloudy
+8/1/2022,55,48,77,W,13,20,30.03,0,Mostly Cloudy
+8/1/2022,55,46,72,W,12,0,30.04,0,Mostly Cloudy
+8/1/2022,55,48,77,W,13,0,30.04,0,Mostly Cloudy
+8/1/2022,55,48,77,W,10,0,30.04,0,Mostly Cloudy
+8/1/2022,55,48,77,W,10,0,30.04,0,Mostly Cloudy
+8/1/2022,55,46,72,WSW,9,0,30.08,0,Mostly Cloudy
+8/1/2022,55,47,74,W,6,0,30.08,0,Mostly Cloudy
+8/1/2022,55,46,72,W,9,0,30.08,0,Mostly Cloudy
+8/1/2022,55,46,72,W,16,22,30.09,0,Mostly Cloudy
+8/1/2022,56,47,72,W,14,22,30.09,0,Mostly Cloudy
+8/1/2022,55,46,72,W,14,0,30.09,0,Mostly Cloudy
+8/1/2022,55,48,77,W,8,0,30.11,0,Mostly Cloudy
+8/1/2022,55,48,77,W,8,0,30.1,0,Mostly Cloudy
+8/1/2022,55,48,77,W,7,0,30.1,0,Mostly Cloudy
+8/1/2022,55,46,72,WSW,14,0,30.13,0,Partly Cloudy
+8/1/2022,55,47,74,W,14,0,30.13,0,Partly Cloudy
+8/1/2022,55,46,72,W,12,0,30.14,0,Mostly Cloudy
+8/1/2022,57,47,69,WNW,15,21,30.15,0,Mostly Cloudy
+8/1/2022,57,46,67,WNW,15,24,30.15,0,Mostly Cloudy
+8/1/2022,57,48,72,NW,14,0,30.15,0,Mostly Cloudy
+8/1/2022,57,48,72,WNW,12,0,30.15,0,Mostly Cloudy
+8/1/2022,57,48,72,W,13,0,30.15,0,Mostly Cloudy
+8/1/2022,55,46,72,NW,14,0,30.17,0,Mostly Cloudy
+8/1/2022,56,47,72,NW,13,0,30.17,0,Mostly Cloudy
+8/1/2022,55,48,77,NNW,13,0,30.17,0,Cloudy
+8/1/2022,55,48,77,WNW,9,0,30.18,0,Cloudy
+8/1/2022,55,48,77,NW,9,0,30.18,0,Cloudy
+8/1/2022,55,48,77,WNW,7,0,30.19,0,Cloudy
+8/1/2022,54,48,80,W,8,0,30.19,0,Fair
+8/1/2022,54,48,82,W,7,0,30.21,0,Mostly Cloudy
+8/1/2022,53,48,83,WNW,7,0,30.21,0,Fair
+8/1/2022,54,48,82,WNW,8,0,30.21,0,Mostly Cloudy
+8/1/2022,54,48,82,W,9,0,30.22,0,Mostly Cloudy
+8/1/2022,52,47,83,W,8,0,30.22,0,Cloudy
+8/1/2022,52,48,86,WSW,6,0,30.23,0,Fair
+8/2/2022,52,46,82,WNW,5,0,30.25,0,Cloudy
+8/2/2022,51,47,86,W,8,0,30.25,0,Cloudy
+8/2/2022,51,47,86,NW,3,0,30.25,0,Partly Cloudy
+8/2/2022,48,46,93,CALM,0,0,30.26,0,Fair
+8/2/2022,49,46,90,CALM,0,0,30.26,0,Fair
+8/2/2022,50,46,87,WNW,3,0,30.26,0,Mostly Cloudy
+8/2/2022,48,46,93,WNW,3,0,30.25,0,Fair
+8/2/2022,48,46,93,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,48,46,93,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,49,46,90,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,50,46,87,WNW,5,0,30.26,0,Mostly Cloudy
+8/2/2022,50,46,86,W,5,0,30.26,0,Mostly Cloudy
+8/2/2022,52,46,82,W,5,0,30.26,0,Light Rain
+8/2/2022,54,45,72,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,54,46,77,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,53,46,77,CALM,0,0,30.25,0,Mostly Cloudy
+8/2/2022,55,46,72,W,5,0,30.23,0,Mostly Cloudy
+8/2/2022,57,46,67,W,6,0,30.23,0,Mostly Cloudy
+8/2/2022,57,47,69,SW,6,0,30.23,0,Mostly Cloudy
+8/2/2022,57,46,67,CALM,0,0,30.23,0,Mostly Cloudy
+8/2/2022,57,47,69,CALM,0,0,30.23,0,Mostly Cloudy
+8/2/2022,57,46,67,CALM,0,0,30.23,0,Light Rain
+8/2/2022,57,48,72,NNE,6,0,30.23,0,Light Rain
+8/2/2022,57,48,72,NNE,6,0,30.23,0,Light Rain
+8/2/2022,55,48,77,SW,3,0,30.22,0,Light Rain
+8/2/2022,55,48,77,CALM,0,0,30.22,0,Light Rain
+8/2/2022,56,48,75,CALM,0,0,30.22,0,Light Rain
+8/2/2022,57,48,72,CALM,0,0,30.21,0,Light Rain
+8/2/2022,57,49,74,W,3,0,30.21,0,Light Rain
+8/2/2022,56,50,80,SSE,8,0,30.21,0,Light Rain
+8/2/2022,55,52,88,NNE,5,0,30.23,0,Light Rain
+8/2/2022,55,52,88,NNE,6,0,30.23,0,Light Rain
+8/2/2022,54,51,90,N,3,0,30.22,0,Light Rain
+8/2/2022,53,51,93,NNW,3,0,30.22,0,Mostly Cloudy
+8/2/2022,54,52,94,CALM,0,0,30.21,0,Cloudy
+8/2/2022,54,52,94,CALM,0,0,30.21,0,Mostly Cloudy
+8/2/2022,53,51,93,CALM,0,0,30.21,0,Mostly Cloudy
+8/2/2022,54,52,94,S,3,0,30.21,0,Mostly Cloudy
+8/2/2022,54,52,94,CALM,0,0,30.21,0,Light Rain
+8/2/2022,52,52,100,SSE,3,0,30.21,0,Light Rain
+8/3/2022,52,50,94,SSE,6,0,30.21,0,Cloudy
+8/3/2022,52,50,94,SSE,6,0,30.19,0,Cloudy
+8/3/2022,51,50,96,SSE,7,0,30.19,0,Cloudy
+8/3/2022,52,50,94,SSE,7,0,30.19,0,Cloudy
+8/3/2022,52,50,94,SSE,7,0,30.18,0,Cloudy
+8/3/2022,51,50,96,VAR,3,0,30.18,0,Fog
+8/3/2022,52,50,94,VAR,3,0,30.17,0,Cloudy
+8/3/2022,52,50,94,SSE,8,0,30.17,0,Fog
+8/3/2022,52,50,94,SSE,9,0,30.17,0,Fog
+8/3/2022,52,50,94,SSE,8,0,30.17,0,Light Rain
+8/3/2022,51,50,96,SSE,7,0,30.17,0,Light Rain
+8/3/2022,52,52,100,SSE,6,0,30.17,0,Fog
+8/3/2022,52,52,100,ESE,3,0,30.15,0,Cloudy
+8/3/2022,52,52,100,CALM,0,0,30.15,0,Cloudy
+8/3/2022,52,52,100,S,6,0,30.15,0,Cloudy
+8/3/2022,54,52,94,VAR,5,0,30.14,0,Cloudy
+8/3/2022,52,52,100,ENE,3,0,30.13,0,Cloudy
+8/3/2022,54,52,94,NNE,3,0,30.14,0,Cloudy
+8/3/2022,54,52,94,NNE,5,0,30.13,0,Cloudy
+8/3/2022,54,52,94,NNE,3,0,30.13,0,Cloudy
+8/3/2022,54,52,94,N,3,0,30.11,0,Mostly Cloudy
+8/3/2022,53,52,96,NNE,3,0,30.11,0,Mostly Cloudy
+8/3/2022,54,52,94,N,3,0,30.11,0,Mostly Cloudy
+8/3/2022,54,52,94,NNE,7,0,30.1,0,Mostly Cloudy
+8/3/2022,53,52,96,NE,5,0,30.1,0,Mostly Cloudy
+8/3/2022,54,52,94,NNE,3,0,30.1,0,Mostly Cloudy
+8/3/2022,54,54,100,N,6,0,30.1,0,Cloudy
+8/3/2022,54,54,100,NNE,5,0,30.1,0,Cloudy
+8/3/2022,55,53,93,NE,3,0,30.1,0,Cloudy
+8/3/2022,55,54,94,CALM,0,0,30.1,0,Cloudy
+8/3/2022,55,54,94,NNE,6,0,30.09,0,Mostly Cloudy
+8/3/2022,56,54,93,NNE,5,0,30.09,0,Mostly Cloudy
+8/3/2022,55,54,94,NNE,3,0,30.09,0,Mostly Cloudy
+8/3/2022,57,54,88,VAR,3,0,30.08,0,Mostly Cloudy
+8/3/2022,59,55,88,VAR,3,0,30.09,0,Mostly Cloudy
+8/3/2022,59,55,88,NNE,7,0,30.08,0,Partly Cloudy
+8/3/2022,59,56,90,VAR,5,0,30.07,0,Partly Cloudy
+8/3/2022,61,55,82,VAR,5,0,30.08,0,Partly Cloudy
+8/3/2022,61,56,83,VAR,5,0,30.07,0,Mostly Cloudy
+8/3/2022,61,55,82,N,6,0,30.07,0,Mostly Cloudy
+8/3/2022,63,59,88,ESE,8,16,30.04,0,Mostly Cloudy
+8/3/2022,63,59,87,SSE,8,16,30.04,0,Mostly Cloudy
+8/3/2022,63,59,88,SSE,15,0,30.04,0,Mostly Cloudy
+8/3/2022,63,59,88,SSE,6,0,30.04,0,Light Rain
+8/3/2022,61,57,88,SE,17,22,30.06,0,Light Rain
+8/3/2022,60,57,90,SSE,12,22,30.04,0,Cloudy
+8/3/2022,61,57,88,SE,10,22,30.06,0,Cloudy
+8/3/2022,61,57,88,ESE,7,0,30.04,0,Cloudy
+8/3/2022,61,57,88,ESE,7,0,30.04,0,Cloudy
+8/3/2022,63,59,88,S,10,0,30.03,0,Light Rain
+8/3/2022,63,59,88,S,10,0,30.03,0,Light Rain
+8/3/2022,61,57,88,SE,10,0,30.04,0,Light Rain
+8/3/2022,57,55,94,S,17,0,30.03,0,Light Rain
+8/3/2022,58,56,93,S,16,0,30.03,0,Light Rain
+8/3/2022,57,55,94,S,17,0,30.03,0,Light Rain
+8/3/2022,57,55,94,S,16,0,30.03,0,Cloudy
+8/3/2022,59,55,88,SSW,12,0,30.03,0,Cloudy
+8/3/2022,59,55,87,WSW,9,0,30.04,0,Cloudy
+8/3/2022,57,54,89,WSW,9,0,30.06,0,Cloudy
+8/3/2022,56,53,90,SE,3,0,30.04,0,Cloudy
+8/3/2022,55,53,93,SSE,7,0,30.06,0,Cloudy
+8/3/2022,55,53,93,CALM,0,0,30.06,0,Cloudy
+8/4/2022,53,52,96,SSE,9,0,30.06,0,Cloudy
+8/4/2022,54,52,94,SE,6,0,30.06,0,Cloudy
+8/4/2022,54,52,94,WNW,7,0,30.07,0,Cloudy
+8/4/2022,53,51,93,S,7,0,30.07,0,Cloudy
+8/4/2022,50,48,94,SSE,8,0,30.04,0,Mostly Cloudy
+8/4/2022,51,49,92,SSE,7,0,30.04,0,Mostly Cloudy
+8/4/2022,51,49,92,S,12,0,30.03,0,Partly Cloudy
+8/4/2022,52,48,88,VAR,6,0,30.03,0,Light Rain
+8/4/2022,52,48,88,S,12,0,30.02,0,Light Rain
+8/4/2022,52,48,86,S,12,0,30.02,0,Light Rain
+8/4/2022,54,48,82,S,15,0,30.03,0,Light Rain
+8/4/2022,53,48,83,S,9,0,30.03,0,Light Rain
+8/4/2022,52,50,94,SE,8,0,30.03,0,Light Rain
+8/4/2022,52,50,94,SE,7,0,30.02,0,Light Rain
+8/4/2022,52,50,93,SE,7,0,30.02,0,Light Rain
+8/4/2022,52,50,94,SE,6,0,30.03,0,Light Rain
+8/4/2022,52,50,94,SE,5,0,30.03,0,Light Rain
+8/4/2022,52,52,100,SSE,7,0,30.03,0,Light Rain
+8/4/2022,52,52,100,SE,7,0,30.02,0,Light Rain
+8/4/2022,52,50,94,VAR,5,0,30.02,0,Light Rain
+8/4/2022,52,50,94,SSE,3,0,30.01,0,Light Rain
+8/4/2022,52,50,94,SSE,7,0,30.01,0,Cloudy
+8/4/2022,54,50,88,S,8,0,30.01,0,Light Rain
+8/4/2022,54,50,88,SSE,8,0,30.01,0,Light Rain
+8/4/2022,52,50,94,SSE,10,0,30,0,Light Rain
+8/4/2022,52,50,94,SSE,8,0,30,0,Light Rain
+8/4/2022,52,50,93,SSE,8,0,30,0,Light Rain
+8/4/2022,52,50,94,SE,8,0,30,0,Light Rain
+8/4/2022,52,50,93,SSE,10,0,29.99,0,Light Rain
+8/4/2022,52,50,94,SSE,9,0,29.97,0,Light Rain
+8/4/2022,52,52,100,SSE,8,0,29.96,0,Light Rain
+8/4/2022,52,51,97,SSE,10,0,29.95,0,Light Rain
+8/4/2022,52,52,100,SSE,10,0,29.96,0,Light Rain
+8/4/2022,52,52,100,SSE,10,0,29.96,0,Light Rain
+8/4/2022,52,52,100,SSE,7,0,29.96,0,Light Rain
+8/4/2022,52,52,100,SSE,7,0,29.96,0,Light Rain
+8/4/2022,52,51,97,SSE,6,0,29.96,0,Light Rain
+8/4/2022,52,52,100,SSE,8,0,29.96,0,Light Rain
+8/4/2022,52,52,100,SE,7,0,29.96,0,Light Rain
+8/4/2022,54,52,94,SE,6,0,29.95,0,Light Drizzle
+8/4/2022,53,51,93,SSE,9,0,29.95,0,Light Rain
+8/4/2022,54,52,94,SSE,8,0,29.95,0,Light Rain
+8/4/2022,54,52,94,SSE,8,0,29.95,0,Cloudy
+8/4/2022,55,52,88,CALM,0,0,29.94,0,Mostly Cloudy
+8/4/2022,55,51,86,CALM,0,0,29.93,0,Mostly Cloudy
+8/4/2022,54,52,94,W,9,0,29.93,0,Mostly Cloudy
+8/4/2022,54,52,94,W,6,0,29.93,0,Cloudy
+8/4/2022,54,52,94,W,6,0,29.94,0,Cloudy
+8/4/2022,53,50,89,SSW,6,0,29.94,0,Light Rain
+8/4/2022,54,50,88,CALM,0,0,29.94,0,Light Rain
+8/4/2022,54,50,88,CALM,0,0,29.93,0,Light Rain
+8/4/2022,54,50,88,CALM,0,0,29.92,0,Light Rain
+8/4/2022,52,50,93,SSW,5,0,29.94,0,Light Rain
+8/4/2022,52,50,94,CALM,0,0,29.93,0,Light Rain
+8/4/2022,52,50,93,CALM,0,0,29.92,0,Light Rain
+8/4/2022,52,50,94,E,3,0,29.91,0,Light Rain
+8/4/2022,52,50,94,CALM,0,0,29.91,0,Light Rain
+8/4/2022,51,50,96,SE,3,0,29.91,0,Light Rain
+8/5/2022,51,50,96,SSE,3,0,29.9,0,Light Rain
+8/5/2022,52,50,94,SE,3,0,29.89,0,Light Rain
+8/5/2022,52,50,94,NNW,3,0,29.89,0,Light Rain
+8/5/2022,52,50,94,N,3,0,29.89,0,Light Rain
+8/5/2022,52,50,94,CALM,0,0,29.89,0,Light Rain
+8/5/2022,52,50,94,CALM,0,0,29.89,0,Light Rain
+8/5/2022,51,50,96,CALM,0,0,29.89,0,Light Rain
+8/5/2022,52,50,94,NNW,5,0,29.88,0,Light Rain
+8/5/2022,51,50,96,NNW,3,0,29.88,0,Light Rain
+8/5/2022,52,50,94,NW,5,0,29.88,0,Light Rain
+8/5/2022,52,50,94,WNW,8,0,29.9,0,Cloudy
+8/5/2022,52,50,94,WNW,8,0,29.91,0,Cloudy
+8/5/2022,51,50,96,WNW,8,0,29.91,0,Cloudy
+8/5/2022,52,50,94,WNW,6,0,29.9,0,Cloudy
+8/5/2022,51,49,92,WNW,7,0,29.9,0,Mostly Cloudy
+8/5/2022,52,46,82,WNW,6,0,29.92,0,Mostly Cloudy
+8/5/2022,50,46,87,W,6,0,29.92,0,Mostly Cloudy
+8/5/2022,50,47,89,WNW,6,0,29.92,0,Mostly Cloudy
+8/5/2022,52,46,82,NW,6,0,29.94,0,Mostly Cloudy
+8/5/2022,52,46,82,WNW,5,0,29.96,0,Mostly Cloudy
+8/5/2022,52,46,82,WNW,3,0,29.96,0,Mostly Cloudy
+8/5/2022,54,48,82,WNW,8,0,29.97,0,Mostly Cloudy
+8/5/2022,54,48,80,WNW,8,0,29.97,0,Mostly Cloudy
+8/5/2022,54,48,82,WNW,10,0,29.97,0,Mostly Cloudy
+8/5/2022,54,46,77,WNW,10,0,29.99,0,Mostly Cloudy
+8/5/2022,53,47,80,WNW,8,0,29.99,0,Mostly Cloudy
+8/5/2022,54,46,77,WNW,9,0,30,0,Mostly Cloudy
+8/5/2022,53,47,80,WNW,9,0,30,0,Mostly Cloudy
+8/5/2022,54,46,77,W,6,0,30,0,Mostly Cloudy
+8/5/2022,55,47,74,W,6,0,30,0,Mostly Cloudy
+8/5/2022,55,46,72,WNW,6,0,30,0,Mostly Cloudy
+8/5/2022,55,46,72,W,7,0,30.01,0,Mostly Cloudy
+8/5/2022,56,46,69,VAR,5,0,30,0,Mostly Cloudy
+8/5/2022,57,48,72,W,7,0,29.99,0,Mostly Cloudy
+8/5/2022,57,48,72,W,7,0,29.99,0,Mostly Cloudy
+8/5/2022,57,48,72,W,8,0,29.99,0,Mostly Cloudy
+8/5/2022,57,46,67,W,8,0,29.97,0,Cloudy
+8/5/2022,57,46,67,WNW,7,0,29.97,0,Mostly Cloudy
+8/5/2022,57,48,72,WNW,6,0,29.97,0,Mostly Cloudy
+8/5/2022,58,48,70,WNW,7,0,29.97,0,Mostly Cloudy
+8/5/2022,57,48,72,WNW,8,0,29.97,0,Mostly Cloudy
+8/5/2022,55,48,77,W,9,0,29.97,0,Mostly Cloudy
+8/5/2022,56,49,77,W,9,0,29.97,0,Mostly Cloudy
+8/5/2022,55,48,77,WNW,8,0,29.97,0,Mostly Cloudy
+8/5/2022,55,48,77,WNW,9,0,29.99,0,Mostly Cloudy
+8/5/2022,56,48,75,WNW,8,0,29.99,0,Mostly Cloudy
+8/5/2022,55,48,77,NW,8,0,29.99,0,Mostly Cloudy
+8/5/2022,55,48,77,NW,9,0,29.99,0,Cloudy
+8/5/2022,55,48,77,WNW,9,0,30,0,Cloudy
+8/5/2022,54,48,82,W,9,0,30,0,Cloudy
+8/5/2022,54,48,80,WNW,9,0,30,0,Cloudy
+8/5/2022,54,48,82,WNW,10,0,30,0,Cloudy
+8/5/2022,54,48,82,WNW,8,0,30.01,0,Partly Cloudy
+8/5/2022,51,47,86,W,9,0,30.03,0,Fair
+8/5/2022,52,46,82,W,6,0,30.03,0,Mostly Cloudy
+8/5/2022,51,47,86,W,8,0,30.03,0,Cloudy
+8/6/2022,51,47,86,W,5,0,30.03,0,Cloudy
+8/6/2022,51,47,86,NW,3,0,30.03,0,Mostly Cloudy
+8/6/2022,52,46,82,NNW,3,0,30.03,0,Partly Cloudy
+8/6/2022,51,47,86,WNW,6,0,30.04,0,Partly Cloudy
+8/6/2022,52,46,82,WSW,5,0,30.04,0,Mostly Cloudy
+8/6/2022,51,47,86,SW,3,0,30.04,0,Cloudy
+8/6/2022,52,46,82,CALM,0,0,30.04,0,Cloudy
+8/6/2022,52,46,82,W,5,0,30.04,0,Cloudy
+8/6/2022,52,46,82,WNW,7,0,30.06,0,Cloudy
+8/6/2022,52,46,82,WNW,8,0,30.07,0,Light Rain
+8/6/2022,52,47,83,WNW,7,0,30.07,0,Light Rain
+8/6/2022,52,48,88,CALM,0,0,30.09,0,Mostly Cloudy
+8/6/2022,52,48,88,CALM,0,0,30.09,0,Light Rain
+8/6/2022,52,48,86,W,3,0,30.09,0,Light Rain
+8/6/2022,52,48,88,W,9,0,30.09,0,Mostly Cloudy
+8/6/2022,53,49,86,W,5,0,30.1,0,Mostly Cloudy
+8/6/2022,54,48,82,W,5,0,30.1,0,Mostly Cloudy
+8/6/2022,55,48,77,NNW,13,0,30.1,0,Partly Cloudy
+8/6/2022,55,48,77,NW,13,0,30.1,0,Partly Cloudy
+8/6/2022,55,46,72,N,13,0,30.09,0,Partly Cloudy
+8/6/2022,55,47,74,N,14,0,30.09,0,Partly Cloudy
+8/6/2022,55,46,72,N,13,0,30.1,0,Partly Cloudy
+8/6/2022,55,45,67,NW,17,24,30.11,0,Partly Cloudy
+8/6/2022,55,45,69,NW,18,24,30.11,0,Partly Cloudy
+8/6/2022,54,45,72,NNW,12,0,30.15,0,Partly Cloudy
+8/6/2022,54,44,69,NW,9,0,30.15,0,Partly Cloudy
+8/6/2022,54,45,72,NNW,9,0,30.15,0,Partly Cloudy
+8/6/2022,54,45,72,NNW,18,0,30.14,0,Mostly Cloudy
+8/6/2022,54,44,69,NNW,15,0,30.15,0,Mostly Cloudy
+8/6/2022,54,45,72,NNW,14,0,30.14,0,Mostly Cloudy
+8/6/2022,54,43,67,N,14,0,30.15,0,Mostly Cloudy
+8/6/2022,54,43,67,N,13,0,30.15,0,Mostly Cloudy
+8/6/2022,54,44,69,N,14,0,30.15,0,Mostly Cloudy
+8/6/2022,55,43,63,N,14,0,30.14,0,Partly Cloudy
+8/6/2022,55,43,63,N,14,0,30.14,0,Partly Cloudy
+8/6/2022,55,43,64,N,13,0,30.14,0,Partly Cloudy
+8/6/2022,55,43,63,N,13,0,30.15,0,Fair
+8/6/2022,55,43,64,NNW,14,0,30.15,0,Fair
+8/6/2022,55,43,63,N,13,0,30.15,0,Fair
+8/6/2022,55,43,64,N,10,0,30.15,0,Fair
+8/6/2022,53,44,71,NNW,8,0,30.17,0,Fair
+8/6/2022,52,44,74,N,5,0,30.18,0,Fair
+8/7/2022,47,43,86,CALM,0,0,30.19,0,Fair
+8/7/2022,48,43,83,CALM,0,0,30.21,0,Fair
+8/7/2022,47,44,90,CALM,0,0,30.19,0,Fair
+8/7/2022,43,41,93,CALM,0,0,30.17,0,Fair
+8/7/2022,44,43,96,CALM,0,0,30.17,0,Fair
+8/7/2022,43,41,93,CALM,0,0,30.17,0,Fair
+8/7/2022,46,45,93,CALM,0,0,30.17,0,Partly Cloudy
+8/7/2022,46,44,93,CALM,0,0,30.17,0,Partly Cloudy
+8/7/2022,46,45,93,NNE,3,0,30.17,0,Partly Cloudy
+8/7/2022,48,45,89,CALM,0,0,30.17,0,Partly Cloudy
+8/7/2022,50,46,87,NNE,3,0,30.18,0,Partly Cloudy
+8/7/2022,50,46,86,NNE,3,0,30.18,0,Partly Cloudy
+8/7/2022,54,48,82,S,3,0,30.16,0,Mostly Cloudy
+8/7/2022,54,48,80,CALM,0,0,30.16,0,Mostly Cloudy
+8/7/2022,54,48,82,SSW,3,0,30.16,0,Mostly Cloudy
+8/7/2022,56,48,75,VAR,5,0,30.16,0,Mostly Cloudy
+8/7/2022,57,48,72,WSW,7,0,30.16,0,Mostly Cloudy
+8/7/2022,56,49,77,VAR,6,0,30.16,0,Mostly Cloudy
+8/7/2022,55,48,77,W,7,0,30.16,0,Mostly Cloudy
+8/7/2022,57,50,77,VAR,6,0,30.15,0,Mostly Cloudy
+8/7/2022,57,50,77,VAR,3,0,30.15,0,Mostly Cloudy
+8/7/2022,57,50,77,WNW,5,0,30.15,0,Mostly Cloudy
+8/7/2022,57,48,72,SW,3,0,30.15,0,Mostly Cloudy
+8/7/2022,57,50,77,SW,5,0,30.15,0,Mostly Cloudy
+8/7/2022,57,50,77,WSW,7,0,30.15,0,Mostly Cloudy
+8/7/2022,57,52,82,CALM,0,0,30.15,0,Mostly Cloudy
+8/7/2022,58,50,75,VAR,3,0,30.15,0,Mostly Cloudy
+8/7/2022,57,50,77,VAR,3,0,30.15,0,Mostly Cloudy
+8/7/2022,57,52,82,S,12,0,30.14,0,Mostly Cloudy
+8/7/2022,55,50,82,SSW,14,0,30.14,0,Mostly Cloudy
+8/7/2022,56,50,80,S,12,0,30.14,0,Mostly Cloudy
+8/7/2022,55,52,88,S,13,0,30.14,0,Mostly Cloudy
+8/7/2022,57,52,82,S,9,0,0,0,Mostly Cloudy
+8/7/2022,57,52,82,S,9,0,30.14,0,Mostly Cloudy
+8/7/2022,55,48,77,SSW,9,0,30.14,0,Cloudy
+8/7/2022,55,50,82,S,5,0,30.14,0,Cloudy
+8/7/2022,55,50,83,SW,8,0,30.15,0,Cloudy
+8/7/2022,55,48,77,SW,14,17,30.15,0,Cloudy
+8/7/2022,54,50,88,SSW,9,0,30.15,0,Cloudy
+8/7/2022,54,50,86,SSW,8,0,30.15,0,Cloudy
+8/7/2022,54,49,83,SW,9,0,30.16,0,Cloudy
+8/7/2022,53,49,86,SW,6,0,30.16,0,Cloudy
+8/8/2022,54,48,82,CALM,0,0,30.16,0,Cloudy
+8/8/2022,53,49,86,SW,6,0,30.16,0,Cloudy
+8/8/2022,53,49,86,WSW,9,0,30.16,0,Cloudy
+8/8/2022,52,49,89,CALM,0,0,30.15,0,Cloudy
+8/8/2022,52,48,88,WSW,3,0,30.15,0,Cloudy
+8/8/2022,52,48,88,S,8,0,30.15,0,Cloudy
+8/8/2022,52,48,88,SW,6,0,30.15,0,Cloudy
+8/8/2022,52,48,86,SW,7,0,30.15,0,Cloudy
+8/8/2022,52,48,88,CALM,0,0,30.15,0,Mostly Cloudy
+8/8/2022,52,48,86,SW,3,0,30.15,0,Mostly Cloudy
+8/8/2022,52,48,88,S,5,0,30.15,0,Cloudy
+8/8/2022,52,48,88,S,5,0,30.15,0,Cloudy
+8/8/2022,52,48,88,S,5,0,30.15,0,Cloudy
+8/8/2022,54,46,77,SW,6,0,30.15,0,Cloudy
+8/8/2022,53,47,80,SW,5,0,30.15,0,Cloudy
+8/8/2022,54,46,77,CALM,0,0,30.15,0,Cloudy
+8/8/2022,53,47,80,SSE,3,0,30.15,0,Cloudy
+8/8/2022,54,46,77,SSE,3,0,30.15,0,Cloudy
+8/8/2022,54,48,82,S,10,0,30.15,0,Cloudy
+8/8/2022,54,48,80,S,9,0,30.15,0,Cloudy
+8/8/2022,54,48,82,S,10,0,30.15,0,Cloudy
+8/8/2022,54,46,77,S,8,0,30.15,0,Cloudy
+8/8/2022,55,48,77,S,12,0,30.15,0,Cloudy
+8/8/2022,54,48,82,SSW,9,0,30.15,0,Cloudy
+8/8/2022,56,47,72,SSW,6,0,30.15,0,Mostly Cloudy
+8/8/2022,57,46,67,SSW,6,0,30.13,0,Mostly Cloudy
+8/8/2022,55,46,72,S,13,0,30.14,0,Mostly Cloudy
+8/8/2022,56,48,75,S,10,0,30.13,0,Mostly Cloudy
+8/8/2022,56,47,72,SSW,10,0,30.13,0,Mostly Cloudy
+8/8/2022,55,48,77,S,13,0,30.11,0,Mostly Cloudy
+8/8/2022,55,48,77,S,13,0,30.11,0,Mostly Cloudy
+8/8/2022,55,48,77,S,13,0,30.11,0,Mostly Cloudy
+8/8/2022,54,48,82,S,12,0,30.11,0,Light Rain
+8/8/2022,54,48,82,S,12,0,30.11,0,Light Rain
+8/8/2022,54,48,82,SSW,9,0,30.13,0,Light Rain
+8/8/2022,54,48,80,SSW,9,0,30.11,0,Light Rain
+8/8/2022,54,48,82,S,9,0,30.11,0,Light Rain
+8/8/2022,54,48,82,S,7,0,30.11,0,Light Rain
+8/8/2022,54,48,80,S,8,0,30.11,0,Light Rain
+8/8/2022,54,48,82,S,7,0,30.11,0,Light Rain
+8/8/2022,54,48,82,S,7,0,30.1,0,Light Rain
+8/8/2022,52,48,88,SSE,8,0,30.09,0,Light Rain
+8/8/2022,51,49,92,S,10,0,30.1,0,Rain
+8/8/2022,50,48,94,SE,6,0,30.09,0,Rain
+8/8/2022,52,48,88,SSE,3,0,30.09,0,Rain
+8/8/2022,51,49,92,SSE,3,0,30.09,0,Light Rain
+8/8/2022,50,48,94,SSE,5,0,30.09,0,Light Rain
+8/8/2022,52,48,88,VAR,3,0,30.09,0,Light Rain
+8/8/2022,51,50,96,SE,8,0,30.07,0,Light Rain
+8/8/2022,52,50,94,SSE,7,0,30.08,0,Light Rain
+8/8/2022,52,50,94,SSE,5,0,30.08,0,Rain
+8/8/2022,52,50,94,SE,3,0,30.07,0,Light Rain
+8/8/2022,52,50,94,CALM,0,0,30.07,0,Rain
+8/8/2022,51,50,96,NE,3,0,30.07,0,Light Rain
+8/8/2022,52,50,94,CALM,0,0,30.07,0,Light Rain
+8/8/2022,52,50,94,NNE,3,0,30.06,0,Light Rain
+8/8/2022,50,48,94,NNE,5,0,30.06,0,Rain
+8/8/2022,50,48,94,NE,3,0,30.06,0,Heavy Rain
+8/8/2022,50,48,94,NNE,3,0,30.06,0,Rain
+8/8/2022,50,49,96,NNE,3,0,30.06,0,Rain
+8/9/2022,50,48,94,NE,3,0,30.03,0,Light Rain
+8/9/2022,52,50,94,CALM,0,0,30.02,0,Light Rain
+8/9/2022,51,50,96,NE,3,0,30.02,0,Light Rain
+8/9/2022,51,50,96,CALM,0,0,30.01,0,Light Rain
+8/9/2022,52,50,94,VAR,3,0,29.99,0,Light Rain
+8/9/2022,51,50,96,NNE,7,0,29.97,0,Light Rain
+8/9/2022,51,49,92,NNE,5,0,29.95,0,Rain
+8/9/2022,52,48,88,VAR,3,0,29.93,0,Rain
+8/9/2022,51,49,92,VAR,5,0,29.92,0,Heavy Rain
+8/9/2022,52,48,88,CALM,0,0,29.9,0,Heavy Rain
+8/9/2022,51,49,92,NE,5,0,29.89,0,Heavy Rain
+8/9/2022,52,48,88,NNE,5,0,29.89,0,Rain
+8/9/2022,52,50,94,CALM,0,0,29.89,0,Rain
+8/9/2022,52,48,88,CALM,0,0,29.87,0,Rain
+8/9/2022,52,48,88,NE,5,0,29.86,0,Rain
+8/9/2022,52,50,94,CALM,0,0,29.85,0,Rain
+8/9/2022,51,50,96,CALM,0,0,29.85,0,Rain
+8/9/2022,52,50,94,CALM,0,0,29.85,0,Rain
+8/9/2022,52,52,100,CALM,0,0,29.83,0,Light Rain
+8/9/2022,52,51,97,CALM,0,0,29.83,0,Light Rain
+8/9/2022,54,52,94,CALM,0,0,29.82,0,Light Rain
+8/9/2022,54,52,94,CALM,0,0,29.81,0,Light Rain
+8/9/2022,52,52,100,CALM,0,0,29.81,0,Light Rain
+8/9/2022,52,51,97,CALM,0,0,29.8,0,Light Rain
+8/9/2022,52,52,100,CALM,0,0,29.8,0,Rain
+8/9/2022,54,54,100,CALM,0,0,29.78,0,Light Rain
+8/9/2022,54,54,100,CALM,0,0,29.78,0,Light Rain
+8/9/2022,54,53,97,CALM,0,0,29.78,0,Rain
+8/9/2022,54,54,100,CALM,0,0,29.78,0,Light Rain
+8/9/2022,55,54,94,CALM,0,0,29.78,0,Rain
+8/9/2022,55,54,96,CALM,0,0,29.78,0,Rain
+8/9/2022,55,54,94,CALM,0,0,29.77,0,Rain
+8/9/2022,55,55,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,56,55,97,VAR,3,0,29.76,0,Light Rain
+8/9/2022,55,55,100,SSE,5,0,29.76,0,Light Rain
+8/9/2022,55,55,100,SSE,7,0,29.76,0,Light Rain
+8/9/2022,56,55,97,SSE,7,0,29.76,0,Light Rain
+8/9/2022,55,55,100,SSE,7,0,29.76,0,Light Rain
+8/9/2022,55,54,94,SSE,6,0,29.76,0,Light Rain
+8/9/2022,56,55,97,SSE,3,0,29.76,0,Light Rain
+8/9/2022,55,55,100,SSE,5,0,29.76,0,Light Rain
+8/9/2022,55,55,100,WNW,3,0,29.76,0,Light Rain
+8/9/2022,55,55,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,56,55,97,CALM,0,0,29.76,0,Light Rain
+8/9/2022,55,54,94,WSW,5,0,29.76,0,Light Rain
+8/9/2022,55,54,94,CALM,0,0,29.76,0,Light Rain
+8/9/2022,55,54,96,SSE,6,0,29.76,0,Light Rain
+8/9/2022,55,54,94,SSE,5,0,29.76,0,Light Rain
+8/9/2022,55,54,94,SE,3,0,29.76,0,Light Rain
+8/9/2022,55,54,96,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,54,100,NE,3,0,29.76,0,Light Rain
+8/9/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,54,100,SSE,8,0,29.77,0,Light Rain
+8/9/2022,54,53,97,SSE,8,0,29.76,0,Light Rain
+8/9/2022,54,54,100,SSE,8,0,29.76,0,Light Rain
+8/9/2022,54,53,97,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,54,100,CALM,0,0,29.75,0,Light Rain
+8/9/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,53,97,CALM,0,0,29.76,0,Rain
+8/9/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/9/2022,54,53,97,CALM,0,0,29.76,0,Light Rain
+8/10/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/10/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/10/2022,54,54,100,CALM,0,0,29.76,0,Light Rain
+8/10/2022,54,53,97,NNE,3,0,29.76,0,Light Rain
+8/10/2022,54,54,100,N,3,0,29.75,0,Light Rain
+8/10/2022,54,54,100,NNE,3,0,29.75,0,Light Rain
+8/10/2022,53,53,100,N,5,0,29.75,0,Light Rain
+8/10/2022,54,54,100,NNE,3,0,29.73,0,Light Rain
+8/10/2022,54,53,97,VAR,3,0,29.72,0,Cloudy
+8/10/2022,54,54,100,NE,7,0,29.7,0,Cloudy
+8/10/2022,54,54,100,NNE,7,0,29.69,0,Cloudy
+8/10/2022,54,53,97,NE,7,0,29.68,0,Cloudy
+8/10/2022,55,53,93,VAR,7,0,29.65,0,Light Rain
+8/10/2022,54,54,100,NNE,7,0,29.65,0,Light Rain
+8/10/2022,54,53,97,NE,7,0,29.65,0,Rain
+8/10/2022,54,54,100,NNE,7,0,29.65,0,Rain
+8/10/2022,54,54,100,VAR,6,0,29.64,0,Light Rain
+8/10/2022,54,53,97,NNE,6,0,29.64,0,Light Rain
+8/10/2022,54,54,100,NE,5,0,29.64,0,Light Rain
+8/10/2022,55,54,94,NNE,6,0,29.63,0,Light Rain
+8/10/2022,55,54,94,NNE,6,0,29.63,0,Light Rain
+8/10/2022,55,53,93,NE,7,0,29.63,0,Fog
+8/10/2022,55,54,94,NE,7,0,29.63,0,Fog
+8/10/2022,55,54,94,VAR,3,0,29.63,0,Fog
+8/10/2022,56,54,93,VAR,5,0,29.63,0,Fog
+8/10/2022,55,54,94,CALM,0,0,29.63,0,Cloudy
+8/10/2022,55,55,100,CALM,0,0,29.63,0,Fog
+8/10/2022,57,55,94,VAR,5,0,29.63,0,Light Rain
+8/10/2022,55,55,100,SSE,7,0,29.63,0,Light Rain
+8/10/2022,56,55,97,SSE,6,0,29.63,0,Light Rain
+8/10/2022,55,55,100,SSE,7,0,29.63,0,Light Rain
+8/10/2022,54,54,100,SSE,8,0,29.63,0,Light Rain
+8/10/2022,55,54,96,SSE,8,0,29.63,0,Light Rain
+8/10/2022,55,54,94,SSE,8,0,29.63,0,Light Rain
+8/10/2022,54,54,100,SSE,8,0,29.63,0,Light Rain
+8/10/2022,55,54,96,SSE,9,0,29.63,0,Light Rain
+8/10/2022,55,54,94,SSE,10,0,29.63,0,Light Rain
+8/10/2022,55,54,94,SSE,9,0,29.63,0,Light Rain
+8/10/2022,55,54,96,SSE,10,0,29.63,0,Light Rain
+8/10/2022,55,54,94,SSE,10,0,29.63,0,Light Rain
+8/10/2022,54,54,100,SSE,9,0,29.63,0,Mostly Cloudy
+8/10/2022,55,54,94,SSE,9,0,29.63,0,Mostly Cloudy
+8/10/2022,55,54,94,SSE,9,0,29.63,0,Mostly Cloudy
+8/10/2022,54,53,97,SE,10,0,29.63,0,Mostly Cloudy
+8/10/2022,54,54,100,SE,8,0,29.63,0,Mostly Cloudy
+8/10/2022,55,54,94,SSE,12,0,29.63,0,Mostly Cloudy
+8/10/2022,54,52,94,SSE,9,0,29.65,0,Mostly Cloudy
+8/10/2022,54,52,94,SSE,8,0,29.65,0,Mostly Cloudy
+8/10/2022,55,52,88,SSE,14,0,29.63,0,Mostly Cloudy
+8/10/2022,56,52,87,SSE,14,0,29.63,0,Mostly Cloudy
+8/10/2022,56,51,84,SSE,12,0,29.62,0,Partly Cloudy
+8/10/2022,55,52,88,SSE,12,0,29.62,0,Partly Cloudy
+8/10/2022,55,52,88,SSE,9,0,29.62,0,Partly Cloudy
+8/10/2022,55,51,86,SSE,9,0,29.62,0,Partly Cloudy
+8/10/2022,55,52,88,SSE,9,0,29.63,0,Fair
+8/10/2022,55,50,83,SSE,8,0,29.63,0,Cloudy
+8/10/2022,54,48,82,CALM,0,0,29.66,0,Cloudy
+8/10/2022,54,50,86,NW,3,0,29.66,0,Cloudy
+8/10/2022,54,52,94,CALM,0,0,29.67,0,Light Rain
+8/10/2022,52,51,97,E,3,0,29.68,0,Light Rain
+8/10/2022,52,52,100,CALM,0,0,29.67,0,Rain
+8/10/2022,53,51,93,N,5,0,29.68,0,Light Rain
+8/11/2022,52,52,100,ENE,3,0,29.69,0,Light Rain
+8/11/2022,52,51,97,ENE,5,0,29.69,0,Light Rain
+8/11/2022,52,52,100,NNE,5,0,29.7,0,Light Rain
+8/11/2022,52,52,100,VAR,3,0,29.7,0,Light Rain
+8/11/2022,52,51,97,NE,3,0,29.7,0,Cloudy
+8/11/2022,52,52,100,NW,6,0,29.72,0,Cloudy
+8/11/2022,53,52,96,NW,6,0,29.72,0,Cloudy
+8/11/2022,54,52,94,WNW,3,0,29.73,0,Cloudy
+8/11/2022,53,52,96,CALM,0,0,29.73,0,Cloudy
+8/11/2022,54,50,86,NNW,12,0,29.74,0,Cloudy
+8/11/2022,54,50,86,NW,9,0,29.75,0,Cloudy
+8/11/2022,54,48,82,NNW,14,20,29.76,0,Mostly Cloudy
+8/11/2022,54,50,88,NW,12,0,29.78,0,Mostly Cloudy
+8/11/2022,54,50,86,NW,10,0,29.8,0,Mostly Cloudy
+8/11/2022,54,50,88,NW,16,23,29.82,0,Mostly Cloudy
+8/11/2022,54,50,86,NW,18,23,29.82,0,Mostly Cloudy
+8/11/2022,55,50,82,NW,20,0,29.84,0,Mostly Cloudy
+8/11/2022,55,50,83,NW,16,0,29.84,0,Mostly Cloudy
+8/11/2022,54,48,82,NNW,22,26,29.86,0,Mostly Cloudy / Windy
+8/11/2022,54,49,83,NNW,23,26,29.86,0,Mostly Cloudy / Windy
+8/11/2022,54,48,82,NNW,24,0,29.86,0,Mostly Cloudy / Windy
+8/11/2022,55,48,77,NW,20,0,29.88,0,Mostly Cloudy
+8/11/2022,55,48,77,NW,17,0,29.88,0,Mostly Cloudy
+8/11/2022,55,48,77,NW,21,0,29.88,0,Mostly Cloudy / Windy
+8/11/2022,55,46,72,NNW,25,0,29.88,0,Mostly Cloudy / Windy
+8/11/2022,55,46,72,NNW,24,0,29.88,0,Mostly Cloudy / Windy
+8/11/2022,54,46,77,NNW,24,31,29.88,0,Mostly Cloudy / Windy
+8/11/2022,53,47,80,NNW,25,32,29.9,0,Mostly Cloudy / Windy
+8/11/2022,54,46,77,NNW,26,33,29.9,0,Mostly Cloudy / Windy
+8/11/2022,54,46,77,NW,18,28,29.92,0,Mostly Cloudy
+8/11/2022,54,46,77,NW,17,39,29.93,0,Mostly Cloudy
+8/11/2022,54,46,77,WNW,10,36,29.94,0,Mostly Cloudy
+8/11/2022,53,47,80,NW,17,0,29.95,0,Mostly Cloudy
+8/11/2022,54,46,77,NW,18,0,29.94,0,Mostly Cloudy
+8/11/2022,54,46,77,NNW,17,0,29.94,0,Mostly Cloudy
+8/11/2022,54,46,77,NNW,20,0,29.94,0,Mostly Cloudy
+8/11/2022,54,46,77,NNW,23,0,29.93,0,Mostly Cloudy / Windy
+8/11/2022,53,46,77,NW,22,0,29.93,0,Mostly Cloudy / Windy
+8/11/2022,54,46,77,NW,22,0,29.93,0,Mostly Cloudy / Windy
+8/11/2022,52,46,82,NW,15,0,29.94,0,Cloudy
+8/11/2022,52,46,80,NW,18,24,29.93,0,Cloudy
+8/11/2022,53,46,77,NW,12,16,29.93,0,Cloudy
+8/11/2022,52,45,77,NW,17,25,29.93,0,Cloudy
+8/11/2022,52,45,76,NW,20,26,29.93,0,Cloudy
+8/11/2022,52,45,76,NW,17,25,29.95,0,Mostly Cloudy
+8/11/2022,52,44,74,NW,13,26,29.95,0,Mostly Cloudy
+8/12/2022,51,45,80,WNW,12,22,29.95,0,Cloudy
+8/12/2022,51,45,80,WNW,13,0,29.94,0,Cloudy
+8/12/2022,52,45,77,WNW,13,23,29.95,0,Cloudy
+8/12/2022,52,45,77,NW,14,22,29.95,0,Cloudy
+8/12/2022,51,46,83,WNW,17,23,29.94,0,Cloudy
+8/12/2022,51,46,83,NW,17,0,29.92,0,Mostly Cloudy
+8/12/2022,52,46,82,NW,17,25,29.92,0,Partly Cloudy
+8/12/2022,52,46,82,NW,22,0,29.91,0,Mostly Cloudy / Windy
+8/12/2022,52,46,82,NW,20,0,29.92,0,Partly Cloudy
+8/12/2022,51,45,80,NW,21,0,29.92,0,Cloudy / Windy
+8/12/2022,51,45,80,NW,18,0,29.91,0,Mostly Cloudy
+8/12/2022,52,45,76,NW,18,0,29.91,0,Mostly Cloudy
+8/12/2022,50,46,87,NW,17,22,29.91,0,Cloudy
+8/12/2022,50,46,86,NW,17,22,29.91,0,Cloudy
+8/12/2022,52,46,82,NNW,18,24,29.9,0,Cloudy
+8/12/2022,51,46,83,NNW,16,24,29.9,0,Cloudy
+8/12/2022,52,45,76,NW,13,22,29.89,0,Mostly Cloudy
+8/12/2022,52,46,80,NW,13,0,29.89,0,Mostly Cloudy
+8/12/2022,52,46,82,NW,14,0,29.88,0,Mostly Cloudy
+8/12/2022,52,45,77,NW,13,0,29.88,0,Mostly Cloudy
+8/12/2022,52,45,76,NW,12,0,29.88,0,Mostly Cloudy
+8/12/2022,52,46,82,NW,14,0,29.88,0,Light Rain
+8/12/2022,54,46,77,NW,15,0,29.87,0,Light Rain
+8/12/2022,53,46,77,NW,16,0,29.87,0,Light Rain
+8/12/2022,54,46,77,NNW,14,0,29.87,0,Light Rain
+8/12/2022,54,46,77,NNW,14,0,29.86,0,Mostly Cloudy
+8/12/2022,54,45,72,NNW,13,0,29.86,0,Mostly Cloudy
+8/12/2022,54,45,72,NNW,15,0,29.85,0,Mostly Cloudy
+8/12/2022,54,44,69,NNW,15,0,29.85,0,Mostly Cloudy
+8/12/2022,54,45,72,NNW,15,0,29.85,0,Mostly Cloudy
+8/12/2022,54,45,72,NNW,14,0,29.84,0,Mostly Cloudy
+8/12/2022,54,45,72,NNW,13,0,29.84,0,Mostly Cloudy
+8/12/2022,54,45,72,N,15,0,29.84,0,Mostly Cloudy
+8/12/2022,55,45,67,N,15,0,29.83,0,Mostly Cloudy
+8/12/2022,55,44,67,N,15,0,29.83,0,Mostly Cloudy
+8/12/2022,55,45,67,NNW,15,0,29.83,0,Fair
+8/12/2022,54,45,72,N,15,0,29.83,0,Fair
+8/12/2022,55,45,67,NNW,14,0,29.84,0,Mostly Cloudy
+8/12/2022,54,44,69,NW,15,0,29.83,0,Cloudy
+8/12/2022,54,43,67,NNW,15,0,29.82,0,Partly Cloudy
+8/12/2022,53,43,69,NNW,15,0,29.82,0,Fair
+8/12/2022,52,45,76,NNW,14,0,29.82,0,Mostly Cloudy
+8/12/2022,51,43,74,NNW,15,0,29.81,0,Fair
+8/12/2022,50,44,80,NNW,13,0,29.79,0,Fair
+8/13/2022,50,43,77,NNW,10,0,29.8,0,Fair
+8/13/2022,49,43,80,NNW,10,0,29.78,0,Fair
+8/13/2022,49,44,83,NNW,7,0,29.77,0,Fair
+8/13/2022,49,44,83,NW,8,0,29.75,0,Fair
+8/13/2022,50,43,77,NW,7,0,29.74,0,Cloudy
+8/13/2022,49,45,86,NW,3,0,29.73,0,Light Rain
+8/13/2022,48,45,87,W,3,0,29.71,0,Cloudy
+8/13/2022,48,45,87,WNW,7,0,29.69,0,Mostly Cloudy
+8/13/2022,49,45,86,WNW,6,0,29.69,0,Mostly Cloudy
+8/13/2022,50,46,87,WNW,7,0,29.68,0,Mostly Cloudy
+8/13/2022,50,46,86,WNW,7,0,29.68,0,Mostly Cloudy
+8/13/2022,52,45,76,NW,7,0,29.68,0,Mostly Cloudy
+8/13/2022,51,45,80,WNW,6,0,29.67,0,Mostly Cloudy
+8/13/2022,52,45,76,W,7,0,29.66,0,Light Rain
+8/13/2022,51,45,80,W,7,0,29.66,0,Mostly Cloudy
+8/13/2022,52,45,76,NW,5,0,29.66,0,Mostly Cloudy
+8/13/2022,51,45,80,NNW,5,0,29.66,0,Mostly Cloudy
+8/13/2022,52,45,76,NNW,3,0,29.66,0,Mostly Cloudy
+8/13/2022,52,45,76,CALM,0,0,29.66,0,Mostly Cloudy
+8/13/2022,54,45,72,VAR,3,0,29.63,0,Mostly Cloudy
+8/13/2022,54,46,75,VAR,3,0,29.63,0,Mostly Cloudy
+8/13/2022,55,46,72,SSW,3,0,29.62,0,Mostly Cloudy
+8/13/2022,55,47,74,SSW,5,0,29.62,0,Mostly Cloudy
+8/13/2022,55,46,72,VAR,3,0,29.61,0,Mostly Cloudy
+8/13/2022,57,47,69,CALM,0,0,29.61,0,Mostly Cloudy
+8/13/2022,57,48,72,SSW,3,0,29.61,0,Mostly Cloudy
+8/13/2022,55,48,77,S,5,0,29.61,0,Mostly Cloudy
+8/13/2022,55,46,72,VAR,3,0,29.6,0,Cloudy
+8/13/2022,56,48,75,CALM,0,0,29.6,0,Cloudy
+8/13/2022,55,48,77,NW,3,0,29.6,0,Cloudy
+8/13/2022,56,48,75,NNW,8,0,29.6,0,Cloudy
+8/13/2022,55,48,77,NW,7,0,29.6,0,Cloudy
+8/13/2022,55,48,77,WNW,7,0,29.6,0,Cloudy
+8/13/2022,55,48,77,NW,7,0,29.62,0,Cloudy
+8/13/2022,55,48,77,NW,7,0,29.62,0,Cloudy
+8/13/2022,55,49,80,NNW,8,0,29.62,0,Cloudy
+8/13/2022,54,48,82,NNW,9,0,29.62,0,Cloudy
+8/13/2022,54,48,80,NNW,9,0,29.62,0,Cloudy
+8/13/2022,54,48,82,N,6,0,29.63,0,Cloudy
+8/13/2022,53,48,83,NNW,8,0,29.63,0,Cloudy
+8/13/2022,52,47,83,N,8,0,29.64,0,Cloudy
+8/13/2022,52,48,88,N,6,0,29.65,0,Cloudy
+8/14/2022,52,47,83,N,5,0,29.65,0,Cloudy
+8/14/2022,52,48,86,WNW,3,0,29.66,0,Cloudy
+8/14/2022,52,48,88,N,3,0,29.66,0,Cloudy
+8/14/2022,52,48,86,N,3,0,29.66,0,Cloudy
+8/14/2022,52,49,89,NNW,8,0,29.66,0,Cloudy
+8/14/2022,52,48,86,NNW,8,0,29.66,0,Cloudy
+8/14/2022,53,47,80,NNW,10,0,29.67,0,Cloudy
+8/14/2022,54,46,77,N,10,0,29.67,0,Cloudy
+8/14/2022,52,46,82,N,10,0,29.67,0,Cloudy
+8/14/2022,52,46,82,NNW,14,0,29.67,0,Mostly Cloudy
+8/14/2022,52,47,83,NNW,14,0,29.67,0,Mostly Cloudy
+8/14/2022,52,46,82,N,10,0,29.68,0,Mostly Cloudy
+8/14/2022,51,47,86,N,9,0,29.68,0,Mostly Cloudy
+8/14/2022,52,46,82,N,6,0,29.68,0,Mostly Cloudy
+8/14/2022,52,46,82,NW,8,0,29.68,0,Mostly Cloudy
+8/14/2022,52,47,83,NW,7,0,29.68,0,Mostly Cloudy
+8/14/2022,52,46,82,NW,7,0,29.68,0,Mostly Cloudy
+8/14/2022,54,46,77,NW,8,0,29.67,0,Mostly Cloudy
+8/14/2022,53,47,80,WNW,7,0,29.67,0,Mostly Cloudy
+8/14/2022,54,46,77,NW,7,0,29.67,0,Mostly Cloudy
+8/14/2022,54,48,82,WNW,9,0,29.67,0,Mostly Cloudy
+8/14/2022,53,48,83,WNW,9,0,29.67,0,Mostly Cloudy
+8/14/2022,54,48,82,WNW,10,0,29.68,0,Mostly Cloudy
+8/14/2022,54,46,77,NW,10,0,29.68,0,Mostly Cloudy
+8/14/2022,53,47,80,NW,10,0,29.68,0,Mostly Cloudy
+8/14/2022,54,46,77,NW,13,0,29.68,0,Mostly Cloudy
+8/14/2022,54,48,80,NW,10,0,29.68,0,Mostly Cloudy
+8/14/2022,54,46,77,NW,13,0,29.68,0,Mostly Cloudy
+8/14/2022,54,48,82,NW,10,0,29.69,0,Light Rain
+8/14/2022,54,48,82,N,16,0,29.68,0,Light Rain
+8/14/2022,53,48,83,N,15,0,29.68,0,Light Rain
+8/14/2022,54,48,82,N,13,0,29.68,0,Light Rain
+8/14/2022,54,46,77,NNW,15,0,29.69,0,Mostly Cloudy
+8/14/2022,54,47,77,NNW,16,0,29.7,0,Mostly Cloudy
+8/14/2022,54,46,77,NNW,17,0,29.7,0,Mostly Cloudy
+8/14/2022,54,46,77,N,14,21,29.7,0,Mostly Cloudy
+8/14/2022,53,45,74,NNW,14,0,29.7,0,Mostly Cloudy
+8/14/2022,54,43,67,NNW,17,0,29.7,0,Mostly Cloudy
+8/14/2022,54,45,72,N,15,0,29.7,0,Mostly Cloudy
+8/14/2022,54,45,72,N,13,0,29.7,0,Mostly Cloudy
+8/14/2022,53,44,71,N,15,0,29.7,0,Mostly Cloudy
+8/14/2022,52,45,76,N,16,0,29.7,0,Mostly Cloudy
+8/14/2022,51,43,74,N,13,0,29.7,0,Mostly Cloudy
+8/14/2022,51,45,80,NW,13,0,29.72,0,Mostly Cloudy
+8/14/2022,50,45,82,NNW,9,0,29.73,0,Cloudy
+8/14/2022,49,45,86,NW,13,0,29.73,0,Cloudy
+8/15/2022,49,45,86,NW,13,0,29.74,0,Partly Cloudy
+8/15/2022,50,46,86,NW,14,0,29.74,0,Partly Cloudy
+8/15/2022,50,46,87,NW,13,0,29.75,0,Mostly Cloudy
+8/15/2022,50,46,87,NW,16,0,29.75,0,Partly Cloudy
+8/15/2022,50,46,86,NW,13,0,29.75,0,Mostly Cloudy
+8/15/2022,52,46,82,NNW,13,0,29.76,0,Cloudy
+8/15/2022,52,46,82,NNW,15,0,29.76,0,Cloudy
+8/15/2022,51,47,86,NNW,14,0,29.76,0,Mostly Cloudy
+8/15/2022,52,46,82,NNW,16,0,29.76,0,Partly Cloudy
+8/15/2022,52,46,82,NNW,14,0,29.76,0,Mostly Cloudy
+8/15/2022,51,47,86,NNW,13,0,29.77,0,Cloudy
+8/15/2022,52,46,82,NNW,9,0,29.77,0,Mostly Cloudy
+8/15/2022,52,46,82,NNW,8,0,29.78,0,Mostly Cloudy
+8/15/2022,52,47,83,NNW,10,0,29.79,0,Mostly Cloudy
+8/15/2022,52,46,82,NW,9,0,29.79,0,Mostly Cloudy
+8/15/2022,54,48,82,NNW,15,0,29.8,0,Mostly Cloudy
+8/15/2022,53,48,83,N,16,0,29.8,0,Mostly Cloudy
+8/15/2022,54,48,82,NNW,10,0,29.81,0,Mostly Cloudy
+8/15/2022,53,48,83,NNW,9,0,29.82,0,Mostly Cloudy
+8/15/2022,54,49,83,NW,13,0,29.82,0,Mostly Cloudy
+8/15/2022,54,48,82,NNW,14,0,29.82,0,Mostly Cloudy
+8/15/2022,57,48,72,NNW,20,0,29.82,0,Mostly Cloudy
+8/15/2022,55,49,80,NW,17,0,29.83,0,Mostly Cloudy
+8/15/2022,57,48,72,NNW,18,23,29.83,0,Mostly Cloudy
+8/15/2022,57,48,72,NNW,16,0,29.84,0,Mostly Cloudy
+8/15/2022,58,49,72,NNW,17,0,29.83,0,Partly Cloudy
+8/15/2022,57,48,72,NNW,20,0,29.83,0,Partly Cloudy
+8/15/2022,57,48,72,NNW,22,0,29.83,0,Fair / Windy
+8/15/2022,57,48,72,NNW,22,29,29.83,0,Fair / Windy
+8/15/2022,58,49,72,NNW,22,29,29.83,0,Fair / Windy
+8/15/2022,57,48,72,NNW,21,32,29.83,0,Fair / Windy
+8/15/2022,57,48,72,NNW,21,32,29.83,0,Fair / Windy
+8/15/2022,57,48,72,NNW,21,29,29.83,0,Fair / Windy
+8/15/2022,58,49,72,NNW,21,29,29.83,0,Fair / Windy
+8/15/2022,55,48,77,NNW,14,23,29.85,0,Fair
+8/15/2022,56,49,77,NNW,14,23,29.85,0,Fair
+8/15/2022,55,48,77,NNW,16,24,29.88,0,Fair
+8/15/2022,55,48,77,NNW,16,24,29.88,0,Fair
+8/15/2022,55,48,77,NNW,18,0,29.87,0,Partly Cloudy
+8/15/2022,53,46,77,N,20,0,29.88,0,Fair
+8/15/2022,54,46,77,NNW,20,0,29.88,0,Mostly Cloudy
+8/15/2022,52,46,80,NNW,22,0,29.88,0,Mostly Cloudy / Windy
+8/15/2022,52,46,82,NNW,21,0,29.88,0,Partly Cloudy / Windy
+8/15/2022,52,46,82,NNW,16,0,29.89,0,Mostly Cloudy
+8/15/2022,52,43,71,N,15,0,29.88,0,Fair
+8/15/2022,50,43,77,NW,13,21,29.89,0,Fair
+8/15/2022,50,43,77,N,12,0,29.88,0,Fair
+8/16/2022,50,42,74,NNW,16,0,29.88,0,Partly Cloudy
+8/16/2022,50,43,77,N,18,0,29.86,0,Fair
+8/16/2022,49,43,80,NNW,15,0,29.85,0,Fair
+8/16/2022,49,45,86,N,13,0,29.83,0,Fair
+8/16/2022,50,42,74,N,12,0,29.82,0,Mostly Cloudy
+8/16/2022,49,41,74,N,10,0,29.79,0,Light Rain
+8/16/2022,49,43,80,N,8,0,29.78,0,Light Rain
+8/16/2022,50,41,71,NNW,10,0,29.74,0,Light Rain
+8/16/2022,51,41,68,NNW,6,0,29.73,0,Mostly Cloudy
+8/16/2022,52,41,66,N,12,0,29.71,0,Mostly Cloudy
+8/16/2022,54,40,59,N,10,0,29.69,0,Mostly Cloudy
+8/16/2022,55,40,57,N,8,0,29.68,0,Mostly Cloudy
+8/16/2022,58,40,51,WNW,6,0,29.63,0,Partly Cloudy
+8/16/2022,59,40,49,W,9,0,29.55,0,Partly Cloudy
+8/16/2022,58,42,56,W,10,0,29.53,0,Partly Cloudy
+8/16/2022,57,43,59,W,6,0,29.5,0,Fair
+8/16/2022,55,42,62,WSW,3,0,29.49,0,Fair
+8/16/2022,49,41,74,CALM,0,0,29.49,0,Fair
+8/16/2022,49,43,80,NE,3,0,29.48,0,Partly Cloudy
+8/17/2022,48,44,86,NNE,3,0,29.48,0,Fair
+8/17/2022,46,42,86,N,3,0,29.47,0,Cloudy
+8/17/2022,45,41,86,NNE,3,0,29.48,0,Fair
+8/17/2022,45,41,86,CALM,0,0,29.48,0,Partly Cloudy
+8/17/2022,43,41,93,CALM,0,0,29.48,0,Fair
+8/17/2022,44,41,89,N,3,0,29.49,0,Mostly Cloudy
+8/17/2022,46,41,83,NW,3,0,29.5,0,Mostly Cloudy
+8/17/2022,47,42,83,W,6,0,29.52,0,Mostly Cloudy
+8/17/2022,49,43,80,WNW,7,0,29.53,0,Mostly Cloudy
+8/17/2022,52,44,74,NW,7,0,29.53,0,Mostly Cloudy
+8/17/2022,54,45,72,WNW,6,0,29.54,0,Partly Cloudy
+8/17/2022,56,45,67,NW,6,0,29.55,0,Mostly Cloudy
+8/17/2022,54,45,72,N,7,0,29.57,0,Mostly Cloudy
+8/17/2022,55,44,67,NW,7,0,29.59,0,Mostly Cloudy
+8/17/2022,55,44,67,NNW,7,0,29.62,0,Mostly Cloudy
+8/17/2022,54,45,72,N,3,0,29.62,0,Mostly Cloudy
+8/17/2022,56,45,67,VAR,3,0,29.62,0,Mostly Cloudy
+8/17/2022,55,45,67,NNW,3,0,29.62,0,Mostly Cloudy
+8/17/2022,55,45,67,NNE,7,0,29.63,0,Mostly Cloudy
+8/17/2022,55,45,69,NNE,7,0,29.63,0,Mostly Cloudy
+8/17/2022,55,45,67,N,8,0,29.64,0,Mostly Cloudy
+8/17/2022,55,45,69,N,8,0,29.64,0,Mostly Cloudy
+8/17/2022,54,44,69,N,12,0,29.68,0,Cloudy
+8/17/2022,53,43,69,N,7,0,29.71,0,Cloudy
+8/17/2022,53,43,69,N,8,0,29.73,0,Cloudy
+8/17/2022,51,42,71,N,8,0,29.76,0,Cloudy
+8/17/2022,50,41,71,NNW,6,0,29.77,0,Mostly Cloudy
+8/18/2022,47,42,83,CALM,0,0,29.79,0,Fair
+8/18/2022,44,42,93,CALM,0,0,29.8,0,Fair
+8/18/2022,45,41,86,CALM,0,0,29.81,0,Fair
+8/18/2022,45,42,90,CALM,0,0,29.81,0,Fair
+8/18/2022,46,42,86,NE,3,0,29.81,0,Fair
+8/18/2022,42,41,96,CALM,0,0,29.81,0,Fair
+8/18/2022,42,41,96,CALM,0,0,29.82,0,Partly Cloudy
+8/18/2022,43,42,97,CALM,0,0,29.84,0,Mostly Cloudy
+8/18/2022,45,43,93,CALM,0,0,29.83,0,Mostly Cloudy
+8/18/2022,49,45,86,CALM,0,0,29.84,0,Mostly Cloudy
+8/18/2022,52,46,82,NNE,6,0,29.81,0,Mostly Cloudy
+8/18/2022,54,46,77,N,3,0,29.82,0,Mostly Cloudy
+8/18/2022,55,47,74,SSW,6,0,29.84,0,Mostly Cloudy
+8/18/2022,55,48,77,SSW,3,0,29.83,0,Mostly Cloudy
+8/18/2022,56,50,80,VAR,5,0,29.82,0,Mostly Cloudy
+8/18/2022,55,50,83,W,5,0,29.83,0,Mostly Cloudy
+8/18/2022,55,50,82,CALM,0,0,29.8,0,Cloudy
+8/18/2022,55,50,82,CALM,0,0,29.8,0,Light Rain
+8/18/2022,56,50,80,VAR,3,0,29.8,0,Light Rain
+8/18/2022,55,50,82,CALM,0,0,29.8,0,Light Rain
+8/18/2022,55,50,82,W,6,0,29.79,0,Light Rain
+8/18/2022,55,50,83,W,5,0,29.79,0,Light Rain
+8/18/2022,55,52,88,CALM,0,0,29.8,0,Cloudy
+8/18/2022,55,50,82,CALM,0,0,29.8,0,Cloudy
+8/18/2022,54,51,90,VAR,3,0,29.78,0,Light Rain
+8/18/2022,53,51,93,ENE,5,0,29.77,0,Cloudy
+8/18/2022,53,51,93,CALM,0,0,29.76,0,Light Rain
+8/18/2022,53,51,93,CALM,0,0,29.75,0,Light Rain
+8/19/2022,53,52,96,SSE,3,0,29.73,0,Light Rain
+8/19/2022,54,52,94,SSE,3,0,29.72,0,Cloudy
+8/19/2022,53,52,96,VAR,3,0,29.72,0,Light Rain
+8/19/2022,54,52,94,SSE,6,0,29.72,0,Light Rain
+8/19/2022,54,52,94,SSE,7,0,29.7,0,Light Rain
+8/19/2022,54,52,94,SSE,10,0,29.69,0,Cloudy
+8/19/2022,53,52,96,SSE,9,0,29.68,0,Light Rain
+8/19/2022,53,52,96,SSE,12,16,29.64,0,Light Rain
+8/19/2022,53,52,96,SSE,10,0,29.61,0,Light Rain
+8/19/2022,52,52,100,SSE,12,0,29.6,0,Light Rain
+8/19/2022,52,52,100,SSE,10,0,29.6,0,Light Rain
+8/19/2022,52,52,100,SSE,13,0,29.61,0,Light Rain
+8/19/2022,52,52,100,SSE,13,0,29.61,0,Light Rain
+8/19/2022,52,52,100,SSE,9,0,29.59,0,Light Rain
+8/19/2022,52,52,100,SSE,8,0,29.59,0,Light Rain
+8/19/2022,54,52,94,SSE,14,18,29.58,0,Light Rain
+8/19/2022,53,52,96,SSE,13,18,29.58,0,Light Rain
+8/19/2022,54,52,94,SSE,12,18,29.58,0,Light Rain
+8/19/2022,54,54,100,SSE,8,0,29.59,0,Light Rain
+8/19/2022,54,54,100,SSE,7,0,29.58,0,Light Drizzle
+8/19/2022,54,54,100,SE,7,0,29.58,0,Cloudy
+8/19/2022,54,54,100,SSE,7,0,29.58,0,Cloudy
+8/19/2022,53,53,100,VAR,5,0,29.58,0,Cloudy
+8/19/2022,54,54,100,NW,5,0,29.58,0,Cloudy
+8/19/2022,55,52,88,SSE,5,0,29.58,0,Cloudy
+8/19/2022,54,52,94,S,12,0,29.58,0,Cloudy
+8/19/2022,54,51,90,S,10,0,29.58,0,Cloudy
+8/19/2022,54,52,94,S,12,0,29.59,0,Cloudy
+8/19/2022,54,50,88,S,9,0,29.59,0,Mostly Cloudy
+8/19/2022,54,50,86,SSE,6,0,29.58,0,Mostly Cloudy
+8/19/2022,55,48,77,S,12,0,29.58,0,Mostly Cloudy
+8/19/2022,55,50,82,S,9,0,29.56,0,Mostly Cloudy
+8/19/2022,56,50,80,S,10,0,29.56,0,Mostly Cloudy
+8/19/2022,54,50,86,SSE,12,16,29.57,0,Mostly Cloudy
+8/19/2022,53,50,89,SSE,8,0,29.57,0,Cloudy
+8/19/2022,54,50,88,SSE,9,0,29.57,0,Cloudy
+8/19/2022,54,50,88,SSE,9,0,29.57,0,Mostly Cloudy
+8/19/2022,54,50,88,SSE,9,0,29.57,0,Mostly Cloudy
+8/19/2022,54,50,88,SSE,7,0,29.54,0,Cloudy
+8/19/2022,54,50,86,SSE,7,0,29.54,0,Cloudy
+8/19/2022,54,50,88,SSE,9,0,29.55,0,Cloudy
+8/19/2022,52,50,93,SE,6,0,29.54,0,Cloudy
+8/19/2022,52,50,93,SSE,7,0,29.53,0,Cloudy
+8/19/2022,52,50,94,SSE,7,0,29.52,0,Light Rain
+8/19/2022,52,50,94,VAR,6,0,29.52,0,Light Rain
+8/19/2022,52,50,94,SSE,6,0,29.52,0,Light Rain
+8/19/2022,52,50,94,SSE,8,0,29.53,0,Light Rain
+8/19/2022,52,50,94,SSE,8,0,29.52,0,Light Rain
+8/19/2022,52,50,94,SE,6,0,29.53,0,Cloudy
+8/19/2022,52,50,94,SSE,7,0,29.53,0,Fog
+8/19/2022,52,50,94,SSE,7,0,29.53,0,Light Rain
+8/19/2022,52,50,94,SSE,9,0,29.53,0,Light Rain
+8/19/2022,52,50,94,SE,9,0,29.52,0,Light Rain
+8/19/2022,51,50,96,SE,8,0,29.52,0,Light Rain
+8/19/2022,51,50,96,SSE,9,0,29.51,0,Cloudy
+8/20/2022,52,50,94,SSE,10,16,29.51,0,Cloudy
+8/20/2022,52,50,94,SSE,9,16,29.51,0,Cloudy
+8/20/2022,51,50,96,SSE,9,0,29.5,0,Light Rain
+8/20/2022,52,50,94,SSE,9,0,29.5,0,Cloudy
+8/20/2022,52,50,93,SSE,10,0,29.5,0,Cloudy
+8/20/2022,52,50,93,SE,10,0,29.49,0,Light Rain
+8/20/2022,52,52,100,SSE,7,0,29.48,0,Light Rain
+8/20/2022,52,51,97,SSE,7,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.47,0,Light Rain
+8/20/2022,52,51,97,SSE,8,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SE,7,0,29.46,0,Cloudy
+8/20/2022,52,52,100,SSE,8,0,29.46,0,Light Rain
+8/20/2022,52,51,97,SSE,8,0,29.46,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.45,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.46,0,Light Rain
+8/20/2022,52,52,100,SSE,8,0,29.46,0,Light Rain
+8/20/2022,52,52,100,SSE,7,0,29.46,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.46,0,Cloudy
+8/20/2022,52,52,100,SSE,9,0,29.46,0,Light Rain
+8/20/2022,54,52,94,SSE,8,0,29.46,0,Light Rain
+8/20/2022,54,52,94,SSE,10,0,29.47,0,Mostly Cloudy
+8/20/2022,54,52,94,SSE,10,0,29.47,0,Cloudy
+8/20/2022,53,52,96,SSE,12,0,29.47,0,Cloudy
+8/20/2022,54,52,94,SSE,13,0,29.47,0,Cloudy
+8/20/2022,54,52,94,SSE,12,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,10,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,10,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,10,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,9,0,29.47,0,Cloudy
+8/20/2022,52,51,97,SSE,12,0,29.47,0,Light Rain
+8/20/2022,52,52,100,SSE,10,0,29.47,0,Light Rain
+8/20/2022,54,52,94,SSE,7,0,29.47,0,Light Rain
+8/20/2022,54,52,94,SSE,8,0,29.47,0,Light Rain
+8/20/2022,53,52,96,SSE,9,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,9,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,10,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,9,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SE,8,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,13,0,29.47,0,Cloudy
+8/20/2022,54,52,93,SSE,14,0,29.47,0,Cloudy
+8/20/2022,54,52,94,SSE,13,0,29.47,0,Cloudy
+8/20/2022,54,52,94,SSE,10,0,29.48,0,Cloudy
+8/20/2022,54,52,94,SSE,10,0,29.48,0,Cloudy
+8/20/2022,53,51,93,SSE,9,0,29.48,0,Cloudy
+8/20/2022,54,52,94,SE,7,0,29.48,0,Cloudy
+8/20/2022,54,51,90,SSE,6,0,29.48,0,Cloudy
+8/20/2022,54,52,94,SSE,8,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,8,0,29.48,0,Light Rain
+8/20/2022,54,52,94,SSE,8,0,29.47,0,Light Rain
+8/20/2022,54,52,94,SSE,6,0,29.47,0,Light Rain
+8/20/2022,53,52,96,VAR,3,0,29.47,0,Light Rain
+8/20/2022,54,52,94,VAR,3,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,53,52,96,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,VAR,3,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,53,52,96,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,53,52,96,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Light Rain
+8/20/2022,54,52,94,CALM,0,0,29.47,0,Cloudy
+8/20/2022,53,51,93,CALM,0,0,29.48,0,Cloudy
+8/20/2022,53,51,93,VAR,3,0,29.48,0,Cloudy
+8/20/2022,54,52,94,NE,3,0,29.48,0,Cloudy
+8/20/2022,54,52,94,CALM,0,0,29.48,0,Cloudy
+8/21/2022,52,51,97,NNE,5,0,29.48,0,Light Rain
+8/21/2022,53,51,93,NE,3,0,29.48,0,Light Rain
+8/21/2022,54,52,94,NE,3,0,29.47,0,Light Rain
+8/21/2022,53,51,93,CALM,0,0,29.47,0,Light Rain
+8/21/2022,54,52,94,VAR,3,0,29.47,0,Light Rain
+8/21/2022,54,52,94,NE,5,0,29.47,0,Light Rain
+8/21/2022,53,51,93,NE,5,0,29.47,0,Light Rain
+8/21/2022,54,52,94,NNE,5,0,29.47,0,Light Rain
+8/21/2022,54,52,94,NE,6,0,29.46,0,Light Rain
+8/21/2022,53,52,96,NNE,5,0,29.46,0,Light Rain
+8/21/2022,54,52,94,NNE,7,0,29.46,0,Light Rain
+8/21/2022,54,52,94,NE,6,0,29.46,0,Light Rain
+8/21/2022,54,52,94,VAR,3,0,29.47,0,Light Rain
+8/21/2022,53,52,96,NNE,5,0,29.47,0,Light Rain
+8/21/2022,54,52,94,CALM,0,0,29.48,0,Light Rain
+8/21/2022,53,52,96,CALM,0,0,29.48,0,Light Rain
+8/21/2022,54,52,94,CALM,0,0,29.48,0,Light Rain
+8/21/2022,54,52,94,CALM,0,0,29.48,0,Light Rain
+8/21/2022,54,52,93,CALM,0,0,29.48,0,Light Rain
+8/21/2022,54,52,94,NE,3,0,29.49,0,Light Rain
+8/21/2022,54,52,94,NNE,6,0,29.49,0,Rain
+8/21/2022,54,52,94,NNE,8,0,29.49,0,Rain
+8/21/2022,54,52,94,NNE,7,0,29.49,0,Rain
+8/21/2022,54,52,94,NE,6,0,29.49,0,Rain
+8/21/2022,54,52,94,NNE,6,0,29.5,0,Rain
+8/21/2022,54,52,93,NNE,9,0,29.5,0,Rain
+8/21/2022,54,52,94,NE,8,0,29.5,0,Rain
+8/21/2022,54,54,100,NNE,8,0,29.5,0,Light Rain
+8/21/2022,54,54,100,NNE,8,0,29.5,0,Light Rain
+8/21/2022,55,54,94,NNE,9,0,29.5,0,Light Rain
+8/21/2022,55,54,94,NNE,10,0,29.5,0,Light Rain
+8/21/2022,55,53,93,NE,12,0,29.5,0,Light Rain
+8/21/2022,55,54,94,NE,10,0,29.5,0,Light Rain
+8/21/2022,54,54,100,NNE,9,0,29.5,0,Light Rain
+8/21/2022,55,54,94,NNE,9,0,29.51,0,Light Rain
+8/21/2022,54,54,100,NE,9,0,29.51,0,Light Rain
+8/21/2022,55,54,94,NNE,9,0,29.51,0,Light Rain
+8/21/2022,55,53,93,NNE,8,0,29.51,0,Light Rain
+8/21/2022,55,54,94,NE,10,0,29.51,0,Light Rain
+8/21/2022,54,54,100,NNE,9,0,29.52,0,Light Rain
+8/21/2022,54,54,100,NE,9,0,29.52,0,Light Rain
+8/21/2022,54,54,100,NE,9,0,29.52,0,Light Rain
+8/21/2022,54,54,100,NNE,8,0,29.52,0,Light Rain
+8/21/2022,54,53,97,NE,9,0,29.52,0,Light Rain
+8/21/2022,55,54,94,NNE,10,0,29.52,0,Light Rain
+8/21/2022,55,54,94,NNE,7,0,29.52,0,Cloudy
+8/21/2022,55,54,94,NNE,12,0,29.51,0,Light Rain
+8/21/2022,55,53,93,NNE,10,0,29.51,0,Light Rain
+8/21/2022,55,54,94,NNE,10,0,29.51,0,Light Rain
+8/21/2022,54,54,100,NNE,10,0,29.51,0,Light Rain
+8/21/2022,54,53,97,NNE,10,18,29.51,0,Light Rain
+8/21/2022,54,54,100,NNE,10,18,29.51,0,Light Rain
+8/21/2022,54,54,100,NNE,12,17,29.51,0,Light Rain
+8/21/2022,55,54,94,NE,12,18,29.51,0,Light Rain
+8/21/2022,54,54,100,NNE,10,18,29.51,0,Light Rain
+8/21/2022,54,53,97,NE,10,0,29.51,0,Light Rain
+8/21/2022,54,54,100,NE,10,0,29.51,0,Light Rain
+8/21/2022,54,53,97,NNE,8,0,29.52,0,Light Rain
+8/21/2022,55,54,94,NNE,9,0,29.51,0,Cloudy
+8/21/2022,54,54,100,NNE,8,0,29.52,0,Light Rain
+8/21/2022,54,54,100,NNE,9,0,29.51,0,Light Rain
+8/21/2022,54,53,97,NE,9,0,29.52,0,Light Rain
+8/21/2022,54,52,94,NE,9,0,29.52,0,Cloudy
+8/21/2022,54,52,94,NNE,7,0,29.52,0,Cloudy
+8/21/2022,54,52,93,NNE,8,0,29.53,0,Light Rain
+8/21/2022,54,52,94,NE,3,0,29.53,0,Cloudy
+8/21/2022,54,52,93,CALM,0,0,29.53,0,Cloudy
+8/21/2022,52,52,100,CALM,0,0,29.52,0,Cloudy
+8/21/2022,53,51,93,CALM,0,0,29.52,0,Cloudy
+8/22/2022,52,52,100,CALM,0,0,29.52,0,Cloudy
+8/22/2022,53,51,93,NW,6,0,29.49,0,Light Rain
+8/22/2022,53,51,93,CALM,0,0,29.48,0,Light Rain
+8/22/2022,55,51,86,N,10,0,29.46,0,Light Rain
+8/22/2022,54,52,93,CALM,0,0,29.44,0,Light Rain
+8/22/2022,54,52,94,NNE,5,0,29.44,0,Light Rain
+8/22/2022,54,52,94,N,6,0,29.44,0,Light Rain
+8/22/2022,54,52,93,N,5,0,29.44,0,Light Rain
+8/22/2022,54,52,94,NNE,5,0,29.44,0,Light Rain
+8/22/2022,55,52,88,NNE,5,0,29.44,0,Light Rain
+8/22/2022,55,52,88,NNE,6,0,29.44,0,Light Rain
+8/22/2022,55,52,89,NNE,7,0,29.44,0,Light Rain
+8/22/2022,55,53,93,CALM,0,0,29.44,0,Light Rain
+8/22/2022,55,54,94,N,3,0,29.44,0,Cloudy
+8/22/2022,57,53,87,N,8,0,29.46,0,Cloudy
+8/22/2022,55,54,94,NNE,5,0,29.46,0,Cloudy
+8/22/2022,57,54,88,N,5,0,29.48,0,Light Rain
+8/22/2022,57,54,88,ENE,6,0,29.48,0,Light Rain
+8/22/2022,55,54,94,VAR,5,0,29.5,0,Light Rain
+8/22/2022,55,54,94,ENE,6,0,29.5,0,Light Rain
+8/22/2022,55,54,94,VAR,5,0,29.5,0,Light Rain
+8/22/2022,55,54,94,VAR,6,0,29.5,0,Light Rain
+8/22/2022,55,54,94,NE,6,0,29.5,0,Light Rain
+8/22/2022,56,54,93,NNE,6,0,29.5,0,Light Rain
+8/22/2022,55,54,94,NNE,6,0,29.5,0,Light Rain
+8/22/2022,55,54,94,NNE,6,0,29.51,0,Light Rain
+8/22/2022,55,54,94,VAR,6,0,29.51,0,Light Rain
+8/22/2022,55,54,94,NE,8,0,29.51,0,Light Rain
+8/22/2022,55,54,94,NNE,10,0,29.51,0,Light Rain
+8/22/2022,55,54,94,NE,8,0,29.51,0,Light Rain
+8/22/2022,55,54,94,NE,8,0,29.51,0,Light Rain
+8/22/2022,57,54,89,NE,10,0,29.51,0,Light Rain
+8/22/2022,57,54,88,NE,7,0,29.51,0,Light Rain
+8/22/2022,57,54,88,NE,8,0,29.52,0,Light Rain
+8/22/2022,57,54,88,NE,8,0,29.52,0,Light Rain
+8/22/2022,57,54,88,NE,6,0,29.52,0,Cloudy
+8/22/2022,57,54,88,VAR,6,0,29.53,0,Cloudy
+8/22/2022,57,54,89,VAR,6,0,29.53,0,Cloudy
+8/22/2022,55,54,94,NE,6,0,29.54,0,Cloudy
+8/22/2022,55,54,94,VAR,5,0,29.55,0,Cloudy
+8/22/2022,55,52,88,NNE,6,0,29.55,0,Cloudy
+8/22/2022,57,54,88,NE,7,0,29.54,0,Mostly Cloudy
+8/22/2022,55,54,94,NE,5,0,29.55,0,Cloudy
+8/22/2022,55,54,94,NNE,8,0,29.55,0,Mostly Cloudy
+8/22/2022,56,53,90,NE,8,0,29.55,0,Mostly Cloudy
+8/22/2022,57,54,88,VAR,5,0,29.56,0,Mostly Cloudy
+8/22/2022,58,53,84,VAR,5,0,29.56,0,Mostly Cloudy
+8/22/2022,57,54,88,NE,5,0,29.56,0,Cloudy
+8/22/2022,57,54,88,NE,3,0,29.57,0,Cloudy
+8/22/2022,56,53,90,NNE,6,0,29.57,0,Cloudy
+8/22/2022,55,54,94,N,7,0,29.57,0,Cloudy
+8/22/2022,55,54,94,N,7,0,29.58,0,Cloudy
+8/22/2022,55,52,89,CALM,0,0,29.61,0,Cloudy
+8/22/2022,54,52,93,CALM,0,0,29.62,0,Cloudy
+8/22/2022,54,52,94,NE,3,0,29.63,0,Cloudy
+8/22/2022,54,52,93,CALM,0,0,29.63,0,Cloudy
+8/23/2022,53,52,96,NNE,3,0,29.63,0,Cloudy
+8/23/2022,54,52,94,NNE,5,0,29.64,0,Cloudy
+8/23/2022,54,52,94,CALM,0,0,29.64,0,Cloudy
+8/23/2022,53,52,96,CALM,0,0,29.64,0,Cloudy
+8/23/2022,54,52,94,S,3,0,29.64,0,Cloudy
+8/23/2022,54,52,94,SSE,3,0,29.63,0,Cloudy
+8/23/2022,54,52,94,SSE,3,0,29.62,0,Cloudy
+8/23/2022,53,52,96,CALM,0,0,29.63,0,Cloudy
+8/23/2022,54,52,94,CALM,0,0,29.63,0,Cloudy
+8/23/2022,54,52,94,CALM,0,0,29.63,0,Cloudy
+8/23/2022,53,52,96,CALM,0,0,29.63,0,Cloudy
+8/23/2022,52,52,100,CALM,0,0,29.63,0,Cloudy
+8/23/2022,52,52,100,CALM,0,0,29.63,0,Cloudy
+8/23/2022,54,52,94,SSE,3,0,29.63,0,Cloudy
+8/23/2022,53,52,96,CALM,0,0,29.64,0,Cloudy
+8/23/2022,54,54,100,SSE,3,0,29.64,0,Cloudy
+8/23/2022,54,54,100,S,6,0,29.64,0,Cloudy
+8/23/2022,54,54,100,SSE,7,0,29.64,0,Cloudy
+8/23/2022,54,54,100,S,6,0,29.64,0,Cloudy
+8/23/2022,53,53,100,S,7,0,29.64,0,Light Rain
+8/23/2022,54,54,100,SSE,7,0,29.64,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.64,0,Light Rain
+8/23/2022,54,54,100,SSE,7,0,29.64,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.64,0,Light Rain
+8/23/2022,54,53,97,SSE,7,0,29.64,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,53,53,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,53,97,SSE,6,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,7,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.66,0,Light Rain
+8/23/2022,54,54,100,SSE,7,0,29.66,0,Light Rain
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Light Rain
+8/23/2022,55,54,94,SSE,9,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,8,0,29.65,0,Cloudy
+8/23/2022,54,53,97,SSE,7,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,7,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,7,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,7,0,29.65,0,Cloudy
+8/23/2022,54,54,100,SSE,7,0,29.66,0,Cloudy
+8/23/2022,54,54,100,SSE,6,0,29.65,0,Fog
+8/23/2022,54,54,100,S,7,0,29.66,0,Light Rain
+8/23/2022,54,54,100,SSE,6,0,29.66,0,Light Rain
+8/23/2022,54,54,100,S,5,0,29.66,0,Light Rain
+8/23/2022,54,54,100,S,5,0,29.65,0,Light Rain
+8/23/2022,54,53,97,S,5,0,29.65,0,Light Rain
+8/23/2022,54,54,100,S,5,0,29.65,0,Light Rain
+8/23/2022,54,54,100,SSW,5,0,29.65,0,Light Rain
+8/23/2022,54,54,100,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,54,100,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,53,97,SSW,3,0,29.66,0,Light Rain
+8/23/2022,54,54,100,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,54,100,NNE,3,0,29.66,0,Light Rain
+8/23/2022,54,54,100,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,54,100,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,53,97,CALM,0,0,29.66,0,Light Rain
+8/23/2022,54,53,97,CALM,0,0,29.68,0,Light Rain
+8/23/2022,54,52,94,CALM,0,0,29.69,0,Light Rain
+8/23/2022,53,52,96,CALM,0,0,29.7,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.71,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.72,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.73,0,Cloudy
+8/24/2022,53,52,96,CALM,0,0,29.74,0,Cloudy
+8/24/2022,54,52,94,CALM,0,0,29.74,0,Cloudy
+8/24/2022,54,52,94,NNE,5,0,29.74,0,Cloudy
+8/24/2022,53,52,96,NE,5,0,29.74,0,Cloudy
+8/24/2022,54,52,94,CALM,0,0,29.75,0,Cloudy
+8/24/2022,54,52,94,CALM,0,0,29.75,0,Cloudy
+8/24/2022,53,52,96,NNE,3,0,29.75,0,Light Rain
+8/24/2022,54,52,94,CALM,0,0,29.76,0,Light Rain
+8/24/2022,54,52,94,CALM,0,0,29.76,0,Cloudy
+8/24/2022,53,52,96,CALM,0,0,29.76,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.76,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.77,0,Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.77,0,Cloudy
+8/24/2022,53,52,96,CALM,0,0,29.78,0,Patches of Fog
+8/24/2022,54,52,94,CALM,0,0,29.79,0,Fog
+8/24/2022,54,52,94,CALM,0,0,29.79,0,Fog
+8/24/2022,54,52,94,NNE,3,0,29.79,0,Fog
+8/24/2022,54,52,94,CALM,0,0,29.79,0,Fog
+8/24/2022,54,52,94,CALM,0,0,29.79,0,Fog
+8/24/2022,54,52,94,CALM,0,0,29.79,0,Fog
+8/24/2022,52,52,100,CALM,0,0,29.8,0,Fog
+8/24/2022,52,52,100,CALM,0,0,29.8,0,Patches of Fog
+8/24/2022,52,52,100,CALM,0,0,29.81,0,Patches of Fog
+8/24/2022,52,52,100,CALM,0,0,29.81,0,Mostly Cloudy
+8/24/2022,52,51,97,CALM,0,0,29.82,0,Mostly Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.82,0,Mostly Cloudy
+8/24/2022,52,52,100,CALM,0,0,29.83,0,Mostly Cloudy
+8/24/2022,54,52,94,N,3,0,29.84,0,Mostly Cloudy
+8/24/2022,54,52,94,CALM,0,0,29.84,0,Mostly Cloudy
+8/24/2022,54,54,100,NNW,3,0,29.85,0,Mostly Cloudy
+8/24/2022,54,54,100,CALM,0,0,29.85,0,Mostly Cloudy
+8/24/2022,54,53,97,CALM,0,0,29.85,0,Mostly Cloudy
+8/24/2022,54,52,93,NE,5,0,29.87,0,Cloudy
+8/24/2022,54,52,94,NE,3,0,29.87,0,Mostly Cloudy
+8/24/2022,56,53,90,NNE,6,0,29.86,0,Mostly Cloudy
+8/24/2022,55,52,88,NNE,6,0,29.87,0,Mostly Cloudy
+8/24/2022,57,54,88,S,6,0,29.87,0,Mostly Cloudy
+8/24/2022,57,54,88,S,5,0,29.87,0,Mostly Cloudy
+8/24/2022,57,54,88,VAR,5,0,29.87,0,Mostly Cloudy
+8/24/2022,58,54,87,S,5,0,29.87,0,Mostly Cloudy
+8/24/2022,59,54,82,S,6,0,29.87,0,Mostly Cloudy
+8/24/2022,59,54,82,S,5,0,29.87,0,Mostly Cloudy
+8/24/2022,57,54,88,SSE,6,0,29.88,0,Mostly Cloudy
+8/24/2022,61,54,77,SSE,8,0,29.89,0,Mostly Cloudy
+8/24/2022,60,53,78,SSE,8,0,29.89,0,Mostly Cloudy
+8/24/2022,59,53,81,SSE,10,0,29.9,0,Mostly Cloudy
+8/24/2022,57,54,88,SSE,10,0,29.91,0,Mostly Cloudy
+8/24/2022,56,53,90,SSE,8,0,29.92,0,Mostly Cloudy
+8/24/2022,57,54,88,SSE,8,0,29.92,0,Mostly Cloudy
+8/24/2022,58,52,81,SSE,7,0,29.91,0,Mostly Cloudy
+8/24/2022,59,52,77,SSE,7,0,29.92,0,Partly Cloudy
+8/24/2022,60,52,75,SSE,8,0,29.92,0,Partly Cloudy
+8/24/2022,59,52,77,SSE,8,0,29.92,0,Fair
+8/24/2022,57,54,88,SE,5,0,29.93,0,Mostly Cloudy
+8/24/2022,57,54,88,CALM,0,0,29.94,0,Partly Cloudy
+8/24/2022,56,52,87,S,7,0,29.95,0,Fair
+8/24/2022,55,52,88,S,8,0,29.96,0,Mostly Cloudy
+8/24/2022,55,52,89,S,10,0,30,0,Fair
+8/24/2022,55,51,86,S,9,0,30,0,Cloudy
+8/25/2022,55,51,86,S,12,0,30,0,Cloudy
+8/25/2022,54,50,86,SSW,10,0,30.01,0,Cloudy
+8/25/2022,54,50,88,S,14,0,30.01,0,Cloudy
+8/25/2022,54,50,88,SSW,13,0,30.02,0,Cloudy
+8/25/2022,54,48,82,S,14,0,30.02,0,Mostly Cloudy
+8/25/2022,54,48,82,S,14,0,30.01,0,Partly Cloudy
+8/25/2022,54,48,82,S,13,0,30.01,0,Mostly Cloudy
+8/25/2022,53,49,86,S,18,22,30.01,0,Mostly Cloudy
+8/25/2022,54,48,82,S,17,0,30,0,Partly Cloudy
+8/25/2022,54,48,82,S,16,0,30.01,0,Mostly Cloudy
+8/25/2022,53,49,86,S,13,0,30.01,0,Light Rain
+8/25/2022,54,49,83,S,14,0,30,0,Cloudy
+8/25/2022,54,50,86,S,15,0,29.99,0,Cloudy
+8/25/2022,53,51,93,S,17,0,29.97,0,Light Rain
+8/25/2022,54,52,94,S,18,0,29.97,0,Light Rain
+8/25/2022,54,53,97,S,20,0,29.96,0,Light Rain
+8/25/2022,54,54,100,S,17,0,29.95,0,Light Rain
+8/25/2022,55,53,93,S,23,29,29.93,0,Light Rain / Windy
+8/25/2022,55,53,93,S,22,30,29.92,0,Light Rain / Windy
+8/25/2022,55,53,93,S,28,33,29.9,0,Light Rain / Windy
+8/25/2022,55,53,93,S,28,32,29.89,0,Light Rain / Windy
+8/25/2022,55,54,94,S,20,26,29.89,0,Light Rain
+8/25/2022,55,54,94,S,20,29,29.88,0,Light Rain
+8/25/2022,55,53,93,S,20,25,29.87,0,Light Rain
+8/25/2022,55,54,94,S,22,26,29.86,0,Light Rain / Windy
+8/25/2022,55,53,93,S,18,0,29.86,0,Light Rain
+8/25/2022,55,54,94,S,18,0,29.86,0,Light Rain
+8/25/2022,55,54,94,S,22,30,29.85,0,Light Rain / Windy
+8/25/2022,55,54,94,S,20,30,29.85,0,Light Rain
+8/25/2022,55,54,94,SSW,20,25,29.84,0,Light Rain
+8/25/2022,55,54,94,S,21,0,29.84,0,Light Rain / Windy
+8/25/2022,55,53,93,SSW,16,0,29.84,0,Light Rain
+8/25/2022,55,54,94,S,16,22,29.84,0,Light Rain
+8/25/2022,56,52,87,SSW,14,0,29.84,0,Light Rain
+8/25/2022,55,52,88,SSW,12,0,29.84,0,Light Rain
+8/25/2022,55,52,88,S,16,0,29.83,0,Light Rain
+8/25/2022,55,52,89,S,9,0,29.81,0,Cloudy
+8/25/2022,54,52,93,NNE,3,0,29.83,0,Cloudy
+8/25/2022,54,52,93,CALM,0,0,29.83,0,Cloudy
+8/25/2022,53,51,93,NNW,3,0,29.84,0,Mostly Cloudy
+8/26/2022,53,49,86,WNW,6,0,29.85,0,Fair
+8/26/2022,52,48,88,WNW,8,0,29.86,0,Mostly Cloudy
+8/26/2022,52,49,89,NW,5,0,29.86,0,Cloudy
+8/26/2022,52,48,88,CALM,0,0,29.86,0,Mostly Cloudy
+8/26/2022,50,48,94,CALM,0,0,29.87,0,Mostly Cloudy
+8/26/2022,48,46,93,CALM,0,0,29.87,0,Partly Cloudy
+8/26/2022,49,48,97,CALM,0,0,29.87,0,Partly Cloudy
+8/26/2022,50,48,93,CALM,0,0,29.86,0,Partly Cloudy
+8/26/2022,50,47,89,CALM,0,0,29.86,0,Partly Cloudy
+8/26/2022,50,48,93,CALM,0,0,29.87,0,Mostly Cloudy
+8/26/2022,52,49,89,ENE,3,0,29.87,0,Mostly Cloudy
+8/26/2022,54,50,88,SSE,5,0,29.87,0,Mostly Cloudy
+8/26/2022,55,51,86,S,3,0,29.87,0,Mostly Cloudy
+8/26/2022,56,51,84,CALM,0,0,29.86,0,Mostly Cloudy
+8/26/2022,56,51,84,SSE,5,0,29.83,0,Mostly Cloudy
+8/26/2022,55,51,86,CALM,0,0,29.85,0,Mostly Cloudy
+8/26/2022,55,50,83,S,7,0,29.84,0,Mostly Cloudy
+8/26/2022,55,50,83,S,7,0,29.81,0,Partly Cloudy
+8/26/2022,55,50,82,S,8,0,29.8,0,Mostly Cloudy
+8/26/2022,55,52,88,S,13,0,29.8,0,Mostly Cloudy
+8/26/2022,55,51,86,S,12,0,29.8,0,Mostly Cloudy
+8/26/2022,54,50,86,S,13,0,29.79,0,Partly Cloudy
+8/26/2022,54,50,88,S,14,0,29.8,0,Fair
+8/26/2022,56,51,84,SSE,7,0,29.78,0,Fair
+8/26/2022,55,50,83,S,8,0,29.78,0,Fair
+8/26/2022,52,49,89,SSE,8,0,29.78,0,Fair
+8/26/2022,53,48,83,NW,6,0,29.77,0,Fair
+8/27/2022,54,48,82,SW,3,0,29.77,0,Mostly Cloudy
+8/27/2022,52,48,86,S,3,0,29.77,0,Mostly Cloudy
+8/27/2022,50,48,94,CALM,0,0,29.76,0,Partly Cloudy
+8/27/2022,49,47,93,CALM,0,0,29.76,0,Fair
+8/27/2022,52,48,88,W,6,0,29.75,0,Mostly Cloudy
+8/27/2022,51,49,92,W,7,0,29.75,0,Cloudy
+8/27/2022,51,48,89,W,6,0,29.74,0,Cloudy
+8/27/2022,51,47,86,W,3,0,29.72,0,Cloudy
+8/27/2022,51,46,83,NW,3,0,29.71,0,Cloudy
+8/27/2022,50,46,86,W,5,0,29.7,0,Mostly Cloudy
+8/27/2022,48,46,93,WNW,5,0,29.69,0,Partly Cloudy
+8/27/2022,49,46,90,WNW,3,0,29.69,0,Partly Cloudy
+8/27/2022,50,46,86,NNW,3,0,29.69,0,Mostly Cloudy
+8/27/2022,51,46,83,W,3,0,29.68,0,Mostly Cloudy
+8/27/2022,53,47,80,SSE,6,0,29.67,0,Mostly Cloudy
+8/27/2022,53,47,80,S,3,0,29.67,0,Mostly Cloudy
+8/27/2022,55,47,74,WNW,9,0,29.65,0,Mostly Cloudy
+8/27/2022,54,49,83,NW,12,0,29.64,0,Light Rain
+8/27/2022,54,49,83,WNW,10,0,29.63,0,Light Rain
+8/27/2022,53,48,83,WNW,10,0,29.63,0,Light Rain
+8/27/2022,53,49,86,W,8,0,29.62,0,Light Rain
+8/27/2022,53,48,83,WNW,9,0,29.61,0,Cloudy
+8/27/2022,54,48,82,WNW,10,0,29.61,0,Cloudy
+8/27/2022,52,48,88,WNW,10,0,29.61,0,Cloudy
+8/27/2022,52,48,86,WNW,9,0,29.61,0,Cloudy
+8/27/2022,52,48,86,W,7,0,29.61,0,Cloudy
+8/27/2022,52,48,88,WNW,8,0,29.61,0,Cloudy
+8/27/2022,52,48,88,NW,8,0,29.62,0,Light Rain
