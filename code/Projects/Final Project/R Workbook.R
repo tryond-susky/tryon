@@ -1,24 +1,61 @@
 #setting working directory and inputting data
 
-setwd("C:/Github/tryon/code/Projects/Final Project")
+  setwd("C:/Github/tryon/code/Projects/Final Project")
 
 #Fish Data
-Nelson <- read.csv("NelsonFishCounts.csv", header=TRUE)
-Ilnik <- read.csv("IlnikFishCounts.csv", header=TRUE)
-Bear <- read.csv("BearFishCounts.csv", header=TRUE)
-Sandy <- read.csv("SandyFishCounts.csv", header=TRUE)
+  Nelson <- read.csv("NelsonFishCounts.csv", header=TRUE)
+  Ilnik <- read.csv("IlnikFishCounts.csv", header=TRUE)
+  Bear <- read.csv("BearFishCounts.csv", header=TRUE)
+  Sandy <- read.csv("SandyFishCounts.csv", header=TRUE)
+  
+  #Merge Weather Data
+  fishdata <- rbind(Nelson,Ilnik,Bear,Sandy)
+      
+      #rename columns
+      names(fishdata)[2] <- 'date'
 
 #Weather Data
 
-Juneweather <- read.csv("Juneweatherdata.csv", header = TRUE)
-head(Juneweather)
+  weather <- read.csv("weatherdata.csv", header = TRUE)
+  head(weather)
+  colnames(weather)
 
-colnames(Juneweather)
+    #aggregate numeric data by date
 
-aggregate(Juneweather[,c(2,3)], by= list(Juneweather$Time), FUN = "mean")
+       numericweather <- aggregate(weather[,c(2,3,4,5,6,7,8)], by= list(weather$Time), FUN = "mean")
+       
+       #rename columns
+       names(numericweather)[1] <- 'date'
 
-max(table(Juneweather$Wind))
+    #create table for wind then sort for the predominant direction
 
-wind <- function(x) names(sort(table(x),decreasing = TRUE)[1])
+       max(table(weather$Wind))
+       Windfunction <- function(x) names(sort(table(x),decreasing = TRUE)[1])
+       Wind <- aggregate(weather$Wind, by= list(weather$Time), FUN = "Windfunction")
+       
+       #rename columns
+       names(Wind) <- c('date', 'Wind')
 
-aggregate(Juneweather$Wind, by= list(Juneweather$Time), FUN = "wind")
+    #create table for condition then sort for the predominant direction
+
+        max(table(weather$Condition))
+        conditionfunction <- function(x) names(sort(table(x),decreasing = TRUE)[1])
+        condition <- aggregate(weather$Condition, by= list(weather$Time), FUN = "conditionfunction")
+        
+        #rename columns
+        names(condition) <- c('date', 'condition')
+    
+    #Merge Weather Data numeric and character
+        characterweather <- merge(condition,Wind, by = "date")
+        weatherdata <- merge(characterweather,numericweather, by = "date")
+
+#Merge Weather and Fish!!
+        data <- merge(weatherdata, fishdata, by = "date")
+        colnames(data) 
+        #rename columns
+        names(data) <- c('date', 'condition',"wind","temperature","dew.point","humidity","wind get rid of","wind.speed","wind.gust","pressure", "year","fish.count","species", "speices.id","location","location.id")
+        #get rid of extra wind column
+        data <- data[,-7]
+
+#Running the Stats
+  install.packages(glmm)      
