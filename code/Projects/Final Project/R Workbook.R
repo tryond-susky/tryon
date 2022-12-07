@@ -15,6 +15,10 @@ head(Juneweather)
 
 colnames(Juneweather)
 
-aggregate(Juneweather[,2:3], by= list(Juneweather$Time), FUN = "mean")
-table(Juneweather)[,max(table(Juneweather$Wind))]
+aggregate(Juneweather[,c(2,3)], by= list(Juneweather$Time), FUN = "mean")
 
+max(table(Juneweather$Wind))
+
+wind <- function(x) names(sort(table(x),decreasing = TRUE)[1])
+
+aggregate(Juneweather$Wind, by= list(Juneweather$Time), FUN = "wind")
