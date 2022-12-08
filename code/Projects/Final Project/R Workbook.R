@@ -58,4 +58,21 @@
         data <- data[,-7]
 
 #Running the Stats
+        #Salmon Run 2022
+        ####Scatterplot
+        # Create a scatter plot between two of your numeric columns.
+        # Change the point shape and color to something NOT used in the example.
+        # Change the x and y labels and add a title
+        # Export the plot as a JPEG by using the "Export" button in the plotting pane.
+        
+        plot(data$date ~ data$fish.count, ylim = 10,000,xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", pch = 8 , col = "dodgerblue2")
+        
+        ?plot.ecdf
+        ?pch
+        demo('colors')
+        
+        #Table
+        sum(table(data$fish.count))
+        stargazer package
+        
   install.packages(glmm)      
