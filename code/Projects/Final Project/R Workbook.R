@@ -1,6 +1,10 @@
 library(stringr)
 library(readr)
 
+library(MASS)
+library(MuMIn)
+library(mgcv)
+
 #setting working directory and inputting data
 
   setwd("C:/Github/tryon/code/Projects/Final Project")
@@ -101,4 +105,8 @@ plot(data$fish.count~factor(data$condition))
         sum(table(data$fish.count))
         stargazer package
         
-  install.packages(glmm)      
+##GAMM for all 
+        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed + data$wind.gust + data$pressure + data$species + data$location, family = gaussian, random = ~ 1 | location, data = data)
+        plot(gamm.mod1)
+        AIC(gamm.mod1)
+summary(gamm.mod1)
