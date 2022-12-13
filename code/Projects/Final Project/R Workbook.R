@@ -4,23 +4,28 @@ library(readr)
 library(MASS)
 library(MuMIn)
 library(mgcv)
+install.packages("stargazer")
+library(stargazer)
+
 
 #setting working directory and inputting data
 
   setwd("C:/Github/tryon/code/Projects/Final Project")
 
 #Fish Data
+  #read in with dates changed to numeric from character
   Bear <- read_csv("BearFishCounts.csv", col_types = cols(count_date = col_date(format = "%m/%d/%Y")))  
   Nelson <- read_csv("NelsonFishCounts.csv", col_types = cols(count_date = col_date(format = "%m/%d/%Y")))
   Ilnik <- read_csv("IlnikFishCounts.csv", col_types = cols(count_date = col_date(format = "%m/%d/%Y")))
   Sandy <- read_csv("SandyFishCounts.csv", col_types = cols(count_date = col_date(format = "%m/%d/%Y")))  
   
-  #Merge Weather Data
+  #Combine Fish Data from all locations
   fishdata <- rbind(Nelson,Ilnik,Bear,Sandy)
       
-      #rename columns
+      #rename columns to make merging easier
       names(fishdata)[2] <- 'date'
       
+      #test plotting the master fishdata to make sure it works nicely
       plot(fishdata$fish_count ~ fishdata$date)
 
 
@@ -30,76 +35,77 @@ library(mgcv)
   head(weather)
   colnames(weather)
 
-    #aggregate numeric data by date
+    #aggregate numeric weather data by date so each date is respresented by average hourly data
 
        numericweather <- aggregate(weather[,c(2,3,4,5,6,7,8)], by= list(weather$Time), FUN = "mean")
        
-       #rename columns
+       #rename columns to make merging easier
        names(numericweather)[1] <- 'date'
 
-    #create table for wind then sort for the predominant direction
+    #create table for wind direction then sort for the predominant daily direction
 
        max(table(weather$Wind))
        Windfunction <- function(x) names(sort(table(x),decreasing = TRUE)[1])
        Wind <- aggregate(weather$Wind, by= list(weather$Time), FUN = "Windfunction")
        
-       #rename columns
+       #rename columns this simply adds understandable column headings
        names(Wind) <- c('date', 'Wind')
 
-    #create table for condition then sort for the predominant direction
+    #create table for condition then sort for the predominant daily condition
 
         max(table(weather$Condition))
         conditionfunction <- function(x) names(sort(table(x),decreasing = TRUE)[1])
         condition <- aggregate(weather$Condition, by= list(weather$Time), FUN = "conditionfunction")
         
-        #rename columns
+        #rename columns this simply adds understandable column headings
         names(condition) <- c('date', 'condition')
     
-    #Merge Weather Data numeric and character
+    #Merge Weather Data numeric and character: this pulls all the weather data together into weatherdata
         characterweather <- merge(condition,Wind, by = "date")
         weatherdata <- merge(characterweather,numericweather, by = "date")
 
-#Merge Weather and Fish!!
+#Merge Weather and Fish!!: this puts all the gathered data into one large data frame
         data <- as.data.frame(merge(weatherdata, fishdata, by = "date"))
         colnames(data) 
-        #rename columns
+        #rename columns to make them all match nicely
         names(data) <- c('date', 'condition',"wind","temperature","dew.point","humidity","wind get rid of","wind.speed","wind.gust","pressure", "year","fish.count","species", "speices.id","location","location.id")
-        #get rid of extra wind column
+        #get rid of extra wind column created with NAs
         data <- data[,-7]
+        
 
 #Running the Stats
-        #Salmon Run 2022
-        ####Scatterplot
+        #Understanding North Pennisula Salmon Run 2022
+    
         # Create a scatter plot between two of your numeric columns.
         # Change the point shape and color to something NOT used in the example.
         # Change the x and y labels and add a title
         # Export the plot as a JPEG by using the "Export" button in the plotting pane.
         
    
-              
-        plot(data$date, data$fish.count, xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", pch = 8 , col = "dodgerblue2")
+        # Create a scatter plot between date and daily fish counts      
+        plot(data$date, data$fish.count, xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", col = "black")
      
-chinook <-subset(data, data$species == "Chinook")        
-chum  <-subset(data, data$species == "Chum")         
-        
-        
-        
-        
-        
-plot(chinook$date, chinook$fish.count, type = "l" ,xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", pch = 8 , col = "dodgerblue2")     
-lines(chum$date, chum$fish.count, type = "l", col = "red")        
+      #Create A scatter plot between count per species throughout the season
+        #Make a subset from the data set to look at specific species
+        chinook <-subset(data, data$species == "Chinook")        
+        chum  <-subset(data, data$species == "Chum")  
+        coho  <-subset(data, data$species == "Coho") 
+        sockeye  <-subset(data, data$species == "Sockeye")
+        pink  <-subset(data, data$species == "Pink") 
+        #Create Scatter plot adding lines on for each species 
+          plot(chinook$date, chinook$fish.count, type = "l" ,xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
+          lines(chum$date, chum$fish.count, type = "l", col = "cyan4")
+          lines(coho$date, coho$fish.count, type = "l", col = "ivory4")
+          lines(sockeye$date, sockeye$fish.count, type = "l", col = "red")
+          lines(pink$date, pink$fish.count, type = "l", col = "pink")
+#If i want to add data points
 points(weatherdata$date, 10*weatherdata$`Wind Speed`)        
  
 
-
-plot(data$fish.count~factor(data$condition))
+    # Plot Sky condition and Count Distribution using a box plot
+plot(data$fish.count~factor(data$condition),xlab = "Condition", ylab = "Count", main = "Condition and Count Distribution")
 
   
-        barplot?
-          ?complete.cases
-        ?plot.ecdf
-        ?pch
-        demo('colors')
         
         #Table
         sum(table(data$fish.count))
