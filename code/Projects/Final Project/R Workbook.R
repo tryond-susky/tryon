@@ -85,7 +85,7 @@ library(stargazer)
         # Create a scatter plot between date and daily fish counts      
         plot(data$date, data$fish.count, xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", col = "black")
      
-      #Create A scatter plot between count per species throughout the season
+      #Create a scatter plot between count per species throughout the season
         #Make a subset from the data set to look at specific species
         chinook <-subset(data, data$species == "Chinook")        
         chum  <-subset(data, data$species == "Chum")  
@@ -93,26 +93,41 @@ library(stargazer)
         sockeye  <-subset(data, data$species == "Sockeye")
         pink  <-subset(data, data$species == "Pink") 
         #Create Scatter plot adding lines on for each species 
-          plot(chinook$date, chinook$fish.count, type = "l" ,xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
+          plot(chinook$date, chinook$fish.count, type = "l" ,xlab = "Date", ylab = "Count", ylim = c(0,3000), main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
           lines(chum$date, chum$fish.count, type = "l", col = "cyan4")
           lines(coho$date, coho$fish.count, type = "l", col = "ivory4")
-          lines(sockeye$date, sockeye$fish.count, type = "l", col = "red")
+          lines(sockeye$date, sockeye$fish.count/10, type = "l", col = "red")
           lines(pink$date, pink$fish.count, type = "l", col = "pink")
-#If i want to add data points
+          
+      #Create a scatter plot between count per location throughout the season
+          #Make a subset from the data set to look at specific species
+          Nelson <-subset(data, data$location == "Nelson River (Sapsuk)")
+          Sandy <-subset(data, data$location == "Sandy River")
+          Ilnik <-subset(data, data$location == "Ilnik River")
+          Bear <-subset(data, data$location == "Bear River")
+            #Create Scatter plot adding lines on for each species 
+            plot(Nelson$date, Nelson$fish.count,type = "l", xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "orange")     
+            lines(Sandy$date, Sandy$fish.count, type = "l", col = "purple")
+            lines(Ilnik$date, Ilnik$fish.count, type = "l", col = "blue")
+            lines(Bear$date, Bear$fish.count, type = "l", col = "red")
+            legend(1, 95, legend=c("Nelson", "Line 2"),
+                   col=c("orange", "blue"), lty=1:2, cex=0.8)
+
+          #If i want to add data points
 points(weatherdata$date, 10*weatherdata$`Wind Speed`)        
  
 
     # Plot Sky condition and Count Distribution using a box plot
 plot(data$fish.count~factor(data$condition),xlab = "Condition", ylab = "Count", main = "Condition and Count Distribution")
-
+legend("topleft", legend=c("Line 1", "Line 2"),
+       col=c("red", "blue"), lty=1:2, cex=0.8)
   
         
         #Table
         sum(table(data$fish.count))
         stargazer package
         
-##GAMM for all 
+##GAMM for all weather parameters 
         gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed + data$wind.gust + data$pressure + data$species + data$location, family = gaussian, random = ~ 1 | location, data = data)
-        plot(gamm.mod1)
         AIC(gamm.mod1)
-summary(gamm.mod1)
+        summary(gamm.mod1)
