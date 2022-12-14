@@ -5,9 +5,6 @@ library(readr)
 library(MASS)
 library(MuMIn)
 library(mgcv)
-install.packages("stargazer")
-library(stargazer)
-
 
 #setting working directory and inputting data
 
@@ -75,102 +72,75 @@ library(stargazer)
         
 
 #Running the Stats
-        #Understanding North Pennisula Salmon Run 2022
+        #Understanding North Peninsula Salmon Run 2022
     
-        # Create a scatter plot between date and daily fish counts      
+        # Create a scatter plot between date and daily fish counts by species      
         plot(data$date, data$fish.count,ylim = c(0,20000), xlab = "Time", ylab = "Daily Count", main = "Pacific Salmon 2022 Run", col = "black")
      
       #Create a scatter plot between count per species throughout the season
         #Make a subset from the data set to look at specific species
-        
-        ?subset
-        
         chinook <-subset(data, data$species == "Chinook") 
         chum  <-subset(data, data$species == "Chum")  
         coho  <-subset(data, data$species == "Coho") 
         sockeye  <-subset(data, data$species == "Sockeye")
         pink  <-subset(data, data$species == "Pink") 
         #Create Scatter plot adding lines on for each species *this helps us look at when the runs happen at each location
-          plot(chinook$date, chinook$fish.count, type = "h" ,xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
-          lines(chum$date, chum$fish.count, type = "h", col = "cyan4")
-          lines(coho$date, coho$fish.count, type = "h", col = "ivory4")
-          lines(sockeye$date, sockeye$fish.count, type = "h", col = "red")
-          lines(pink$date, pink$fish.count, type = "h", col = "pink")
-          
-      #Create a scatter plot between count per location throughout the season
-          #Make a subset from the data set to look at specific species
-          nelson <-subset(data, data$location == "Nelson River (Sapsuk)")
-          sandy <-subset(data, data$location == "Sandy River")
-          ilnik <-subset(data, data$location == "Ilnik River")
-          bear <-subset(data, data$location == "Bear River")
-            #Create Scatter plot adding lines on for each species 
-            plot(Nelson$count_date, Nelson$fish.count,type = "b", xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "orange")     
-            lines(Sandy$count_date, Sandy$fish.count, type = "l", col = "purple")
-            lines(Ilnik$count_date, Ilnik$fish.count, type = "l", col = "blue")
-            lines(Bear$count_date, Bear$fish.count, type = "l", col = "red")
-            legend("topleft",c("Not survived","Survived"),fill = c("red","green"))
-            
-            
-        barplot(Nelson$count_date,main = "Pacific Salmon 2022 Run",xlab = "Class", col = c("red","green"))
-            legend("topleft",
-                   c("Not survived","Survived"),
-                   fill = c("red","green")
-            )
-            barplot(data, 
-                    col=colors()[c(23,89,12)] , 
-                    border="white", 
-                    space=0.04, 
-                    font.axis=2, 
-                    xlab="group")
-            #Table
-            sum(table(data$fish.count))
-            stargazer package
-
-          #If i want to add data points
-points(weatherdata$date, 10*weatherdata$`Wind Speed`)        
- 
-
-    # Plot Sky condition and Count Distribution using a box plot
-plot(data$fish.count~factor(data$condition),xlab = "Condition", ylab = "Count", main = "Condition and Count Distribution")
-
-
-  
-legend("topright", legend=c("Line 1", "Line 2"),
-       col=c("red", "blue"), lty=1:2, cex=0.8)
+          plot(sockeye$date, sockeye$fish.count/10, type = "h" ,xlab = "Date", ylab = "Count", ylim = c(0,2000), main = "Pacific Salmon 2022 Run" , col = "red", lwd=5.0)     
+          lines(chum$date, chum$fish.count, type = "h", col = "cyan4", lwd=5.0)
+          lines(chinook$date, chinook$fish.count, type = "h", col = "lightsalmon", lwd=5.0)
+          lines(pink$date, pink$fish.count, type = "h", col = "pink", lwd=5.0)
+          lines(coho$date, coho$fish.count, type = "h", col = "ivory4", lwd=5.0)
+          legend("topright", legend=c("Chinook", "Chum", "Coho", "Sockeye / 10", "Pink"),col=c("lightsalmon", "cyan4", "ivory4", "red","pink"), lty=1:2, cex=0.8, lwd=5.0)
       
         
-##GAMM for all weather parameters 
+##GAMM for all weather parameters to identifiy the most predominant weather factor
         gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed + data$wind.gust + data$pressure, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
             
         ##GAMM minus wind gust
-        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed  + data$pressure, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
         ##GAMM wind speed
-        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$pressure, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
         ##GAMM minus temperature
-        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind +  data$dew.point + data$humidity +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$dew.point + data$humidity + data$pressure, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
         ##GAMM minus pressure
-        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$dew.point + data$humidity + data$wind.speed, family = gaussian, random = ~ 1 | location, data = data)
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$dew.point + data$humidity, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
-        ##GAMM minus wind speed
-        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$dew.point + data$humidity, family = gaussian, random = ~ 1 | location, data = data)
+        ##GAMM minus humidity
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$dew.point, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
-        ##GAMM minus wind speed
-        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind+ data$wind.speed, family = gaussian, random = ~ 1 | location, data = data)
+        ##GAMM minus dew point
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
         
+        ##GAMM of condition
+        gamm.mod1 <- gam(data$fish.count ~ data$condition, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM of wind direction
+        gamm.mod1 <- gam(data$fish.count ~ data$wind, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+  # Plot Sky condition and Count Distribution using a box plot
+   plot(data$fish.count~factor(data$condition),xlab = "Condition", ylab = "Count", main = "Condition and Count Distribution")
+        
+   # Plot Wind Direction and Count Distribution using a box plot
+   plot(data$fish.count~factor(data$wind),xlab = "Wind Direction", ylab = "Count", main = "Wind Direction and Count Distribution")
+   
