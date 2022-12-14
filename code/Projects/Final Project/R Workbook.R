@@ -1,3 +1,4 @@
+##Packages
 library(stringr)
 library(readr)
 
@@ -76,14 +77,8 @@ library(stargazer)
 #Running the Stats
         #Understanding North Pennisula Salmon Run 2022
     
-        # Create a scatter plot between two of your numeric columns.
-        # Change the point shape and color to something NOT used in the example.
-        # Change the x and y labels and add a title
-        # Export the plot as a JPEG by using the "Export" button in the plotting pane.
-        
-   
         # Create a scatter plot between date and daily fish counts      
-        plot(data$date, data$fish.count, xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", col = "black")
+        plot(data$date, data$fish.count,ylim = c(0,20000), xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", col = "black")
      
       #Create a scatter plot between count per species throughout the season
         #Make a subset from the data set to look at specific species
@@ -93,25 +88,37 @@ library(stargazer)
         sockeye  <-subset(data, data$species == "Sockeye")
         pink  <-subset(data, data$species == "Pink") 
         #Create Scatter plot adding lines on for each species 
-          plot(chinook$date, chinook$fish.count, type = "l" ,xlab = "Date", ylab = "Count", ylim = c(0,3000), main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
-          lines(chum$date, chum$fish.count, type = "l", col = "cyan4")
-          lines(coho$date, coho$fish.count, type = "l", col = "ivory4")
-          lines(sockeye$date, sockeye$fish.count/10, type = "l", col = "red")
-          lines(pink$date, pink$fish.count, type = "l", col = "pink")
+          plot(chinook$date, chinook$fish.count, type = "h" ,xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
+          lines(chum$date, chum$fish.count, type = "h", col = "cyan4")
+          lines(coho$date, coho$fish.count, type = "h", col = "ivory4")
+          lines(sockeye$date, sockeye$fish.count, type = "h", col = "red")
+          lines(pink$date, pink$fish.count, type = "h", col = "pink")
           
       #Create a scatter plot between count per location throughout the season
           #Make a subset from the data set to look at specific species
-          Nelson <-subset(data, data$location == "Nelson River (Sapsuk)")
-          Sandy <-subset(data, data$location == "Sandy River")
-          Ilnik <-subset(data, data$location == "Ilnik River")
-          Bear <-subset(data, data$location == "Bear River")
+          nelson <-subset(data, data$location == "Nelson River (Sapsuk)")
+          sandy <-subset(data, data$location == "Sandy River")
+          ilnik <-subset(data, data$location == "Ilnik River")
+          bear <-subset(data, data$location == "Bear River")
             #Create Scatter plot adding lines on for each species 
-            plot(Nelson$date, Nelson$fish.count,type = "l", xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "orange")     
-            lines(Sandy$date, Sandy$fish.count, type = "l", col = "purple")
-            lines(Ilnik$date, Ilnik$fish.count, type = "l", col = "blue")
-            lines(Bear$date, Bear$fish.count, type = "l", col = "red")
-            legend(1, 95, legend=c("Nelson", "Line 2"),
-                   col=c("orange", "blue"), lty=1:2, cex=0.8)
+            plot(Nelson$count_date, Nelson$fish.count,type = "b", xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "orange")     
+            lines(Sandy$count_date, Sandy$fish.count, type = "l", col = "purple")
+            lines(Ilnik$count_date, Ilnik$fish.count, type = "l", col = "blue")
+            lines(Bear$count_date, Bear$fish.count, type = "l", col = "red")
+            legend("topleft",c("Not survived","Survived"),fill = c("red","green"))
+            
+            
+        barplot(Nelson$count_date,main = "Pacific Salmon 2022 Run",xlab = "Class", col = c("red","green"))
+            legend("topleft",
+                   c("Not survived","Survived"),
+                   fill = c("red","green")
+            )
+            barplot(data, 
+                    col=colors()[c(23,89,12)] , 
+                    border="white", 
+                    space=0.04, 
+                    font.axis=2, 
+                    xlab="group")
 
           #If i want to add data points
 points(weatherdata$date, 10*weatherdata$`Wind Speed`)        
