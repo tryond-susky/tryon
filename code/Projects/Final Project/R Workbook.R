@@ -78,16 +78,19 @@ library(stargazer)
         #Understanding North Pennisula Salmon Run 2022
     
         # Create a scatter plot between date and daily fish counts      
-        plot(data$date, data$fish.count,ylim = c(0,20000), xlab = "Time", ylab = "Count", main = "Pacific Salmon 2022 Run", col = "black")
+        plot(data$date, data$fish.count,ylim = c(0,20000), xlab = "Time", ylab = "Daily Count", main = "Pacific Salmon 2022 Run", col = "black")
      
       #Create a scatter plot between count per species throughout the season
         #Make a subset from the data set to look at specific species
-        chinook <-subset(data, data$species == "Chinook")        
+        
+        ?subset
+        
+        chinook <-subset(data, data$species == "Chinook") 
         chum  <-subset(data, data$species == "Chum")  
         coho  <-subset(data, data$species == "Coho") 
         sockeye  <-subset(data, data$species == "Sockeye")
         pink  <-subset(data, data$species == "Pink") 
-        #Create Scatter plot adding lines on for each species 
+        #Create Scatter plot adding lines on for each species *this helps us look at when the runs happen at each location
           plot(chinook$date, chinook$fish.count, type = "h" ,xlab = "Date", ylab = "Count", ylim = c(0,20000), main = "Pacific Salmon 2022 Run" , col = "lightsalmon")     
           lines(chum$date, chum$fish.count, type = "h", col = "cyan4")
           lines(coho$date, coho$fish.count, type = "h", col = "ivory4")
@@ -119,6 +122,9 @@ library(stargazer)
                     space=0.04, 
                     font.axis=2, 
                     xlab="group")
+            #Table
+            sum(table(data$fish.count))
+            stargazer package
 
           #If i want to add data points
 points(weatherdata$date, 10*weatherdata$`Wind Speed`)        
@@ -126,15 +132,45 @@ points(weatherdata$date, 10*weatherdata$`Wind Speed`)
 
     # Plot Sky condition and Count Distribution using a box plot
 plot(data$fish.count~factor(data$condition),xlab = "Condition", ylab = "Count", main = "Condition and Count Distribution")
-legend("topleft", legend=c("Line 1", "Line 2"),
-       col=c("red", "blue"), lty=1:2, cex=0.8)
+
+
   
-        
-        #Table
-        sum(table(data$fish.count))
-        stargazer package
+legend("topright", legend=c("Line 1", "Line 2"),
+       col=c("red", "blue"), lty=1:2, cex=0.8)
+      
         
 ##GAMM for all weather parameters 
-        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed + data$wind.gust + data$pressure + data$species + data$location, family = gaussian, random = ~ 1 | location, data = data)
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed + data$wind.gust + data$pressure, family = gaussian, random = ~ 1 | location, data = data)
         AIC(gamm.mod1)
         summary(gamm.mod1)
+            
+        ##GAMM minus wind gust
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity + data$wind.speed +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM wind speed
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind + data$temperature + data$dew.point + data$humidity +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM minus temperature
+        gamm.mod1 <- gam(data$fish.count ~ data$condition + data$wind +  data$dew.point + data$humidity +  data$pressure, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM minus pressure
+        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$dew.point + data$humidity + data$wind.speed, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM minus wind speed
+        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind + data$dew.point + data$humidity, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
+        ##GAMM minus wind speed
+        gamm.mod1 <- gam(data$fish.count ~ data$date + data$condition + data$wind+ data$wind.speed, family = gaussian, random = ~ 1 | location, data = data)
+        AIC(gamm.mod1)
+        summary(gamm.mod1)
+        
